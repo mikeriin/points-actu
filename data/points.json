@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T20:24:09Z",
+ "updatedAt": "2026-10-03T20:27:07Z",
  "points": [
   {
    "id": "2026-10-03-18",
@@ -17,6 +17,24 @@
       "src": "franceinfo",
       "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-ce-stade-il-n-y-a-pas-de-garanties-deplore-sophie-venetitay-du-snes-fsu-apres-la-reunion-avec-le-ministere-de-l-education_8219677.html",
       "une": true
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Mobilisation lycéenne dans la Marne : 45 interpellations, surtout à Reims",
+      "resume": "Environ 1 350 jeunes ont manifesté vendredi dans la Marne pour le quatrième jour de mobilisation lycéenne en Champagne-Ardenne.",
+      "details": "Les interpellations ont eu lieu principalement à Reims. À Strasbourg, l'université a fermé ses portes après des heurts entre manifestants et forces de l'ordre sur le campus, dans le prolongement du mouvement national.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/alsace"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Haute-Garonne : l'avenir de l'unique unité de pédopsychiatrie du sud du département inquiète",
+      "resume": "Des inquiétudes se font jour sur le devenir de la seule unité de pédopsychiatrie du sud de la Haute-Garonne.",
+      "details": "Le sujet rejoint la question de l'accès aux soins psychiques des enfants en zone rurale, où l'offre est déjà très limitée.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/"
      }
     ]
    },
