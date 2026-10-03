@@ -1,1 +1,47 @@
-{"updatedAt":"2026-10-03T00:00:00Z","points":[]}
+{
+ "updatedAt": "2026-10-03T16:00:00Z",
+ "points": [
+  {
+   "id": "2026-10-03-18",
+   "label": "Point de 18h",
+   "date": "2026-10-03",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-03T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "t": "La Direction générale de l'armement évoque un automate robotisé destiné à assurer l'entretien du moteur du Rafale.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/03/la-direction-generale-de-larmement-evoque-un-automate-robotise-pour-assurer-lentretien-du-moteur-du-rafale/"
+     }
+    ],
+    "france": [
+     {
+      "t": "Le mouvement lycéen s'étend : près de 400 lycées restaient fermés vendredi, avec des heurts avec les forces de l'ordre et des incendies d'établissements. Sébastien Lecornu juge que « la réalité nous rattrape » face à des taux d'emprunt record.",
+      "src": "Boursorama",
+      "url": "https://boursorama.com/actualite-economique/actualites/fin-de-quinquennat-lugubre-pour-la-macronie-08993ad0d1e5d1e82580d988f9ec09fc"
+     }
+    ],
+    "grandest": [
+     {
+      "t": "Mobilisation lycéenne à Nancy : les forces de l'ordre ont dispersé à coups de gaz lacrymogène plusieurs centaines de jeunes devant le lycée Jeanne-d'Arc. Incendie la veille au soir au collège François-Rabelais de Metz, sans blessé.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy"
+     }
+    ],
+    "occitanie": [
+     {
+      "t": "Hérault en vigilance orange pluie-inondation jusqu'à 16h : 70 à 100 mm attendus, jusqu'à 150 mm localement, crues possibles sur l'Hérault amont, l'Orb amont et le Lez. Gard, Aude et Pyrénées-Orientales en jaune.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/risques-de-crues-soudaines-et-150-mm-de-pluie-meteo-france-declenche-la-vigilance-orange-dans-l-herault-samedi-et-surveille-les-departements-voisins-3427101.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le chuño andin",
+    "texte": "Dans les hauts plateaux des Andes, vers 3 800 m d'altitude, les paysans fabriquent depuis des siècles le chuño, une pomme de terre déshydratée. Les tubercules amers sont étalés la nuit sur le sol, où le gel les durcit, puis piétinés le jour pour en chasser l'eau, et enfin séchés au soleil. Cette alternance de gel et de soleil est répétée plusieurs jours. Le produit, noir ou blanc selon le procédé, devient léger et se conserve des années. Les Incas en stockaient dans des entrepôts d'État pour parer aux mauvaises récoltes. Il reste aujourd'hui un aliment courant au Pérou et en Bolivie."
+   }
+  }
+ ]
+}
