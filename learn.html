@@ -482,7 +482,7 @@ details.qa p{margin:8px 0 0;color:var(--ink-2)}
       var e=el("section","panel");e.appendChild(el("h2",null,"Exemples"));
       les.exemples.forEach(function(x){e.appendChild(exRow(x.cible,x.tr,x.fr))});m.appendChild(e);
     }
-    var c=el("section","panel");c.appendChild(el("h2",null,"6 nouveaux mots"));
+    var c=el("section","panel");c.appendChild(el("h2",null,les.cartes.length+" nouveaux mots"));
     c.appendChild(el("p",null,"Ils rejoignent tes révisions dès demain."));
     les.cartes.forEach(function(x){var r=exRow(x.cible,x.tr,x.fr);if(x.ex){var tx=r.querySelector(".txt");tx.appendChild(el("div","fr",x.ex+(x.extr?" ("+x.extr+")":"")+(x.exfr?" — "+x.exfr:"")))}c.appendChild(r)});
     m.appendChild(c);
