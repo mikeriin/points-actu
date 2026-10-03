@@ -22,7 +22,7 @@
 :root{
   --bg:#F6F4EF; --surface:#FFFFFF; --ink:#17181A; --ink-2:#3A3D42; --muted:#74777D; --line:#E4E1DA;
   --accent:#2F5D46; --accent-ink:#FFFFFF;
-  --c-def:#3F6B4E; --c-fra:#3554A5; --c-ge:#B0453A; --c-occ:#B0731A; --c-cul:#6B4FA0;
+  --c-def:#3F6B4E; --c-fra:#3554A5; --c-ge:#B0453A; --c-occ:#B0731A; --c-cul:#6B4FA0; --c-jv:#0E7C86;
   --serif:"Newsreader",Georgia,"Times New Roman",serif;
   --sans:"Manrope",system-ui,-apple-system,"Segoe UI",sans-serif;
   --r:18px;
@@ -31,7 +31,7 @@
 @media (prefers-color-scheme:dark){:root{
   --bg:#0E0F10; --surface:#17191B; --ink:#ECEAE5; --ink-2:#C9C7C1; --muted:#8D9096; --line:#26292C;
   --accent:#8CC5A3; --accent-ink:#0E0F10;
-  --c-def:#8CC5A3; --c-fra:#93AEF0; --c-ge:#F0998C; --c-occ:#E9BC6A; --c-cul:#BBA6EE;
+  --c-def:#8CC5A3; --c-fra:#93AEF0; --c-ge:#F0998C; --c-occ:#E9BC6A; --c-cul:#BBA6EE; --c-jv:#6FD3DB;
   color-scheme:dark}}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -156,7 +156,7 @@ a.src:hover{color:var(--c)}
 <script>
 (function(){
   var DATA="data/points.json";
-  var SECTIONS=[{k:"defense",t:"Défense",c:"--c-def"},{k:"france",t:"France",c:"--c-fra"},{k:"grandest",t:"Grand Est",c:"--c-ge"},{k:"occitanie",t:"Occitanie",c:"--c-occ"}];
+  var SECTIONS=[{k:"defense",t:"Défense",c:"--c-def"},{k:"france",t:"France",c:"--c-fra"},{k:"grandest",t:"Grand Est",c:"--c-ge"},{k:"occitanie",t:"Occitanie",c:"--c-occ"},{k:"jeuvideo",t:"Jeu vidéo",c:"--c-jv"}];
   var JOURS=["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
   var MOIS=["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"];
   var ARROW='<svg viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><path d="M3.5 8.5l5-5M4.5 3.5h4v4"/></svg>';
