@@ -11,9 +11,11 @@
    "sections": {
     "france": [
      {
-      "t": "Blocage de lycées : une journée de mobilisation lycéenne est prévue le 6 octobre. Jean-Luc Mélenchon y voit « un point de départ » ; le ministre David Amiel reconnaît le droit de manifester des lycéens et le devoir du gouvernement de les écouter.",
       "src": "franceinfo",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-blocage-des-lycees-les-lyceens-ont-evidemment-le-droit-de-manifester-et-nous-avons-au-gouvernement-le-devoir-de-les-entendre-assure-le-ministre-de-l-action-et-des-comptes-publics-david-amiel_8220925.html"
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-blocage-des-lycees-les-lyceens-ont-evidemment-le-droit-de-manifester-et-nous-avons-au-gouvernement-le-devoir-de-les-entendre-assure-le-ministre-de-l-action-et-des-comptes-publics-david-amiel_8220925.html",
+      "titre": "Lycées bloqués : la mobilisation vise le 6 octobre",
+      "resume": "Une journée de mobilisation lycéenne est prévue lundi 6 octobre, après plusieurs blocages d'établissements.",
+      "details": "Jean-Luc Mélenchon y voit « un point de départ ». Côté gouvernement, le ministre David Amiel reconnaît que les lycéens ont « le droit de manifester » et que l'exécutif a « le devoir de les entendre »."
      }
     ]
    },
