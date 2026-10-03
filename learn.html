@@ -102,6 +102,8 @@ body[data-c=uk] .hero h1 span{background:linear-gradient(180deg,var(--c-uk) 50%,
 .rules li::before{content:"";position:absolute;left:0;top:.62em;width:7px;height:7px;border-radius:50%;background:var(--c)}
 .ex{display:flex;align-items:flex-start;gap:10px;padding:12px 0;border-top:1px solid var(--line)}
 .ex:first-child{border-top:0}
+.qline{padding:0;border:0;align-items:flex-start}
+.qline .q{margin:0}
 .ex .txt{flex:1;min-width:0}
 .ex .tg{font-weight:600;overflow-wrap:anywhere}
 .ex .tr{font-size:.82rem;color:var(--c);font-style:italic}
@@ -229,15 +231,24 @@ details.qa p{margin:8px 0 0;color:var(--ink-2)}
     var p=lang.slice(0,2);
     return voices.filter(function(v){return v.lang.replace("_","-")===lang})[0]||voices.filter(function(v){return v.lang.slice(0,2)===p})[0]||null;
   }
-  function speak(text,lang){
+  function speak(text,lang,queue){
     if(!("speechSynthesis" in window)||!text)return;
-    speechSynthesis.cancel();
+    if(!queue)speechSynthesis.cancel();
     var u=new SpeechSynthesisUtterance(text);u.lang=lang;u.rate=lang==="uk-UA"?.85:.95;
     var v=voiceFor(lang);if(v)u.voice=v;
     else if(lang==="uk-UA"&&!lsGet("ukVoiceWarned")){lsSet("ukVoiceWarned","1");banner("Pas de voix ukrainienne sur cet appareil : ajoute-la dans Réglages › Accessibilité › Contenu énoncé › Voix (iPhone) ou Synthèse vocale (Android).")}
     speechSynthesis.speak(u);
   }
-  function sayBtn(text){var b=el("button","say");b.type="button";b.setAttribute("aria-label","Écouter");b.innerHTML=SPEAK;b.addEventListener("click",function(e){e.stopPropagation();speak(text,COURSES[course].voix)});return b}
+  // En ukrainien, seul le cyrillique est lu avec la voix ukrainienne ; le français est lu avec la voix française.
+  var CYR=/[\u0400-\u04FF]/;
+  function speakSmart(text){
+    if(course!=="uk"){speak(text,COURSES[course].voix);return}
+    var runs=String(text).replace(/_{2,}/g," … ").match(/[\u0400-\u04FF'ʼ’-]+(?:[\s,.!?…:;«»"()–—-]+[\u0400-\u04FF'ʼ’-]+)*[?!.…]*|[^\u0400-\u04FF]+/g)||[];
+    if("speechSynthesis" in window)speechSynthesis.cancel();
+    runs.forEach(function(r){if(!/[A-Za-zÀ-ÿ\u0400-\u04FF]/.test(r))return;speak(r.replace(/^[\s«»"“”?!.,:;]+|[\s«»"“”]+$/g,""),CYR.test(r)?"uk-UA":"fr-FR",true)});
+  }
+  function sayBtn(text){var b=el("button","say");b.type="button";b.setAttribute("aria-label","Écouter");b.innerHTML=SPEAK;b.addEventListener("click",function(e){e.stopPropagation();speakSmart(typeof text==="function"?text():text)});return b}
+  function qLine(txt,say){var r=el("div","ex qline"),t=el("div","txt");t.appendChild(el("p","q",txt));r.appendChild(t);r.appendChild(sayBtn(say||txt));return r}
   function banner(t){var b=document.getElementById("banner");b.textContent=t;b.hidden=!t}
 
   /* ---------- progression ---------- */
@@ -508,13 +519,14 @@ details.qa p{margin:8px 0 0;color:var(--ink-2)}
       var cont=btn("cta","Continuer",function(){k++;show()});
       function fb(good,txt){var f=el("div","fb "+(good?"good":"bad"));f.appendChild(el("b",null,good?"Bien vu !":"Pas tout à fait"));if(txt)f.appendChild(document.createTextNode(nb(txt)));p.appendChild(f);if(good)ok++;m.appendChild(cont);cont.focus()}
       if(x.type==="qcm"){
-        p.appendChild(el("p","q",x.q));
+        var answered=false;
+        p.appendChild(course==="uk"?qLine(x.q,function(){return answered?x.q.replace(/_{2,}/,x.choix[x.rep]):x.q}):el("p","q",x.q));
         var ch=el("div","choices"),done=false;
         x.choix.forEach(function(c,ci){
           var b=btn("choice",c,function(){
             if(done)return;done=true;
             ch.children[x.rep].classList.add("good");if(ci!==x.rep)b.classList.add("bad");
-            fb(ci===x.rep,x.expl);if(course==="en"||ci===x.rep)speak(x.q.replace(/_{2,}/,x.choix[x.rep]),COURSES[course].voix);
+            answered=true;fb(ci===x.rep,x.expl);if(course==="en")speak(x.q.replace(/_{2,}/,x.choix[x.rep]),COURSES[course].voix);
           });ch.appendChild(b);
         });
         p.appendChild(ch);
@@ -531,11 +543,11 @@ details.qa p{margin:8px 0 0;color:var(--ink-2)}
         m.appendChild(v);setTimeout(function(){f.focus()},50);
       }else{
         p.appendChild(el("p","hint","Traduis dans ta tête ou à voix haute, puis compare."));
-        p.appendChild(el("p","q",x.fr));
+        p.appendChild(course==="uk"?qLine(x.fr):el("p","q",x.fr));
         var s=btn("cta","Voir la traduction",function(){
           s.remove();
           var md=el("div","model");md.appendChild(sayBtn(x.rep));md.lastChild.style.float="right";md.appendChild(el("div","tg",x.rep));if(x.tr)md.appendChild(el("div","tr",x.tr));
-          if(x.expl)md.appendChild(el("div","fr",x.expl));p.appendChild(md);speak(x.rep,COURSES[course].voix);
+          if(x.expl)md.appendChild(el("div","fr",x.expl));p.appendChild(md);if(course==="en")speak(x.rep,COURSES[course].voix);
           var r=el("div","row");
           r.appendChild(btn("cta ghost","À retravailler",function(){k++;show()}));
           r.appendChild(btn("cta","J'avais bon",function(){ok++;k++;show()}));
