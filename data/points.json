@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T16:00:00Z",
+ "updatedAt": "2026-10-03T20:12:00Z",
  "points": [
   {
    "id": "2026-10-03-18",
@@ -9,55 +9,17 @@
    "tz": "+2",
    "publishedAt": "2026-10-03T16:00:00Z",
    "sections": {
-    "defense": [
-     {
-      "t": "La Direction générale de l'armement évoque un automate robotisé destiné à assurer l'entretien du moteur du Rafale.",
-      "src": "Opex360",
-      "url": "https://www.opex360.com/2026/10/03/la-direction-generale-de-larmement-evoque-un-automate-robotise-pour-assurer-lentretien-du-moteur-du-rafale/"
-     }
-    ],
     "france": [
      {
-      "t": "Le mouvement lycéen s'étend : près de 400 lycées restaient fermés vendredi, avec des heurts avec les forces de l'ordre et des incendies d'établissements. Sébastien Lecornu juge que « la réalité nous rattrape » face à des taux d'emprunt record.",
-      "src": "Boursorama",
-      "url": "https://boursorama.com/actualite-economique/actualites/fin-de-quinquennat-lugubre-pour-la-macronie-08993ad0d1e5d1e82580d988f9ec09fc"
-     }
-    ],
-    "grandest": [
-     {
-      "t": "Mobilisation lycéenne à Nancy : les forces de l'ordre ont dispersé à coups de gaz lacrymogène plusieurs centaines de jeunes devant le lycée Jeanne-d'Arc. Incendie la veille au soir au collège François-Rabelais de Metz, sans blessé.",
-      "src": "France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy"
-     }
-    ],
-    "occitanie": [
-     {
-      "t": "Hérault en vigilance orange pluie-inondation jusqu'à 16h : 70 à 100 mm attendus, jusqu'à 150 mm localement, crues possibles sur l'Hérault amont, l'Orb amont et le Lez. Gard, Aude et Pyrénées-Orientales en jaune.",
-      "src": "France 3 Occitanie",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/risques-de-crues-soudaines-et-150-mm-de-pluie-meteo-france-declenche-la-vigilance-orange-dans-l-herault-samedi-et-surveille-les-departements-voisins-3427101.html"
-     }
-    ],
-    "jeuvideo": [
-     {
-      "t": "PlayStation Plus : trois jeux mensuels arrivent le mardi 6 octobre, dont F1 25, le jeu officiel du championnat de Formule 1 2025.",
-      "src": "Otaku Study",
-      "url": "https://www.otakustudy.com/video-game/2026/10/playstation-plus-monthly-games-locked-in-for-october-2026/"
-     },
-     {
-      "t": "Xbox Game Pass : Microsoft annonce le départ de huit jeux du catalogue dans la première quinzaine d'octobre.",
-      "src": "Pure Xbox",
-      "url": "https://www.purexbox.com/news/2026/10/eight-games-are-leaving-xbox-game-pass-in-early-october-2026"
-     },
-     {
-      "t": "Les grosses sorties d'octobre : Call of Duty: Modern Warfare 4, Phantom Blade Zero, Gears of War: E-Day et Ace Combat 8, avant GTA 6 attendu en novembre.",
-      "src": "Gameblog",
-      "url": "https://www.gameblog.fr/jeu-video/ed/news/sorties-jeux-video-octobre-2026-724150"
+      "t": "Blocage de lycées : une journée de mobilisation lycéenne est prévue le 6 octobre. Jean-Luc Mélenchon y voit « un point de départ » ; le ministre David Amiel reconnaît le droit de manifester des lycéens et le devoir du gouvernement de les écouter.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-blocage-des-lycees-les-lyceens-ont-evidemment-le-droit-de-manifester-et-nous-avons-au-gouvernement-le-devoir-de-les-entendre-assure-le-ministre-de-l-action-et-des-comptes-publics-david-amiel_8220925.html"
      }
     ]
    },
    "culture": {
-    "sujet": "Le chuño andin",
-    "texte": "Dans les hauts plateaux des Andes, vers 3 800 m d'altitude, les paysans fabriquent depuis des siècles le chuño, une pomme de terre déshydratée. Les tubercules amers sont étalés la nuit sur le sol, où le gel les durcit, puis piétinés le jour pour en chasser l'eau, et enfin séchés au soleil. Cette alternance de gel et de soleil est répétée plusieurs jours. Le produit, noir ou blanc selon le procédé, devient léger et se conserve des années. Les Incas en stockaient dans des entrepôts d'État pour parer aux mauvaises récoltes. Il reste aujourd'hui un aliment courant au Pérou et en Bolivie."
+    "sujet": "Navigation polynésienne : le voyage de l'Hōkūle'a (1976)",
+    "texte": "Le 1er mai 1976, la pirogue double Hōkūle'a quitte Maui (Hawaï) pour Tahiti, soit environ 4 000 km, sans instrument de navigation. Le Micronésien Mau Piailug, de l'atoll de Satawal, la guide uniquement grâce aux étoiles, à la houle et au vol des oiseaux. Elle atteint Papeete le 4 juin, après environ 34 jours de mer. Ce voyage a prouvé que les Polynésiens avaient pu coloniser le Pacifique par navigation volontaire, et non par dérive accidentelle, et a relancé l'art traditionnel du repérage en mer à Hawaï."
    }
   }
  ]
