@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-03T20:12:00Z",
+ "updatedAt": "2026-10-03T20:24:09Z",
  "points": [
   {
    "id": "2026-10-03-18",
@@ -11,17 +11,18 @@
    "sections": {
     "france": [
      {
+      "titre": "Blocages de lycées : une centaine d'établissements perturbés, tensions avec la police",
+      "resume": "Près de 80 lycées sont bloqués, notamment à Lille, Strasbourg, Nice et Paris, au lendemain d'une réunion jugée décevante avec le ministère de l'Éducation.",
+      "details": "Plusieurs dizaines de personnes ont été interpellées lors de heurts. Matignon dénonce une opération orchestrée par La France Insoumise, ce que le mouvement conteste. Le Snes-FSU appelle à la grève mardi 6 octobre en soutien aux revendications des lycéens sur les moyens alloués aux établissements.",
       "src": "franceinfo",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-blocage-des-lycees-les-lyceens-ont-evidemment-le-droit-de-manifester-et-nous-avons-au-gouvernement-le-devoir-de-les-entendre-assure-le-ministre-de-l-action-et-des-comptes-publics-david-amiel_8220925.html",
-      "titre": "Lycées bloqués : la mobilisation vise le 6 octobre",
-      "resume": "Une journée de mobilisation lycéenne est prévue lundi 6 octobre, après plusieurs blocages d'établissements.",
-      "details": "Jean-Luc Mélenchon y voit « un point de départ ». Côté gouvernement, le ministre David Amiel reconnaît que les lycéens ont « le droit de manifester » et que l'exécutif a « le devoir de les entendre »."
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-ce-stade-il-n-y-a-pas-de-garanties-deplore-sophie-venetitay-du-snes-fsu-apres-la-reunion-avec-le-ministere-de-l-education_8219677.html",
+      "une": true
      }
     ]
    },
    "culture": {
-    "sujet": "Navigation polynésienne : le voyage de l'Hōkūle'a (1976)",
-    "texte": "Le 1er mai 1976, la pirogue double Hōkūle'a quitte Maui (Hawaï) pour Tahiti, soit environ 4 000 km, sans instrument de navigation. Le Micronésien Mau Piailug, de l'atoll de Satawal, la guide uniquement grâce aux étoiles, à la houle et au vol des oiseaux. Elle atteint Papeete le 4 juin, après environ 34 jours de mer. Ce voyage a prouvé que les Polynésiens avaient pu coloniser le Pacifique par navigation volontaire, et non par dérive accidentelle, et a relancé l'art traditionnel du repérage en mer à Hawaï."
+    "sujet": "Le jour où le surf a débarqué en Australie",
+    "texte": "Le 24 décembre 1914, un nageur hawaïen glisse sur les vagues de Freshwater, près de Sydney, devant une foule médusée. Duke Kahanamoku, déjà double champion olympique du 100 m nage libre en 1912, venait faire une démonstration de surf lors d'une tournée de natation. Faute de planche, il en sculpte une en quelques jours dans du pin local, dit-on. Une jeune spectatrice, Isabel Letham, 15 ans, monte avec lui sur la planche et devient l'une des premières Australiennes à surfer. Ce moment est considéré comme l'acte de naissance du surf australien."
    }
   }
  ]
