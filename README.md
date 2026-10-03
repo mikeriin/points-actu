@@ -17,3 +17,25 @@ Appli « Points actu » (PWA statique servie par GitHub Pages) : points d'actual
 
 - `une` (facultatif) : met l'info en grand « À la une » ; sinon la première info de la première rubrique.
 - L'ancien format `{"t": "…"}` reste lu : l'appli en tire elle-même titre, résumé et détails.
+
+## Langues (learn.html)
+
+15 min d'anglais le matin, 15 min d'ukrainien le soir : révisions espacées, leçon du jour, exercices, oral, et une lecture tirée de l'actu.
+
+- Leçons : `data/learn/en.json` et `data/learn/uk.json` (`{"lang","nom","niveau","lessons":[…]}`), 90 leçons chacune, une par jour.
+- Progression : sur le téléphone (localStorage) et, si un jeton GitHub est saisi dans les réglages, dans `progress.json` sur la branche `progression` (fusion sans perte entre appareils).
+- Lecture du jour (facultatif, écrite par la routine des news) : champ `lecture` d'un point de `data/points.json`, par langue. Affichée pendant 48 h.
+
+```json
+"lecture": {
+  "en": {
+    "titre": "Titre en anglais",
+    "texte": "120 à 180 mots, niveau B1-B2, paragraphes séparés par \n",
+    "vocab": [{"cible": "to deploy", "fr": "déployer", "ex": "phrase du texte"}],
+    "questions": [{"q": "Question de compréhension ?", "r": "Réponse courte."}],
+    "src": "Source", "url": "https://…"
+  }
+}
+```
+
+Pour l'ukrainien, même format avec `"tr"` (transcription) dans `vocab`.

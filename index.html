@@ -151,6 +151,17 @@ button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:poin
 .dots{display:flex;gap:5px;margin-top:auto}
 .dots i{width:8px;height:8px;border-radius:50%;background:var(--c)}
 
+/* Accès aux langues */
+.learn{margin-top:36px}
+.learn h2{font:800 1.6rem/1 var(--display);letter-spacing:-.035em;margin:0 0 14px}
+.learn-row{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.lang{display:flex;flex-direction:column;gap:6px;padding:16px;border-radius:22px;background:var(--surface);box-shadow:var(--shadow);text-decoration:none;transition:transform .15s}
+.lang:active{transform:scale(.97)}
+.lang b{font:800 1.25rem/1.05 var(--display);letter-spacing:-.03em}
+.lang span{font-size:.78rem;color:var(--muted);font-weight:600}
+.lang.now{background:var(--ink);color:var(--bg)}
+.lang.now span{color:color-mix(in srgb,var(--bg) 70%,transparent)}
+
 .foot{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font-size:.78rem;color:var(--muted)}
 .foot b{color:var(--ink);font-weight:700}
 
@@ -179,6 +190,13 @@ button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:poin
 <div class="wrap">
   <div class="banner" id="banner" hidden></div>
   <main id="main"><div class="state"><h1>Chargement…</h1><p>Les points de 6h, 12h et 18h s'affichent ici.</p></div></main>
+  <section class="learn" id="learn">
+    <h2>15 min de langue</h2>
+    <div class="learn-row">
+      <a class="lang" id="lang-en" href="learn.html?c=en"><span>☀ Le matin</span><b>English</b></a>
+      <a class="lang" id="lang-uk" href="learn.html?c=uk"><span>☾ Le soir</span><b>Українська</b></a>
+    </div>
+  </section>
   <section class="archive" id="archive" hidden></section>
   <footer class="foot"><span id="next"></span><span>Points à 6h · 12h · 18h</span></footer>
 </div>
@@ -424,6 +442,8 @@ button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:poin
   document.getElementById("refresh").addEventListener("click",load);
   document.addEventListener("visibilitychange",function(){if(!document.hidden&&Date.now()-lastFetch>60e3)load()});
   setInterval(function(){renderNext();if(!document.hidden&&Date.now()-lastFetch>5*60e3)load()},30e3);
+  // Met en avant la langue du moment : anglais le matin, ukrainien à partir de 14h.
+  (function(){var h=paris(new Date()).h;document.getElementById(h<14?"lang-en":"lang-uk").classList.add("now")})();
   load();
   if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(function(){});
 })();

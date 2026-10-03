@@ -1,6 +1,6 @@
 // Coquille de l'appli en cache ; les points sont toujours demandés au réseau d'abord.
-const CACHE = "points-actu-v3";
-const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png"];
+const CACHE = "points-actu-v4";
+const SHELL = ["./", "index.html", "learn.html", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png", "icons/apple-touch-icon.png"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
