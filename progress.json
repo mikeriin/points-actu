@@ -1,0 +1,20 @@
+{
+ "v": 1,
+ "updatedAt": 0,
+ "courses": {
+  "en": {
+   "next": 1,
+   "done": {},
+   "cards": {},
+   "custom": {},
+   "days": {}
+  },
+  "uk": {
+   "next": 1,
+   "done": {},
+   "cards": {},
+   "custom": {},
+   "days": {}
+  }
+ }
+}
