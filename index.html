@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Points actu</title>
+<meta name="theme-color" content="#2F4722">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Points actu">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Source+Sans+3:wght@400;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Une colonne de lecture mobile : dernier point en tête, points précédents repliés dessous. */
+:root{
+  --bg:#ECEEE8; --surface:#FAFBF8; --ink:#1A1F17; --muted:#5C6457; --line:#D3D8CB; --bar:#2F4722; --bar-ink:#E8EFDF;
+  --accent:#3E5C2D; --accent-ink:#F4F7EF; --warn:#9A3B1E;
+  --c-def:#3E5C2D; --c-fra:#2E4C86; --c-ge:#8A3A2E; --c-occ:#9A6512; --c-cul:#5B4A86;
+  --f-display:"Barlow Condensed","Arial Narrow",system-ui,sans-serif;
+  --f-body:"Source Sans 3",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,Consolas,monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#121510; --surface:#1A1E17; --ink:#E4E8DE; --muted:#9AA391; --line:#2F352B; --bar:#1F2C17; --bar-ink:#E4E8DE;
+  --accent:#9DBF84; --accent-ink:#121510; --warn:#F09A7A;
+  --c-def:#9DBF84; --c-fra:#8FAEE8; --c-ge:#E39A8C; --c-occ:#E0B160; --c-cul:#B8A8E6; color-scheme:dark}}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:400 16px/1.5 var(--f-body);-webkit-text-size-adjust:100%}
+.appbar{position:sticky;top:0;z-index:2;background:var(--bar);color:var(--bar-ink);padding:calc(env(safe-area-inset-top,0px) + 10px) 16px 10px;display:flex;align-items:center;justify-content:space-between;gap:12px}
+.appbar h1{font:700 1.5rem/1 var(--f-display);letter-spacing:.04em;text-transform:uppercase;margin:0}
+.refresh{display:flex;align-items:center;gap:8px;background:transparent;color:var(--bar-ink);border:1px solid currentColor;border-radius:4px;padding:7px 10px;font:600 .85rem/1 var(--f-body);cursor:pointer}
+.refresh svg{width:16px;height:16px}
+.refresh.spin svg{animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.refresh:focus-visible{outline:2px solid var(--bar-ink);outline-offset:2px}
+.status{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;font:500 .72rem/1.3 var(--f-mono);color:var(--muted);font-variant-numeric:tabular-nums}
+.status b{color:var(--ink);font-weight:500}
+.wrap{max-width:640px;margin:0 auto;padding-inline:16px;padding-block:14px calc(env(safe-area-inset-bottom,0px) + 40px);display:flex;flex-direction:column;gap:16px}
+.point{background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:16px;display:flex;flex-direction:column;gap:16px}
+.ph{display:flex;justify-content:space-between;align-items:baseline;gap:10px;flex-wrap:wrap}
+.ph h2{font:700 1.6rem/1.05 var(--f-display);margin:0}
+.dtg{font:500 .75rem/1 var(--f-mono);color:var(--muted);letter-spacing:.04em}
+.span{font:500 .72rem/1.2 var(--f-mono);color:var(--muted);margin-top:-10px}
+.new{font:600 .68rem/1 var(--f-body);text-transform:uppercase;letter-spacing:.08em;background:var(--accent);color:var(--accent-ink);padding:4px 7px;border-radius:3px;margin-left:8px;vertical-align:middle}
+.sec{display:flex;flex-direction:column;gap:6px;border-left:3px solid var(--c);padding-left:12px;min-width:0}
+.sec h3{font:700 .95rem/1 var(--f-display);text-transform:uppercase;letter-spacing:.08em;color:var(--c);margin:0}
+.sec ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:8px}
+.sec li{overflow-wrap:anywhere}
+.src{font:500 .72rem/1 var(--f-mono);color:var(--muted);white-space:nowrap}
+.src a{color:inherit;text-decoration:underline;text-underline-offset:2px}
+.quiet{color:var(--muted);font-style:italic;margin:0}
+.cul p{margin:0}
+.cul h3 span{text-transform:none;letter-spacing:0;font-weight:600;color:var(--ink)}
+.archive{display:flex;flex-direction:column;gap:10px}
+.archive>h2{font:700 1rem/1 var(--f-display);text-transform:uppercase;letter-spacing:.1em;color:var(--muted);margin:6px 0 0}
+details{background:var(--surface);border:1px solid var(--line);border-radius:6px}
+details>summary{cursor:pointer;list-style:none;padding:12px 16px;display:flex;justify-content:space-between;align-items:center;gap:10px;font:600 1rem/1.2 var(--f-body)}
+details>summary::-webkit-details-marker{display:none}
+details>summary::after{content:"+";font:500 1.1rem/1 var(--f-mono);color:var(--muted)}
+details[open]>summary::after{content:"–"}
+details .point{border:0;border-top:1px solid var(--line);border-radius:0 0 6px 6px}
+.state{background:var(--surface);border:1px dashed var(--line);border-radius:6px;padding:20px 16px;color:var(--muted)}
+.state strong{color:var(--ink);display:block;font:700 1.2rem/1.2 var(--f-display);margin-bottom:4px}
+.banner{font:600 .85rem/1.35 var(--f-body);color:var(--warn)}
+@media (prefers-reduced-motion:reduce){.refresh.spin svg{animation:none}}
+</style>
+</head>
+<body>
+<header class="appbar">
+  <h1>Points actu</h1>
+  <button class="refresh" id="refresh" type="button" aria-label="Actualiser">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 11a8 8 0 1 0-2.3 5.7"/><path d="M20 4v7h-7"/></svg>
+    Actualiser
+  </button>
+</header>
+<div class="wrap">
+  <div class="status"><span id="updated">Chargement…</span><span id="next"></span></div>
+  <div class="banner" id="banner" hidden></div>
+  <main id="latest"><div class="state"><strong>Chargement…</strong>Les points de 6h, 12h et 18h s'affichent ici.</div></main>
+  <section class="archive" id="archive" hidden></section>
+</div>
+<script>
+(function(){
+  var DATA="data/points.json";
+  var SECTIONS=[{k:"defense",t:"Défense",c:"--c-def"},{k:"france",t:"France",c:"--c-fra"},{k:"grandest",t:"Grand Est",c:"--c-ge"},{k:"occitanie",t:"Occitanie",c:"--c-occ"}];
+  var MONTHS=["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
+  var JOURS=["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
+  var MOIS=["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"];
+  var lastFetch=0, loading=false, current=null;
+
+  function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+  function pad(n){return String(n).padStart(2,"0")}
+  function lsGet(k){try{return localStorage.getItem(k)}catch(e){return null}}
+  function lsSet(k,v){try{localStorage.setItem(k,v)}catch(e){}}
+  function paris(d){
+    var f=new Intl.DateTimeFormat("fr-FR",{timeZone:"Europe/Paris",hour:"2-digit",minute:"2-digit",hour12:false});
+    var o={};f.formatToParts(d).forEach(function(p){o[p.type]=p.value});return {h:+o.hour%24,mi:+o.minute};
+  }
+  function dtg(d){return d.date.slice(8,10)+pad(d.hour)+"00"+(d.tz==="+1"?"A":"B")+" "+MONTHS[+d.date.slice(5,7)-1]+" "+d.date.slice(2,4)}
+  function span(h){return h===6?"18h la veille → 6h":h===12?"6h → 12h":"12h → 18h"}
+  function dayLabel(s){var a=s.split("-").map(Number);var dt=new Date(Date.UTC(a[0],a[1]-1,a[2],12));return JOURS[dt.getUTCDay()]+" "+a[2]+" "+MOIS[a[1]-1]}
+
+  function renderNext(){
+    var p=paris(new Date()),m=p.h*60+p.mi,slots=[362,722,1082]; // ~2 min de publication
+    var n=slots.find(function(s){return s>m});var diff=n!=null?n-m:1440-m+362;var lab=n!=null?Math.floor(n/60)+"h":"6h";
+    document.getElementById("next").textContent="Prochain : "+lab+" (dans "+(diff>=60?Math.floor(diff/60)+" h ":"")+pad(diff%60)+" min)";
+  }
+  function renderUpdated(){
+    if(!lastFetch)return;var p=paris(new Date(lastFetch));
+    document.getElementById("updated").textContent="Vérifié à "+pad(p.h)+":"+pad(p.mi);
+  }
+
+  function renderPoint(d,o){
+    var box=el("article","point");
+    if(!o.archive){
+      var head=el("div","ph"),h2=el("h2",null,d.label||"Point");
+      if(o.isNew)h2.appendChild(el("span","new","Nouveau"));
+      head.appendChild(h2);head.appendChild(el("span","dtg",dtg(d)));box.appendChild(head);
+      box.appendChild(el("div","span","Plage "+span(d.hour)));
+    }
+    var any=false;
+    SECTIONS.forEach(function(s){
+      var items=(d.sections&&d.sections[s.k])||[];if(!items.length)return;any=true;
+      var sec=el("section","sec");sec.style.setProperty("--c","var("+s.c+")");sec.appendChild(el("h3",null,s.t));
+      var ul=el("ul");
+      items.slice(0,4).forEach(function(it){
+        var li=el("li",null,(it.t||"")+" ");
+        if(it.src){var sp=el("span","src");
+          if(it.url&&/^https:\/\//.test(it.url)){var a=el("a",null,it.src);a.href=it.url;a.target="_blank";a.rel="noopener";sp.appendChild(a)}else sp.textContent=it.src;
+          li.appendChild(sp)}
+        ul.appendChild(li);
+      });
+      sec.appendChild(ul);box.appendChild(sec);
+    });
+    if(!any)box.appendChild(el("p","quiet","Rien de notable sur cette plage horaire."));
+    if(d.culture&&d.culture.texte){
+      var c=el("section","sec cul");c.style.setProperty("--c","var(--c-cul)");
+      var h3=el("h3",null,"Minute culture");
+      if(d.culture.sujet){h3.appendChild(document.createTextNode(" · "));h3.appendChild(el("span",null,d.culture.sujet))}
+      c.appendChild(h3);c.appendChild(el("p",null,d.culture.texte));box.appendChild(c);
+    }
+    return box;
+  }
+
+  function render(points){
+    var latest=document.getElementById("latest"),arch=document.getElementById("archive");
+    latest.textContent="";arch.textContent="";
+    if(!points.length){var st=el("div","state");st.appendChild(el("strong",null,"Aucun point pour l'instant"));
+      st.appendChild(document.createTextNode("Le prochain point (6h, 12h ou 18h) apparaîtra ici."));latest.appendChild(st);arch.hidden=true;return}
+    var top=points[0],seen=lsGet("lastSeen");
+    latest.appendChild(renderPoint(top,{isNew:seen&&seen!==top.id}));lsSet("lastSeen",top.id);
+    var rest=points.slice(1);arch.hidden=!rest.length;if(!rest.length)return;
+    arch.appendChild(el("h2",null,"Points précédents"));
+    rest.forEach(function(d){var det=el("details"),sum=el("summary");
+      sum.appendChild(el("span",null,(d.label||"Point")+" · "+dayLabel(d.date)));det.appendChild(sum);
+      det.appendChild(renderPoint(d,{archive:true}));arch.appendChild(det)});
+  }
+
+  async function load(){
+    if(loading)return;loading=true;
+    var btn=document.getElementById("refresh"),banner=document.getElementById("banner");btn.classList.add("spin");
+    try{
+      var r=await fetch(DATA+"?t="+Date.now(),{cache:"no-store"});
+      if(!r.ok)throw new Error(r.status);
+      var j=await r.json();var pts=(j.points||[]).slice().sort(function(a,b){return a.publishedAt<b.publishedAt?1:-1});
+      var sig=JSON.stringify(pts.map(function(p){return p.id}));
+      if(sig!==current){current=sig;render(pts)}
+      lastFetch=Date.now();banner.hidden=true;
+      try{lsSet("cache",JSON.stringify(j))}catch(e){}
+    }catch(e){
+      var c=lsGet("cache");
+      if(c&&!current){try{var jj=JSON.parse(c);render(jj.points||[]);current="cache"}catch(_){}}
+      banner.textContent="Pas de réseau : derniers points enregistrés affichés.";banner.hidden=false;
+    }finally{loading=false;btn.classList.remove("spin");renderUpdated();renderNext()}
+  }
+
+  document.getElementById("refresh").addEventListener("click",load);
+  document.addEventListener("visibilitychange",function(){if(!document.hidden&&Date.now()-lastFetch>60e3)load()});
+  setInterval(function(){renderNext();if(!document.hidden&&Date.now()-lastFetch>5*60e3)load()},30e3);
+  load();
+  if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(function(){});
+})();
+</script>
+</body>
+</html>
