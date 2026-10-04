@@ -1,6 +1,94 @@
 {
- "updatedAt": "2026-10-04T10:00:00Z",
+ "updatedAt": "2026-10-04T16:00:00Z",
  "points": [
+  {
+   "id": "2026-10-04-18",
+   "label": "Point de 18h",
+   "date": "2026-10-04",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-04T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Le 68e RAA éclate ses batteries de CAESAr pour échapper aux drones",
+      "resume": "Le 68e régiment d'artillerie d'Afrique réorganise ses batteries de canons CAESAr afin de mieux les protéger contre les drones, selon Opex360 le 4 octobre.",
+      "details": "Les batteries de quatre pièces laissent place à des sections de deux canons de 155 mm, plus difficiles à repérer et à frapper. Une section dédiée prépare les positions de tir et met en place des leurres. Ce retour d'expérience tiré des combats en Ukraine inspire désormais la doctrine de l'artillerie française.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/04/le-68e-regiment-dartillerie-dafrique-reorganise-ses-batteries-de-caesar-pour-accroitre-leur-protection-contre-les-drones/"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Blocages de lycées : Lecornu accélère la loi « casseur-payeur »",
+      "resume": "Le Premier ministre fait inscrire dès octobre au Sénat la proposition de loi « casseur-payeur », après les dégradations liées aux blocages de lycées.",
+      "details": "Le texte vise à faire supporter aux auteurs de violences collectives le coût des réparations plutôt qu'aux finances publiques. Le ministre de l'Intérieur Laurent Nuñez réfute toute intervention policière « disproportionnée » et affirme que les forces de l'ordre protègent les lycéens qui manifestent pacifiquement. Une nouvelle journée de mobilisation est annoncée pour le 6 octobre.",
+      "src": "Entrevue",
+      "url": "https://entrevue.fr/politique/violences-autour-des-lycees-lecornu-accelere-lexamen-de-la-loi-casseur-payeur",
+      "une": true
+     },
+     {
+      "titre": "Nuñez rejette l'accusation de violences policières devant les lycées",
+      "resume": "Laurent Nuñez affirme que la police ne fait que protéger les élèves qui souhaitent manifester pacifiquement.",
+      "details": "Le gouvernement attribue une partie des blocages à LFI et à ses relais d'extrême gauche, tandis que Jean-Luc Mélenchon voit dans la journée du 6 octobre « un point de départ ». Le ministre David Amiel assure de son côté que les lycéens ont le droit de manifester.",
+      "src": "Orange Actualités",
+      "url": "https://actu.orange.fr/france/blocages-des-lycees-nunez-refute-toute-intervention-quot-disproportionnee-quot-CNT000002sjkFa.html"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Metz : mobilisation contre la fermeture des urgences de Legouest",
+      "resume": "Une centaine de personnes se sont rassemblées à Metz contre le transfert des urgences de l'hôpital militaire Legouest.",
+      "details": "Les urgences doivent passer sous la responsabilité du CHR Metz-Thionville début 2027. Les manifestants craignent de perdre le seul service d'urgences du centre-ville de Metz ; Force Ouvrière s'inquiète aussi pour le personnel.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/moselle/metz/on-a-des-raisons-d-etre-inquiets-mobilisation-contre-la-fermeture-des-urgences-de-legouest-3427461.html"
+     },
+     {
+      "titre": "Plus de 12 000 personnes en rose à Strasbourg contre le cancer du sein",
+      "resume": "Strasbourg a vu défiler plus de 12 000 personnes vêtues de rose ce dimanche 4 octobre, dans le cadre d'Octobre rose.",
+      "details": "Le rassemblement vise à sensibiliser au dépistage du cancer du sein. Par ailleurs, la ville a rétabli ses trams après des dégradations commises lors des manifestations lycéennes de la semaine.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Vigilance orange : fortes pluies dans les Pyrénées-Orientales et l'Aude",
+      "resume": "Météo-France maintient le département des Pyrénées-Orientales et l'Aude en orange pluie-inondation ce dimanche, avec des orages venus d'Espagne.",
+      "details": "Environ 50 mm sont tombés à Perpignan en quelques heures. Huit gués et ponts submersibles ont été fermés, les animations extérieures annulées, et la préfecture appelle à limiter les déplacements. Les cumuls pourraient atteindre 150 à 180 mm sur les reliefs (Corbières, Fenouillèdes, Albères).",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/vigilance-orange-les-pyrenees-orientales-et-l-aude-sous-la-menace-de-fortes-pluies-et-d-inondations-3427668.html"
+     },
+     {
+      "titre": "Aude et Hérault : jusqu'à 200 mm de pluie, des routes coupées",
+      "resume": "Des cumuls allant jusqu'à 200 mm ont coupé plusieurs axes routiers dans l'Aude et l'Hérault, avant le déplacement des pluies vers les Pyrénées-Orientales.",
+      "details": "Les deux départements, d'abord en orange, sont repassés en jaune pluie-inondation dans l'après-midi (Aude) puis en fin de journée (Hérault).",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/aude/narbonne/inondations-dans-l-aude-et-l-herault-jusqu-a-200-mm-de-pluie-des-axes-routiers-coupes-la-pluie-se-dirige-vers-les-pyrenees-orientales-3427587.html"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Warner Bros racheté par Paramount : fusion actée sous le nom Skydance",
+      "resume": "Le rachat de Warner Bros par Paramount est acté et la nouvelle entité s'appellera simplement Skydance.",
+      "details": "L'opération, évaluée à 111 milliards de dollars, doit entrer en vigueur la semaine prochaine. Des licenciements massifs sont attendus dans les semaines à venir, ce qui pèse sur l'avenir des studios de jeux du groupe.",
+      "src": "ActuGaming",
+      "url": "https://www.actugaming.net/le-rachat-de-warner-bros-par-paramount-est-acte-la-nouvelle-entreprise-sappellera-simplement-skydance-828113/"
+     },
+     {
+      "titre": "Chez The Coalition, la crainte de licenciements après Gears of War: E-Day",
+      "resume": "Des employés du studio Xbox redoutent des licenciements juste après la sortie de Gears of War: E-Day.",
+      "details": "Le story director Juan Vaca aurait été licencié deux semaines avant le lancement. Les bonus liés au succès du jeu sont en jeu, dans un contexte de vagues de suppressions de postes chez Xbox.",
+      "src": "ActuGaming",
+      "url": "https://actugaming.net/chez-the-coalition-plusieurs-employes-craignent-les-licenciements-apres-le-lancement-de-gears-of-war-e-day-827899"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le pont inca retissé chaque année avec de l'herbe",
+    "texte": "Au Pérou, un pont suspendu long d'environ trente mètres est entièrement refait à la main, en herbe, chaque année depuis plus de cinq siècles. Le Q'eswachaka enjambe le río Apurímac, à plus de 3 700 mètres d'altitude, et prolonge un ancien chemin de l'Empire inca. Chaque mois de juin, quatre communautés quechua fabriquent des cordes de paille de ichu et les tressent en câbles, puis remplacent l'ancien pont en trois jours. Le vieux pont est coupé et jeté dans la rivière, le nouveau est inauguré par une fête. Ce savoir-faire est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2013."
+   }
+  },
   {
    "id": "2026-10-04-12",
    "label": "Point de 12h",
