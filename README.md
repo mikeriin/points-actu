@@ -24,6 +24,7 @@ Appli « Points actu » (PWA statique servie par GitHub Pages) : points d'actual
 
 - Leçons : `data/learn/en.json` et `data/learn/uk.json` (`{"lang","nom","niveau","lessons":[…]}`), 90 leçons chacune, une par jour.
 - Progression : sur le téléphone (localStorage) et, si un jeton GitHub est saisi dans les réglages, dans `progress.json` sur la branche `progression` (fusion sans perte entre appareils).
+- S'entraîner (accueil des langues, quand on veut) : cartes de tout ce qui a été vu (tout, mots difficiles, dernière leçon) et prononciation au micro (reconnaissance vocale du navigateur, sinon auto-évaluation). Une carte ratée revient 3 à 5 cartes plus loin jusqu'à ce qu'elle passe ; un mot oublié repart aussi à 1 jour dans les révisions espacées.
 - Lecture du jour (facultatif, écrite par la routine des news) : champ `lecture` d'un point de `data/points.json`, par langue. Affichée pendant 48 h.
 
 ```json
