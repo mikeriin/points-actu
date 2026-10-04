@@ -1,126 +1,150 @@
 {
-  "updatedAt": "2026-10-04T03:50:00Z",
-  "points": [
-    {
-      "id": "2026-10-04-06",
-      "label": "Point de 6h",
-      "date": "2026-10-04",
-      "hour": 6,
-      "tz": "+2",
-      "publishedAt": "2026-10-04T04:00:00Z",
-      "sections": {
-        "occitanie": [
-          {
-            "titre": "Pluies diluviennes : vigilance orange dans les Pyrénées-Orientales et l'Aude",
-            "resume": "Après l'Hérault samedi, Météo-France place les Pyrénées-Orientales et l'Aude en vigilance orange pluie-inondation pour dimanche 4 octobre.",
-            "details": "L'Hérault, en orange samedi 3 octobre avec jusqu'à 150 mm attendus localement en quelques heures, a été rétrogradé en jaune. Pour dimanche, 80 à 120 mm sont prévus, jusqu'à 160 mm par endroits, avec des intensités de 30 à 50 mm/h propices au ruissellement. Cet épisode survient quelques jours après de précédentes inondations dans la région.",
-            "src": "Orange Actualités",
-            "url": "https://actu.orange.fr/france/meteo-les-pyrenees-orientales-en-alerte-orange-pluie-inondation-l-aude-et-l-herault-retrogrades-en-jaune-magic-CNT000002sih8z.html",
-            "une": true
-          }
-        ]
+ "updatedAt": "2026-10-04T10:00:00Z",
+ "points": [
+  {
+   "id": "2026-10-04-12",
+   "label": "Point de 12h",
+   "date": "2026-10-04",
+   "hour": 12,
+   "tz": "+2",
+   "publishedAt": "2026-10-04T10:00:00Z",
+   "sections": {
+    "occitanie": [
+     {
+      "titre": "Aude et Pyrénées-Orientales en vigilance orange pluie-inondation",
+      "resume": "Météo-France a placé l'Aude et les Pyrénées-Orientales en vigilance orange pluie-inondation ce dimanche 4 octobre, jusqu'en milieu d'après-midi.",
+      "details": "Un système orageux touchant le nord-est de l'Espagne depuis samedi soir a remonté vers les deux départements dans la nuit. Les cumuls attendus atteignaient 80 à 120 mm, localement 150 à 180 mm, surtout sur les premiers reliefs (Corbières, Fenouillèdes, Albères). La fin de l'alerte orange était annoncée pour 16h.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-aude-et-les-pyrenees-orientales-en-vigilance-orange-pluie-inondation-jusque-dans-l-apres-midi_8221870.html",
+      "une": true
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le tribunal sans avocat qui siège depuis plus de mille ans",
+    "texte": "Chaque jeudi à midi, devant la porte des Apôtres de la cathédrale de Valence, huit paysans en tenue noire jugent les conflits d'eau de la huerta. Ce Tribunal des eaux, dont l'origine remonte au Xe siècle selon la tradition, est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2009. Ses huit « síndicos » sont élus par les irrigants de huit canaux (acequias) dérivés du Turia. La procédure est entièrement orale : pas d'avocat, pas de greffe, et le verdict est rendu sur-le-champ, sans appel possible. Les amendes sont modestes, mais la sanction suprême reste de se voir privé d'eau."
+   }
+  },
+  {
+   "id": "2026-10-04-06",
+   "label": "Point de 6h",
+   "date": "2026-10-04",
+   "hour": 6,
+   "tz": "+2",
+   "publishedAt": "2026-10-04T04:00:00Z",
+   "sections": {
+    "occitanie": [
+     {
+      "titre": "Pluies diluviennes : vigilance orange dans les Pyrénées-Orientales et l'Aude",
+      "resume": "Après l'Hérault samedi, Météo-France place les Pyrénées-Orientales et l'Aude en vigilance orange pluie-inondation pour dimanche 4 octobre.",
+      "details": "L'Hérault, en orange samedi 3 octobre avec jusqu'à 150 mm attendus localement en quelques heures, a été rétrogradé en jaune. Pour dimanche, 80 à 120 mm sont prévus, jusqu'à 160 mm par endroits, avec des intensités de 30 à 50 mm/h propices au ruissellement. Cet épisode survient quelques jours après de précédentes inondations dans la région.",
+      "src": "Orange Actualités",
+      "url": "https://actu.orange.fr/france/meteo-les-pyrenees-orientales-en-alerte-orange-pluie-inondation-l-aude-et-l-herault-retrogrades-en-jaune-magic-CNT000002sih8z.html",
+      "une": true
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Prometheus, l'arbre de 4 900 ans abattu par erreur",
+    "texte": "En 1964, un arbre vieux d'environ 4 900 ans a été abattu sur le mont Wheeler, dans le Nevada, pour qu'on puisse en lire les cernes. Le doctorant Donald Currey étudiait d'anciennes glaciations et son carottier était resté coincé dans un pin bristlecone ; avec l'accord des gardes forestiers, l'arbre a été coupé. Le décompte des cernes a donné près de 4 862 ans, faisant de lui l'organisme non clonal le plus âgé jamais daté. Surnommé plus tard « Prometheus », il germait donc vers 2 900 av. J.-C., avant les pyramides de Gizeh. L'épisode a contribué à la protection des vieux bristlecones, et le bois a aidé à calibrer la datation au carbone 14."
+   },
+   "lecture": {
+    "en": {
+     "titre": "Floods Threaten the South of France Again",
+     "texte": "Heavy rain hit the south of France on Saturday. Météo-France put the Hérault on orange alert for rain and flooding, with local totals of up to 150 mm in a few hours. Roads were cut off and some schools and public transport had already been closed in Montpellier earlier in the week.\nLater in the day, the Hérault was downgraded to yellow, but the danger moved south. Forecasters placed the Pyrénées-Orientales and the Aude on orange alert for Sunday, October 4, with 80 to 120 mm of rain expected and up to 160 mm in some places.\nAuthorities asked residents to avoid unnecessary journeys and to stay away from rivers, because flash floods can rise very quickly after heavy storms.",
+     "vocab": [
+      {
+       "cible": "put on orange alert",
+       "fr": "placer en alerte orange",
+       "ex": "Météo-France put the Hérault on orange alert for rain and flooding"
       },
-      "culture": {
-        "sujet": "Prometheus, l'arbre de 4 900 ans abattu par erreur",
-        "texte": "En 1964, un arbre vieux d'environ 4 900 ans a été abattu sur le mont Wheeler, dans le Nevada, pour qu'on puisse en lire les cernes. Le doctorant Donald Currey étudiait d'anciennes glaciations et son carottier était resté coincé dans un pin bristlecone ; avec l'accord des gardes forestiers, l'arbre a été coupé. Le décompte des cernes a donné près de 4 862 ans, faisant de lui l'organisme non clonal le plus âgé jamais daté. Surnommé plus tard « Prometheus », il germait donc vers 2 900 av. J.-C., avant les pyramides de Gizeh. L'épisode a contribué à la protection des vieux bristlecones, et le bois a aidé à calibrer la datation au carbone 14."
+      {
+       "cible": "local totals",
+       "fr": "cumuls locaux",
+       "ex": "with local totals of up to 150 mm in a few hours"
       },
-      "lecture": {
-        "en": {
-          "titre": "Floods Threaten the South of France Again",
-          "texte": "Heavy rain hit the south of France on Saturday. Météo-France put the Hérault on orange alert for rain and flooding, with local totals of up to 150 mm in a few hours. Roads were cut off and some schools and public transport had already been closed in Montpellier earlier in the week.\nLater in the day, the Hérault was downgraded to yellow, but the danger moved south. Forecasters placed the Pyrénées-Orientales and the Aude on orange alert for Sunday, October 4, with 80 to 120 mm of rain expected and up to 160 mm in some places.\nAuthorities asked residents to avoid unnecessary journeys and to stay away from rivers, because flash floods can rise very quickly after heavy storms.",
-          "vocab": [
-            {
-              "cible": "put on orange alert",
-              "fr": "placer en alerte orange",
-              "ex": "Météo-France put the Hérault on orange alert for rain and flooding"
-            },
-            {
-              "cible": "local totals",
-              "fr": "cumuls locaux",
-              "ex": "with local totals of up to 150 mm in a few hours"
-            },
-            {
-              "cible": "cut off",
-              "fr": "coupé, isolé",
-              "ex": "Roads were cut off and some schools and public transport had already been closed"
-            },
-            {
-              "cible": "downgraded",
-              "fr": "rétrogradé",
-              "ex": "the Hérault was downgraded to yellow"
-            },
-            {
-              "cible": "forecasters",
-              "fr": "prévisionnistes",
-              "ex": "Forecasters placed the Pyrénées-Orientales and the Aude on orange alert"
-            },
-            {
-              "cible": "residents",
-              "fr": "habitants",
-              "ex": "Authorities asked residents to avoid unnecessary journeys"
-            },
-            {
-              "cible": "flash floods",
-              "fr": "crues soudaines",
-              "ex": "flash floods can rise very quickly after heavy storms"
-            }
-          ],
-          "questions": [
-            {
-              "q": "Which departments were on orange alert for Sunday?",
-              "r": "The Pyrénées-Orientales and the Aude."
-            },
-            {
-              "q": "Why were residents told to stay away from rivers?",
-              "r": "Because flash floods can rise very quickly."
-            }
-          ],
-          "src": "Orange Actualités",
-          "url": "https://actu.orange.fr/france/meteo-les-pyrenees-orientales-en-alerte-orange-pluie-inondation-l-aude-et-l-herault-retrogrades-en-jaune-magic-CNT000002sih8z.html"
-        }
+      {
+       "cible": "cut off",
+       "fr": "coupé, isolé",
+       "ex": "Roads were cut off and some schools and public transport had already been closed"
+      },
+      {
+       "cible": "downgraded",
+       "fr": "rétrogradé",
+       "ex": "the Hérault was downgraded to yellow"
+      },
+      {
+       "cible": "forecasters",
+       "fr": "prévisionnistes",
+       "ex": "Forecasters placed the Pyrénées-Orientales and the Aude on orange alert"
+      },
+      {
+       "cible": "residents",
+       "fr": "habitants",
+       "ex": "Authorities asked residents to avoid unnecessary journeys"
+      },
+      {
+       "cible": "flash floods",
+       "fr": "crues soudaines",
+       "ex": "flash floods can rise very quickly after heavy storms"
       }
-    },
-    {
-      "id": "2026-10-03-18",
-      "label": "Point de 18h",
-      "date": "2026-10-03",
-      "hour": 18,
-      "tz": "+2",
-      "publishedAt": "2026-10-03T16:00:00Z",
-      "sections": {
-        "france": [
-          {
-            "titre": "Blocages de lycées : une centaine d'établissements perturbés, tensions avec la police",
-            "resume": "Près de 80 lycées sont bloqués, notamment à Lille, Strasbourg, Nice et Paris, au lendemain d'une réunion jugée décevante avec le ministère de l'Éducation.",
-            "details": "Plusieurs dizaines de personnes ont été interpellées lors de heurts. Matignon dénonce une opération orchestrée par La France Insoumise, ce que le mouvement conteste. Le Snes-FSU appelle à la grève mardi 6 octobre en soutien aux revendications des lycéens sur les moyens alloués aux établissements.",
-            "src": "franceinfo",
-            "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-ce-stade-il-n-y-a-pas-de-garanties-deplore-sophie-venetitay-du-snes-fsu-apres-la-reunion-avec-le-ministere-de-l-education_8219677.html",
-            "une": true
-          }
-        ],
-        "grandest": [
-          {
-            "titre": "Mobilisation lycéenne dans la Marne : 45 interpellations, surtout à Reims",
-            "resume": "Environ 1 350 jeunes ont manifesté vendredi dans la Marne pour le quatrième jour de mobilisation lycéenne en Champagne-Ardenne.",
-            "details": "Les interpellations ont eu lieu principalement à Reims. À Strasbourg, l'université a fermé ses portes après des heurts entre manifestants et forces de l'ordre sur le campus, dans le prolongement du mouvement national.",
-            "src": "France 3 Grand Est",
-            "url": "https://france3-regions.franceinfo.fr/grand-est/alsace"
-          }
-        ],
-        "occitanie": [
-          {
-            "titre": "Haute-Garonne : l'avenir de l'unique unité de pédopsychiatrie du sud du département inquiète",
-            "resume": "Des inquiétudes se font jour sur le devenir de la seule unité de pédopsychiatrie du sud de la Haute-Garonne.",
-            "details": "Le sujet rejoint la question de l'accès aux soins psychiques des enfants en zone rurale, où l'offre est déjà très limitée.",
-            "src": "France 3 Occitanie",
-            "url": "https://france3-regions.franceinfo.fr/occitanie/"
-          }
-        ]
+     ],
+     "questions": [
+      {
+       "q": "Which departments were on orange alert for Sunday?",
+       "r": "The Pyrénées-Orientales and the Aude."
       },
-      "culture": {
-        "sujet": "Le jour où le surf a débarqué en Australie",
-        "texte": "Le 24 décembre 1914, un nageur hawaïen glisse sur les vagues de Freshwater, près de Sydney, devant une foule médusée. Duke Kahanamoku, déjà double champion olympique du 100 m nage libre en 1912, venait faire une démonstration de surf lors d'une tournée de natation. Faute de planche, il en sculpte une en quelques jours dans du pin local, dit-on. Une jeune spectatrice, Isabel Letham, 15 ans, monte avec lui sur la planche et devient l'une des premières Australiennes à surfer. Ce moment est considéré comme l'acte de naissance du surf australien."
+      {
+       "q": "Why were residents told to stay away from rivers?",
+       "r": "Because flash floods can rise very quickly."
       }
+     ],
+     "src": "Orange Actualités",
+     "url": "https://actu.orange.fr/france/meteo-les-pyrenees-orientales-en-alerte-orange-pluie-inondation-l-aude-et-l-herault-retrogrades-en-jaune-magic-CNT000002sih8z.html"
     }
-  ]
+   }
+  },
+  {
+   "id": "2026-10-03-18",
+   "label": "Point de 18h",
+   "date": "2026-10-03",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-03T16:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Blocages de lycées : une centaine d'établissements perturbés, tensions avec la police",
+      "resume": "Près de 80 lycées sont bloqués, notamment à Lille, Strasbourg, Nice et Paris, au lendemain d'une réunion jugée décevante avec le ministère de l'Éducation.",
+      "details": "Plusieurs dizaines de personnes ont été interpellées lors de heurts. Matignon dénonce une opération orchestrée par La France Insoumise, ce que le mouvement conteste. Le Snes-FSU appelle à la grève mardi 6 octobre en soutien aux revendications des lycéens sur les moyens alloués aux établissements.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-ce-stade-il-n-y-a-pas-de-garanties-deplore-sophie-venetitay-du-snes-fsu-apres-la-reunion-avec-le-ministere-de-l-education_8219677.html",
+      "une": true
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Mobilisation lycéenne dans la Marne : 45 interpellations, surtout à Reims",
+      "resume": "Environ 1 350 jeunes ont manifesté vendredi dans la Marne pour le quatrième jour de mobilisation lycéenne en Champagne-Ardenne.",
+      "details": "Les interpellations ont eu lieu principalement à Reims. À Strasbourg, l'université a fermé ses portes après des heurts entre manifestants et forces de l'ordre sur le campus, dans le prolongement du mouvement national.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/alsace"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Haute-Garonne : l'avenir de l'unique unité de pédopsychiatrie du sud du département inquiète",
+      "resume": "Des inquiétudes se font jour sur le devenir de la seule unité de pédopsychiatrie du sud de la Haute-Garonne.",
+      "details": "Le sujet rejoint la question de l'accès aux soins psychiques des enfants en zone rurale, où l'offre est déjà très limitée.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le jour où le surf a débarqué en Australie",
+    "texte": "Le 24 décembre 1914, un nageur hawaïen glisse sur les vagues de Freshwater, près de Sydney, devant une foule médusée. Duke Kahanamoku, déjà double champion olympique du 100 m nage libre en 1912, venait faire une démonstration de surf lors d'une tournée de natation. Faute de planche, il en sculpte une en quelques jours dans du pin local, dit-on. Une jeune spectatrice, Isabel Letham, 15 ans, monte avec lui sur la planche et devient l'une des premières Australiennes à surfer. Ce moment est considéré comme l'acte de naissance du surf australien."
+   }
+  }
+ ]
 }
