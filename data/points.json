@@ -1,6 +1,85 @@
 {
- "updatedAt": "2026-10-04T16:00:00Z",
+ "updatedAt": "2026-10-05T03:45:00Z",
  "points": [
+  {
+   "id": "2026-10-05-06",
+   "label": "Point de 6h",
+   "date": "2026-10-05",
+   "hour": 6,
+   "tz": "+2",
+   "publishedAt": "2026-10-05T04:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Blocus lycéen : plus de 400 lycées paralysés avant la journée du 6 octobre",
+      "resume": "Né à Créteil le 21 septembre, le mouvement de blocage touche plus de 400 lycées et débouche sur une journée de mobilisation nationale mardi 6 octobre.",
+      "details": "Les cours sont totalement ou partiellement suspendus lundi 5 octobre dans 400 à 500 lycées où la sécurité n'est pas garantie. Les lycéens dénoncent le manque d'enseignants, les classes surchargées, des bâtiments dégradés et le stress de Parcoursup. L'intersyndicale de l'Éducation appelle à participer mardi, y compris par la grève, avec une manifestation prévue à 14h place de la République à Paris.",
+      "src": "France 24",
+      "url": "https://www.france24.com/fr/france/20261004-mobilisation-lyceenne-plus-400-lycees-paralyses-6-octobre-manifestation-greve-blocus-violences-police-ce-qu-il-faut-savoir",
+      "une": true
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le courrier postal envoyé dans une boîte de biscuits",
+    "texte": "Pendant des décennies, le courrier de l'île tongienne de Niuafo'ou a été remis aux navires de passage dans une boîte de conserve. L'île volcanique n'a ni port ni lagon accessible : les paquebots ne pouvaient pas accoster. Un nageur emportait donc le courrier dans une boîte de biscuits étanche, soudée, jusqu'au navire, et rapportait celui qui arrivait de la même façon. Ce « Tin Can Mail » a fonctionné jusqu'en 1983, quand une piste d'aviation a rendu le système inutile. L'île a même été évacuée après l'éruption de 1946, mais ses habitants sont revenus ensuite ; ses timbres, tamponnés d'une mention « Tin Can Mail », sont devenus très recherchés des philatélistes."
+   },
+   "lecture": {
+    "en": {
+     "titre": "Thousands of French students block their schools",
+     "texte": "Two weeks ago, students at a high school in Créteil, near Paris, blocked the entrance to protest against the lack of teachers and overcrowded classes. The protest quickly spread across the country. By the weekend, more than 400 schools were affected, and the authorities said classes would be fully or partly suspended on Monday in places where safety could not be guaranteed.\nThe students also criticise damaged school buildings and the stress linked to the university admission platform Parcoursup. Several teachers' unions have joined the movement, and the education unions have called for a day of action, including a strike, on Tuesday 6 October.\nA large demonstration is planned in Paris, and the government is under pressure to offer concrete measures. For now, student organisations say they will continue the movement until they get a clear answer.",
+     "vocab": [
+      {
+       "cible": "overcrowded",
+       "fr": "surchargé",
+       "ex": "…protest against the lack of teachers and overcrowded classes."
+      },
+      {
+       "cible": "spread",
+       "fr": "se propager",
+       "ex": "The protest quickly spread across the country."
+      },
+      {
+       "cible": "affected",
+       "fr": "touché",
+       "ex": "By the weekend, more than 400 schools were affected…"
+      },
+      {
+       "cible": "suspended",
+       "fr": "suspendu",
+       "ex": "…classes would be fully or partly suspended on Monday…"
+      },
+      {
+       "cible": "to join",
+       "fr": "rejoindre",
+       "ex": "Several teachers' unions have joined the movement…"
+      },
+      {
+       "cible": "under pressure",
+       "fr": "sous pression",
+       "ex": "…the government is under pressure to offer concrete measures."
+      },
+      {
+       "cible": "a clear answer",
+       "fr": "une réponse claire",
+       "ex": "…until they get a clear answer."
+      }
+     ],
+     "questions": [
+      {
+       "q": "Where did the protest start?",
+       "r": "At a high school in Créteil, near Paris."
+      },
+      {
+       "q": "What day of action is planned?",
+       "r": "Tuesday 6 October, with a strike and a demonstration in Paris."
+      }
+     ],
+     "src": "France 24",
+     "url": "https://www.france24.com/fr/france/20261004-mobilisation-lyceenne-plus-400-lycees-paralyses-6-octobre-manifestation-greve-blocus-violences-police-ce-qu-il-faut-savoir"
+    }
+   }
+  },
   {
    "id": "2026-10-04-18",
    "label": "Point de 18h",
