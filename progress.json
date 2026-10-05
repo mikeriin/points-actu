@@ -1,6 +1,6 @@
 {
  "v": 1,
- "updatedAt": 1791200956564,
+ "updatedAt": 1791201325541,
  "courses": {
   "en": {
    "next": 4,
@@ -209,6 +209,62 @@
      "r": 0,
      "l": 0,
      "t": 1791200850164
+    },
+    "N2026100506-0": {
+     "d": "2026-10-06",
+     "i": 0,
+     "e": 250,
+     "r": 0,
+     "l": 0,
+     "t": 1791201287326
+    },
+    "N2026100506-1": {
+     "d": "2026-10-06",
+     "i": 0,
+     "e": 250,
+     "r": 0,
+     "l": 0,
+     "t": 1791201300319
+    },
+    "N2026100506-2": {
+     "d": "2026-10-06",
+     "i": 0,
+     "e": 250,
+     "r": 0,
+     "l": 0,
+     "t": 1791201302068
+    },
+    "N2026100506-3": {
+     "d": "2026-10-06",
+     "i": 0,
+     "e": 250,
+     "r": 0,
+     "l": 0,
+     "t": 1791201304576
+    },
+    "N2026100506-4": {
+     "d": "2026-10-06",
+     "i": 0,
+     "e": 250,
+     "r": 0,
+     "l": 0,
+     "t": 1791201306004
+    },
+    "N2026100506-5": {
+     "d": "2026-10-06",
+     "i": 0,
+     "e": 250,
+     "r": 0,
+     "l": 0,
+     "t": 1791201307279
+    },
+    "N2026100506-6": {
+     "d": "2026-10-06",
+     "i": 0,
+     "e": 250,
+     "r": 0,
+     "l": 0,
+     "t": 1791201308709
     }
    },
    "custom": {
@@ -260,6 +316,55 @@
      "fr": "crues soudaines",
      "ex": "flash floods can rise very quickly after heavy storms",
      "exfr": ""
+    },
+    "N2026100506-0": {
+     "id": "N2026100506-0",
+     "cible": "overcrowded",
+     "fr": "surchargé",
+     "ex": "…protest against the lack of teachers and overcrowded classes.",
+     "exfr": ""
+    },
+    "N2026100506-1": {
+     "id": "N2026100506-1",
+     "cible": "spread",
+     "fr": "se propager",
+     "ex": "The protest quickly spread across the country.",
+     "exfr": ""
+    },
+    "N2026100506-2": {
+     "id": "N2026100506-2",
+     "cible": "affected",
+     "fr": "touché",
+     "ex": "By the weekend, more than 400 schools were affected…",
+     "exfr": ""
+    },
+    "N2026100506-3": {
+     "id": "N2026100506-3",
+     "cible": "suspended",
+     "fr": "suspendu",
+     "ex": "…classes would be fully or partly suspended on Monday…",
+     "exfr": ""
+    },
+    "N2026100506-4": {
+     "id": "N2026100506-4",
+     "cible": "to join",
+     "fr": "rejoindre",
+     "ex": "Several teachers' unions have joined the movement…",
+     "exfr": ""
+    },
+    "N2026100506-5": {
+     "id": "N2026100506-5",
+     "cible": "under pressure",
+     "fr": "sous pression",
+     "ex": "…the government is under pressure to offer concrete measures.",
+     "exfr": ""
+    },
+    "N2026100506-6": {
+     "id": "N2026100506-6",
+     "cible": "a clear answer",
+     "fr": "une réponse claire",
+     "ex": "…until they get a clear answer.",
+     "exfr": ""
     }
    },
    "days": {
@@ -280,7 +385,8 @@
      "rev": 17,
      "ok": 16,
      "lec": "L03",
-     "exo": "2/6"
+     "exo": "2/6",
+     "lire": "2026-10-05-06"
     }
    }
   },
