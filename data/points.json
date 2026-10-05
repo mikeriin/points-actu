@@ -1,6 +1,57 @@
 {
- "updatedAt": "2026-10-05T09:45:21Z",
+ "updatedAt": "2026-10-05T16:00:00Z",
  "points": [
+  {
+   "id": "2026-10-05-18",
+   "label": "Point de 18h",
+   "date": "2026-10-05",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-05T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Paris et Ankara s'accordent sur une feuille de route de défense",
+      "resume": "La France et la Turquie ont convenu le 5 octobre d'une feuille de route pour renforcer leur coopération militaire, selon Zone Militaire.",
+      "details": "L'accord intervient après des années de tensions, dont l'épisode de 2020 autour d'un navire de recherche turc escorté près de l'île grecque de Kastellorizo. Ankara s'intéresse de longue date au système sol-air SAMP/T, dont la vente est restée suspendue au dialogue politique.",
+      "src": "Zone Militaire (Opex360)",
+      "url": "https://www.opex360.com/2026/10/05/la-france-et-la-turquie-saccordent-sur-une-feuille-de-route-pour-renforcer-leur-cooperation-en-matiere-de-defense/",
+      "une": true
+     }
+    ],
+    "france": [
+     {
+      "titre": "Blocus lycéen : tension à la veille de la journée du 6 octobre",
+      "resume": "Après un lundi de cours suspendus dans plusieurs centaines de lycées, l'USL et l'Union étudiante appellent à une nouvelle journée de mobilisation mardi.",
+      "details": "Selon les informations relayées, 400 à 500 lycées étaient totalement ou partiellement paralysés lundi, dont plus de 160 en Île-de-France. Les organisations syndicales doivent rejoindre les jeunes mardi, avec un rassemblement attendu à Paris place de la République à 14h. Les revendications portent sur les moyens, les effectifs par classe et Parcoursup.",
+      "src": "Le Bonbon",
+      "url": "https://www.lebonbon.fr/paris/news/greve-nationale-blocus-lycees-quoi-attendre-mardi-6-octobre-2026/"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Reims sans tramway, lycées bloqués à Nancy et Metz",
+      "resume": "La mobilisation lycéenne a reparu lundi en Grand Est, avec des perturbations de transport à Reims et des tensions à Metz.",
+      "details": "À Reims, le tramway n'a pas circulé et les bus ont tourné à moitié. À Nancy, plusieurs établissements de l'agglomération sont restés bloqués, quelques centaines de jeunes convergeant vers le centre-ville. En Alsace, de nombreux lycées sont restés fermés après la pause du week-end.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Toulouse : alerte intrusion, interpellations et lycée évacué",
+      "resume": "Nouvelle journée sous tension à Toulouse avec des heurts devant le lycée Raymond Naves, à Borderouge, et plusieurs établissements fermés.",
+      "details": "Une bouteille de gaz a été découverte près du lycée puis sécurisée. À Montpellier, le lycée Clemenceau a été bloqué lundi matin. Les fermetures sont décidées pour raisons de sécurité.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/blocage-des-lycees-alerte-intrusion-interpellations-et-lycee-evacue-nouvelle-journee-sous-tension-a-toulouse-3428148.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le plus grand essaim d'insectes jamais observé",
+    "texte": "En 1875, un essaim de criquets des Montagnes Rocheuses a couvert une zone estimée à près de 513 000 km² au-dessus du Nebraska, soit plus que la France. L'entomologiste Albert Child l'a observé et son nom est resté à cet essaim, dit « Albert's Swarm ». Les estimations évoquent environ 12 500 milliards d'insectes, pour une masse de l'ordre de 27 millions de tonnes. Pourtant, l'espèce, Melanoplus spretus, a disparu en quelques décennies : le dernier spécimen vivant connu a été vu au Canada en 1902. L'une des hypothèses est que les colons ont labouré les zones de ponte, détruisant les œufs."
+   }
+  },
   {
    "id": "2026-10-05-12",
    "label": "Point de 12h",
