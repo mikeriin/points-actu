@@ -1,6 +1,55 @@
 {
- "updatedAt": "2026-10-05T03:45:00Z",
+ "updatedAt": "2026-10-05T09:45:21Z",
  "points": [
+  {
+   "id": "2026-10-05-12",
+   "label": "Point de 12h",
+   "date": "2026-10-05",
+   "hour": 12,
+   "tz": "+2",
+   "publishedAt": "2026-10-05T10:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Blocus des lycées : Geffray lance une consultation, les syndicats insistent",
+      "resume": "Le ministre de l'Éducation Édouard Geffray ouvre ce lundi 5 octobre une plateforme de consultation des lycéens, mais l'Union syndicale lycéenne appelle à poursuivre la mobilisation dès mardi.",
+      "details": "La plateforme, prévue pour trois semaines, doit recueillir les difficultés et les attentes des élèves. Le mouvement, parti le 29 septembre contre le manque de professeurs et la vétusté des locaux, a gagné des universités. L'USL juge ces annonces insuffisantes, faute de mesures concrètes.",
+      "src": "Europe 1",
+      "url": "https://www.europe1.fr/politique/blocus-des-lycees-edouard-geffray-multiplie-les-concertations-mais-les-syndicats-restent-sur-leur-faim-1119149",
+      "une": true
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Blocus lycéen : établissements fermés à Strasbourg et dans le Haut-Rhin",
+      "resume": "Ce lundi 5 octobre, les lycées de Strasbourg et huit établissements du Haut-Rhin sont fermés en raison de la mobilisation lycéenne.",
+      "details": "Les blocages se poursuivent aussi dans plusieurs villes lorraines, dont Nancy, Metz et Val-de-Briey. À Reims, la mobilisation lycéenne et étudiante a privé la ville de tramway et réduit de moitié les bus. La mobilisation du matin est jugée faible par endroits en Alsace.",
+      "src": "Titres de presse (DNA)",
+      "url": "https://www.titrespresse.com/23937542603/alsace-patio-strasbourg"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Paramount et Warner Bros. Discovery fusionnent demain sous le nom Skydance",
+      "resume": "Le rachat à 110 milliards de dollars doit être finalisé mardi 6 octobre, après l'accord conclu avec des procureurs généraux d'États américains.",
+      "details": "Le nouvel ensemble s'appellera Skydance et regroupera Paramount, Warner Bros., HBO Max et CBS. Le sort de Warner Bros. Games, rattaché à WBD, n'est pas détaillé à ce stade ; une restructuration avec de nombreuses suppressions de postes est attendue dans les semaines à venir.",
+      "src": "CNBC",
+      "url": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html"
+     },
+     {
+      "titre": "Gears of War: E-Day sort demain sur Xbox Series et PC",
+      "resume": "Le préquel de la saga Gears of War est disponible dès mardi 6 octobre sur Xbox Series X|S et PC, et inclus dans le Game Pass dès le premier jour.",
+      "details": "C'est la sortie phare de la semaine du 5 octobre. Des employés de The Coalition s'inquiéteraient de possibles licenciements après le lancement, alors que Xbox mène une restructuration qui vise 3 200 postes sur l'exercice.",
+      "src": "ActuGaming",
+      "url": "https://actugaming.net/les-sorties-jeux-video-de-la-semaine-du-5-octobre-gears-of-war-e-day-star-wars-galactic-racer-hellraiser-aion-2-828423"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "L'os d'Ishango, plus vieille trace de calcul ?",
+    "texte": "Un os de babouin de 10 cm, gravé d'entailles regroupées en colonnes, intrigue les mathématiciens depuis 1950. Il a été trouvé à Ishango, sur les rives du lac Édouard (actuelle RD Congo), par le géologue belge Jean de Heinzelin de Braucourt. Daté d'environ 20 000 ans, il porte trois colonnes de marques dont l'une additionne 11, 13, 17 et 19, soit les nombres premiers entre 10 et 20. Une autre colonne aligne 11, 21, 19 et 9, des nombres proches de 10 ± 1 et 20 ± 1. Certains y voient un calendrier lunaire ou un outil de calcul, d'autres un simple décompte : le débat reste ouvert. L'objet est conservé à l'Institut royal des sciences naturelles de Belgique, à Bruxelles."
+   }
+  },
   {
    "id": "2026-10-05-06",
    "label": "Point de 6h",
