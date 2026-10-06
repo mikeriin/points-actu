@@ -1,6 +1,73 @@
 {
- "updatedAt": "2026-10-05T16:00:00Z",
+ "updatedAt": "2026-10-06T16:00:00Z",
  "points": [
+  {
+   "id": "2026-10-06-18",
+   "label": "Point de 18h",
+   "date": "2026-10-06",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-06T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Le SNLE Le Vigilant tire avec succès un missile M51.3",
+      "resume": "Le sous-marin nucléaire Le Vigilant a tiré un missile M51.3 sans charge au large du Finistère le 6 octobre, en présence d'Emmanuel Macron.",
+      "details": "Baptisée SMERTRIOS, l'opération valide la capacité du sous-marin à mettre en œuvre le M51 après son arrêt technique périodique (IPER). C'est le premier tir de cette version depuis un SNLE selon ArianeGroup. Le M51.3, entré en service opérationnel en octobre 2025, emporte la tête nucléaire océanique TNO-2 et améliore portée, précision et capacité de pénétration.",
+      "src": "Zone Militaire",
+      "url": "https://www.opex360.com/2026/10/06/dissuasion-le-sous-marin-nucleaire-lanceur-dengins-le-vigilant-a-tire-un-missile-strategique-m51-3-avec-succes/",
+      "une": true
+     }
+    ],
+    "france": [
+     {
+      "titre": "Lycéens dans la rue : 256 000 à 450 000 manifestants selon les sources",
+      "resume": "La troisième journée de mobilisation lycéenne et étudiante a réuni le 6 octobre 256 000 manifestants selon l'Intérieur, 450 000 selon l'intersyndicale jeunesse.",
+      "details": "Paris a compté 56 000 personnes selon le ministère, 100 000 selon les organisateurs. Près de 900 lycées sur 3 700 ont été perturbés. Les syndicats d'enseignants appelaient à soutenir le mouvement, y compris par la grève, contre la dégradation des conditions d'apprentissage ; le ministre Édouard Geffray espère une reprise progressive dès mercredi.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-blocages-des-lycees-des-manifestations-prevues-dans-une-trentaine-de-villes-pour-l-acte-iii-de-la-mobilisation_8224333.html"
+     },
+     {
+      "titre": "Budget 2027 : le PLF arrive à l'Assemblée, la censure plane",
+      "resume": "Le projet de loi de finances 2027 est déposé à l'Assemblée le 6 octobre, face à des oppositions unanimement hostiles.",
+      "details": "Le texte vise un déficit de 5,0 % du PIB en 2027 contre 5,4 % attendus en 2026, avec 54 milliards d'euros d'effort dont 43 milliards de mesures nouvelles. Socialistes et écologistes dénoncent une « provocation » et la gauche promet une motion de censure contre le gouvernement Lecornu, minoritaire.",
+      "src": "Le Journal du Net",
+      "url": "https://www.journaldunet.com/business/action-publique/1555095-la-gauche-annonce-une-motion-de-censure-contre-le-gouvernement-lecornu-lors-du-debat-sur-le-budget-2027/"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Des milliers de lycéens défilent à Strasbourg, Mulhouse et Metz",
+      "resume": "Rassemblements devant les lycées puis cortèges à Strasbourg et Mulhouse à 14h, et plusieurs milliers de manifestants à Metz le 6 octobre.",
+      "details": "Lycéens, étudiants et enseignants ont défilé dans le cadre de l'acte III national. À Metz, un incident lié à l'interpellation d'une lycéenne la veille a conduit à l'ouverture d'une enquête par le parquet, selon France 3.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/alsace/mobilisations-du-6-octobre-plusieurs-rassemblements-devant-des-lycees-et-universites-avant-des-manifestations-a-strasbourg-et-mulhouse-3428592.html"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Gard et Hérault en vigilance orange pluie-inondation dès 22h",
+      "resume": "Météo-France place le Gard et l'Hérault en orange pluie-inondation et orages à partir de 22h ce mardi soir.",
+      "details": "Un nouvel épisode méditerranéen est attendu dans la nuit de mardi à mercredi, avec orages stationnaires, grêle et rafales localement violentes. Le reste de l'Occitanie reste en jaune ; les Bouches-du-Rhône et le Var passeront en orange mercredi.",
+      "src": "ICI Occitanie",
+      "url": "https://www.ici.fr/occitanie/gard-30/intemperies-le-gard-et-l-herault-en-vigilance-orange-pluie-inondation-et-orages-a-partir-de-mardi-soir-5352978"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Gears of War: E-Day sort sur Xbox Series et PC",
+      "resume": "Le nouveau Gears of War de The Coalition est disponible le 6 octobre sur Xbox Series X|S et PC, dès le premier jour dans le Game Pass.",
+      "details": "Exclusivité Xbox côté consoles, le jeu propose une campagne de plus de 14 heures ainsi que des modes Versus 4v4 et Horde Siege. Les éditions Premium et Collector offraient un accès anticipé depuis le 1er octobre.",
+      "src": "L'Éclaireur Fnac",
+      "url": "https://leclaireur.fnac.com/article/cp63637-gears-of-war-e-day-date-de-sortie-trailer-toutes-les-infos/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le cornique, langue déclarée morte puis ressuscitée",
+    "texte": "En 2009, l'UNESCO classait le cornique parmi les langues éteintes, alors que des centaines de personnes le parlaient déjà. La tradition fait de Dolly Pentreath, morte en 1777 à Mousehole, la dernière locutrice native, même si ce statut est discuté. La renaissance débute avec Henry Jenner, qui publie en 1904 son Handbook of the Cornish Language. Le Royaume-Uni reconnaît le cornique en 2002 au titre de la Charte européenne des langues régionales. En 2010, l'UNESCO révise son verdict et le range parmi les langues « en danger critique »."
+   }
+  },
   {
    "id": "2026-10-05-18",
    "label": "Point de 18h",
