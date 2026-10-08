@@ -1,6 +1,71 @@
 {
- "updatedAt": "2026-10-06T16:00:00Z",
+ "updatedAt": "2026-10-08T15:44:55Z",
  "points": [
+  {
+   "id": "2026-10-08-18",
+   "label": "Point de 18h",
+   "date": "2026-10-08",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-08T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Vautrin alerte : sans budget 2027, les commandes d'armement seraient gelées",
+      "resume": "Le 8 octobre, la ministre des Armées Catherine Vautrin a averti que l'absence de budget 2027 voté avant fin décembre bloquerait des programmes d'armement.",
+      "details": "Sans loi de finances, les crédits de la mission Défense resteraient plafonnés au niveau de 2026, soit environ 6,5 Md€ de moins que les 63,4 Md€ prévus pour 2027. Aucune nouvelle commande ne pourrait être passée en attendant. L'alerte tombe alors que la LPM actualisée, promulguée en août, ajoute 36 Md€ d'ici 2030.",
+      "src": "Boursorama (AFP)",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/programmes-d-armement-bloques-la-ministre-des-armees-met-en-garde-contre-les-consequences-sur-la-defense-si-le-budget-2027-n-est-pas-adopte-avant-la-fin-de-l-annee-1462f1cb34364b2b4861e25999106b0b",
+      "une": true
+     }
+    ],
+    "france": [
+     {
+      "titre": "Lycées : l'intersyndicale appelle à une nouvelle journée d'action le 13 octobre",
+      "resume": "Après l'« acte IV » de jeudi, intersyndicale étudiante et professionnelle donne rendez-vous mardi 13 octobre.",
+      "details": "Le ministère de l'Éducation affirme qu'environ 96 % des établissements sont ouverts, alors que le syndicat lycéen évoque près de 2 000 lycées à l'arrêt. Les cours ont repris le matin dans plusieurs villes, mais des blocages subsistent. Le gouvernement promet des premières décisions chiffrées avant fin octobre.",
+      "src": "Boursorama",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/lycees-nouvel-appel-a-la-mobilisation-le-13-octobre-830315b93ddee6ff9015695b0b5697f0"
+     },
+     {
+      "titre": "Banque de France : pas d'« effet de second tour » sur l'inflation",
+      "resume": "Le gouverneur estime que le choc inflationniste lié à la guerre au Moyen-Orient ne s'étend pas, pour l'instant, à toute l'économie.",
+      "details": "Il ne voit pas de spirale entre prix et salaires à ce stade. Le diagnostic reste conditionné à l'évolution de l'énergie, dont les prix du diesel viennent de refluer dans l'UE après des records.",
+      "src": "Boursorama",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/pas-d-effet-de-second-tour-que-signifie-le-commentaire-du-gouverneur-de-la-banque-de-france-sur-l-inflation-actuelle-942e537d52eae35820d400d57fd6dde9"
+     },
+     {
+      "titre": "Cyberattaques : un coup de pouce fiscal pour protéger les usines",
+      "resume": "Les députés de la commission des finances ont adopté un amendement incitant les industriels à investir dans la cybersécurité.",
+      "details": "L'objectif est d'éviter la paralysie de sites de production par des rançongiciels. Le dispositif, encore au stade de l'amendement budgétaire, devra survivre aux débats sur le projet de loi de finances.",
+      "src": "Boursorama",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/cyberattaques-vers-un-coup-de-pouce-fiscal-pour-aider-a-proteger-les-usines-de-la-paralysie-7890204daf1661ab08ac3a9927952c46"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Lycéens à Metz : un cortège calme malgré la colère",
+      "resume": "Plusieurs centaines de personnes ont défilé jeudi à Metz, au lendemain de la prise de parole de Sébastien Lecornu.",
+      "details": "Le plan annoncé par le Premier ministre ne sera détaillé que fin octobre, ce qui n'a pas apaisé la mobilisation. Le mouvement reprenait aussi à Nancy.",
+      "src": "ICI Lorraine",
+      "url": "https://www.ici.fr/grand-est/moselle-57/metz/blocage-des-lycees-en-moselle-la-mobilisation-reprend-ce-jeudi-les-professeurs-appeles-a-manifester-a-metz-3059326"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Toulouse et Montpellier : l'« acte IV » lycéen sous tension juridique",
+      "resume": "Jeudi 8 octobre, grève et cortèges à Toulouse et Montpellier, avec deux décisions opposées sur les interdictions de rassemblement.",
+      "details": "À Toulouse, le juge des référés a suspendu l'arrêté interdisant les rassemblements près des établissements. À Montpellier, la préfète a interdit les cortèges dans l'Écusson ; la manifestation était fixée à 13h au Peyrou.",
+      "src": "ICI Occitanie",
+      "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/blocage-des-lycees-une-nouvelle-journee-de-greve-et-de-manifestations-ce-jeudi-8-octobre-4098788"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Mondino et la dissection publique de Bologne",
+    "texte": "En 1316, un anatomiste de Bologne a achevé un manuel de dissection qui allait régner sur l'Europe pendant plus de deux siècles. Mondino de Luzzi, professeur de médecine, y décrit l'ouverture du corps dans l'ordre de putréfaction : abdomen d'abord, puis thorax, puis crâne. Son Anathomia s'appuyait sur des dissections de cadavres humains pratiquées à Bologne vers 1315, parmi les premières documentées en Occident chrétien. L'ouvrage resta un texte de référence dans les universités jusqu'au XVIe siècle. Il fut supplanté en 1543 par le De humani corporis fabrica d'André Vésale, qui corrigea de nombreuses erreurs héritées de Galien."
+   }
+  },
   {
    "id": "2026-10-06-18",
    "label": "Point de 18h",
