@@ -1,6 +1,85 @@
 {
- "updatedAt": "2026-10-08T15:44:55Z",
+ "updatedAt": "2026-10-09T03:50:00Z",
  "points": [
+  {
+   "id": "2026-10-09-06",
+   "label": "Point de 6h",
+   "date": "2026-10-09",
+   "hour": 6,
+   "tz": "+2",
+   "publishedAt": "2026-10-09T04:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Lycéens : 504 interpellations et 48 forces de l'ordre blessées jeudi",
+      "resume": "Le ministère de l'Intérieur a dressé jeudi 8 octobre au soir le bilan de la journée de mobilisation lycéenne : 504 interpellations et 48 policiers et gendarmes blessés.",
+      "details": "Selon Beauvau, 71 500 personnes ont défilé ou se sont rassemblées, dont 24 500 à Paris, et environ 55 000 ont participé à des actions devant des établissements. Le ministère note une hausse des violences urbaines visant enseignants et établissements : un proviseur adjoint a été brûlé au visage par un mortier d'artifice à Saint-Chamond (Loire). Laurent Nuñez a réuni dans la soirée préfets de zone et responsables de la police et de la gendarmerie.",
+      "src": "Actu17",
+      "url": "https://actu17.fr/faits-divers/mouvement-lyceen-504-interpellations-et-48-policiers-et-gendarmes-blesses-beauvau-note-une-augmentation-des-violences-urbaines.html",
+      "une": true
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le premier SMS : 15 caractères et pas de réponse possible",
+    "texte": "Le 3 décembre 1992, un message de quinze caractères, « Merry Christmas », traverse pour la première fois un réseau mobile sous forme de SMS. L'ingénieur Neil Papworth, du groupe Sema, le tape sur un ordinateur à Newbury (Angleterre) et l'envoie sur le réseau de Vodafone. Le destinataire, Richard Jarvis, un directeur de Vodafone, le reçoit sur un téléphone Orbitel 901. Il ne pouvait pourtant pas répondre : ce modèle n'avait pas de clavier permettant d'écrire un message. Il faudra attendre 1993 pour que Nokia propose des téléphones capables d'en envoyer."
+   },
+   "lecture": {
+    "en": {
+     "titre": "France fires a nuclear missile from a submarine",
+     "texte": "On 6 October 2026, the French Navy successfully fired an M51.3 ballistic missile from the nuclear-powered submarine Le Vigilant. The launch took place off the coast of Brittany, without a nuclear warhead, and the missile landed in the North Atlantic, hundreds of kilometres from any coast.\nThe main goal was to prove that the submarine could use the missile again after a long period of maintenance. The work on Le Vigilant had started in 2023 and lasted almost three years. President Emmanuel Macron watched the test from the frigate Auvergne and said it showed that France's deterrent remains credible.\nThe M51.3 is the newest version of the missile. It entered service in October 2025 and offers a longer range, better accuracy and a greater ability to get past enemy defences. The test also carried experiments for the next version, the M51.4, which is already being developed.",
+     "vocab": [
+      {
+       "cible": "deterrent",
+       "fr": "dissuasion",
+       "ex": "He said it showed that France's deterrent remains credible."
+      },
+      {
+       "cible": "maintenance",
+       "fr": "maintenance, entretien",
+       "ex": "The main goal was to prove that the submarine could use the missile again after a long period of maintenance."
+      },
+      {
+       "cible": "credible",
+       "fr": "crédible",
+       "ex": "He said it showed that France's deterrent remains credible."
+      },
+      {
+       "cible": "range",
+       "fr": "portée",
+       "ex": "It offers a longer range, better accuracy and a greater ability to get past enemy defences."
+      },
+      {
+       "cible": "to get past",
+       "fr": "franchir, contourner",
+       "ex": "It offers a longer range, better accuracy and a greater ability to get past enemy defences."
+      },
+      {
+       "cible": "to carry out / to carry",
+       "fr": "transporter, embarquer",
+       "ex": "The test also carried experiments for the next version."
+      },
+      {
+       "cible": "off the coast of",
+       "fr": "au large de",
+       "ex": "The launch took place off the coast of Brittany."
+      }
+     ],
+     "questions": [
+      {
+       "q": "Why was the missile fired without a nuclear warhead?",
+       "r": "Because the aim was only to test that the submarine could use the missile again after maintenance."
+      },
+      {
+       "q": "What else did the test carry?",
+       "r": "Experiments for the next version, the M51.4."
+      }
+     ],
+     "src": "Naval News",
+     "url": "https://www.navalnews.com/?p=91680"
+    }
+   }
+  },
   {
    "id": "2026-10-08-18",
    "label": "Point de 18h",
