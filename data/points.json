@@ -1,670 +1,712 @@
 {
- "updatedAt": "2026-10-09T09:55:00Z",
- "points": [
-  {
-   "id": "2026-10-09-12",
-   "label": "Point de 12h",
-   "date": "2026-10-09",
-   "hour": 12,
-   "tz": "+2",
-   "publishedAt": "2026-10-09T10:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "titre": "Lycées bloqués : 3 000 enseignants promis, 141 établissements encore fermés",
-      "resume": "Le ministre de l'Éducation Édouard Geffray a annoncé jeudi soir 3 000 enseignants supplémentaires, alors que 141 lycées restaient fermés vendredi 9 octobre.",
-      "details": "Le gouvernement cherche une sortie de crise face à un mouvement parti de revendications locales (manque de professeurs, classes surchargées). Des remplaçants sont promis dès la semaine prochaine dans les lycées les plus touchés. Le mouvement coïncide avec l'examen du budget 2027, qui prévoit une hausse des crédits de l'Éducation mais la perte de 1 588 postes d'enseignants selon la presse spécialisée.",
-      "src": "Titres Presse / La Croix",
-      "url": "https://www.titrespresse.com/24468482603/edouard-geffray-blocage",
-      "une": true
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Grève chez DNA et L'Alsace contre 400 suppressions de postes au groupe Ebra",
-      "resume": "Les syndicats du groupe de presse Ebra (Crédit Mutuel) appellent à la grève vendredi 9 octobre, avec un rassemblement devant le siège de la banque.",
-      "details": "Le plan prévoit de supprimer 400 postes sur environ 3 200 dans neuf titres, dont une cinquantaine aux DNA et 12 à L'Alsace, surtout via des départs volontaires. Les salariés contestent aussi le recours à l'IA pour la mise en page et l'arrêt d'une rotative. Le plan avait été annoncé aux syndicats le 22 juin.",
-      "src": "Rue89 Strasbourg",
-      "url": "https://www.rue89strasbourg.com/greve-lalsace-dna-398612"
-     }
-    ],
-    "defense": [
-     {
-      "titre": "L'A400M va recevoir un kit de bombardier d'eau après le mégafeu girondin",
-      "resume": "La ministre des Armées Catherine Vautrin a annoncé l'achat d'un kit de lutte contre les incendies pour l'A400M, rapporte La Dépêche.",
-      "details": "L'A400M avait été déployé cet été avec un prototype lors du mégafeu en Gironde. Le dispositif est un réservoir amovible installé en soute, capable de larguer jusqu'à 20 000 litres d'eau ou de retardant par la rampe arrière. Airbus indique que le kit reste en développement et en certification, et la Sécurité civile doute de sa viabilité.",
-      "src": "La Dépêche / Titres Presse",
-      "url": "https://www.titrespresse.com/24481582603/airbus-defence-space"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Borobudur et ses reliefs enfouis",
-    "texte": "Sous le temple bouddhique de Borobudur, à Java, se cachent 160 panneaux sculptés que personne ne voit. Construit vers l'an 800 sous la dynastie Sailendra, le monument compte 2 672 reliefs et 504 statues de Bouddha. Peu après sa construction, on a ajouté une base de pierre qui a recouvert le soubassement d'origine, le « Karmawibhangga », consacré aux conséquences des actes. Ces reliefs cachés ont été redécouverts en 1885 par l'ingénieur Yzerman. Seule une petite partie reste dégagée aujourd'hui, le reste demeurant masqué pour ne pas fragiliser l'édifice."
-   }
-  },
-  {
-   "id": "2026-10-09-06",
-   "label": "Point de 6h",
-   "date": "2026-10-09",
-   "hour": 6,
-   "tz": "+2",
-   "publishedAt": "2026-10-09T04:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "titre": "Lycéens : 504 interpellations et 48 forces de l'ordre blessées jeudi",
-      "resume": "Le ministère de l'Intérieur a dressé jeudi 8 octobre au soir le bilan de la journée de mobilisation lycéenne : 504 interpellations et 48 policiers et gendarmes blessés.",
-      "details": "Selon Beauvau, 71 500 personnes ont défilé ou se sont rassemblées, dont 24 500 à Paris, et environ 55 000 ont participé à des actions devant des établissements. Le ministère note une hausse des violences urbaines visant enseignants et établissements : un proviseur adjoint a été brûlé au visage par un mortier d'artifice à Saint-Chamond (Loire). Laurent Nuñez a réuni dans la soirée préfets de zone et responsables de la police et de la gendarmerie.",
-      "src": "Actu17",
-      "url": "https://actu17.fr/faits-divers/mouvement-lyceen-504-interpellations-et-48-policiers-et-gendarmes-blesses-beauvau-note-une-augmentation-des-violences-urbaines.html",
-      "une": true
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le premier SMS : 15 caractères et pas de réponse possible",
-    "texte": "Le 3 décembre 1992, un message de quinze caractères, « Merry Christmas », traverse pour la première fois un réseau mobile sous forme de SMS. L'ingénieur Neil Papworth, du groupe Sema, le tape sur un ordinateur à Newbury (Angleterre) et l'envoie sur le réseau de Vodafone. Le destinataire, Richard Jarvis, un directeur de Vodafone, le reçoit sur un téléphone Orbitel 901. Il ne pouvait pourtant pas répondre : ce modèle n'avait pas de clavier permettant d'écrire un message. Il faudra attendre 1993 pour que Nokia propose des téléphones capables d'en envoyer."
-   },
-   "lecture": {
-    "en": {
-     "titre": "France fires a nuclear missile from a submarine",
-     "texte": "On 6 October 2026, the French Navy successfully fired an M51.3 ballistic missile from the nuclear-powered submarine Le Vigilant. The launch took place off the coast of Brittany, without a nuclear warhead, and the missile landed in the North Atlantic, hundreds of kilometres from any coast.\nThe main goal was to prove that the submarine could use the missile again after a long period of maintenance. The work on Le Vigilant had started in 2023 and lasted almost three years. President Emmanuel Macron watched the test from the frigate Auvergne and said it showed that France's deterrent remains credible.\nThe M51.3 is the newest version of the missile. It entered service in October 2025 and offers a longer range, better accuracy and a greater ability to get past enemy defences. The test also carried experiments for the next version, the M51.4, which is already being developed.",
-     "vocab": [
-      {
-       "cible": "deterrent",
-       "fr": "dissuasion",
-       "ex": "He said it showed that France's deterrent remains credible."
+  "updatedAt": "2026-10-09T15:50:00Z",
+  "points": [
+    {
+      "id": "2026-10-09-18",
+      "label": "Point de 18h",
+      "date": "2026-10-09",
+      "hour": 18,
+      "tz": "+2",
+      "publishedAt": "2026-10-09T16:00:00Z",
+      "sections": {
+        "defense": [
+          {
+            "titre": "Char du futur : Paris assure que le MGCS franco-allemand continue",
+            "resume": "Le ministère des Armées a précisé le 9 octobre que le MGCS se poursuit, après les propos du chef d'état-major des armées devant les députés la veille.",
+            "details": "Le général Fabien Mandon avait évoqué le programme lors d'une audition à l'Assemblée le 8 octobre, ce qui avait nourri les doutes sur l'avenir du projet. Le ministère insiste sur l'intérêt du MGCS, recentré sur une nouvelle capacité. En parallèle, la France prépare une « capacité intermédiaire » pour remplacer le Leclerc à l'horizon 2038, côté allemand, KNDS et Rheinmetall développent le Leopard 3 comme solution de transition.",
+            "src": "Zone Militaire",
+            "url": "https://www.opex360.com/2026/10/09/le-projet-franco-allemand-de-systeme-principal-de-combat-terrestre-se-poursuit-assure-le-ministere-des-armees/",
+            "une": true
+          }
+        ],
+        "france": [
+          {
+            "titre": "Lycéens : troisième manifestation en une semaine annoncée à Nantes",
+            "resume": "Les lycéens nantais sont rappelés dans la rue ce vendredi 9 octobre, avec un départ au Miroir d'eau.",
+            "details": "Le mouvement lancé le 21 septembre se poursuit après la journée du 6 octobre, qui avait fait perturber 891 lycées selon l'Intérieur. Le Premier ministre a promis de premières décisions à la fin du mois d'octobre sur cinq chantiers : conditions d'enseignement, temps scolaire, bâti, Parcoursup et démocratie lycéenne.",
+            "src": "Titres de presse (Nantes Miroir)",
+            "url": "https://www.titrespresse.com/24412652603/nantes-miroir-mobilisation"
+          }
+        ],
+        "jeuvideo": [
+          {
+            "titre": "Dragon's Dogma 2 : l'extension Dark Arisen sort sur toutes les plateformes",
+            "resume": "Capcom lance ce 9 octobre l'extension Dark Arisen de Dragon's Dogma 2 sur PC, PS5, Xbox et Switch 2.",
+            "details": "L'extension offre environ 15 à 20 heures de jeu, avec 12 donjons de défis « Lost Rites » et davantage d'exploration verticale. Elle sort le jour même où sept jeux arrivent sur Xbox, selon PureXbox.",
+            "src": "PureXbox",
+            "url": "https://www.purexbox.com/news/2026/10/seven-xbox-games-are-out-today-including-a-major-expansion-to-capcoms-brilliant-rpg-october-9"
+          }
+        ]
       },
-      {
-       "cible": "maintenance",
-       "fr": "maintenance, entretien",
-       "ex": "The main goal was to prove that the submarine could use the missile again after a long period of maintenance."
-      },
-      {
-       "cible": "credible",
-       "fr": "crédible",
-       "ex": "He said it showed that France's deterrent remains credible."
-      },
-      {
-       "cible": "range",
-       "fr": "portée",
-       "ex": "It offers a longer range, better accuracy and a greater ability to get past enemy defences."
-      },
-      {
-       "cible": "to get past",
-       "fr": "franchir, contourner",
-       "ex": "It offers a longer range, better accuracy and a greater ability to get past enemy defences."
-      },
-      {
-       "cible": "to carry out / to carry",
-       "fr": "transporter, embarquer",
-       "ex": "The test also carried experiments for the next version."
-      },
-      {
-       "cible": "off the coast of",
-       "fr": "au large de",
-       "ex": "The launch took place off the coast of Brittany."
+      "culture": {
+        "sujet": "0-0 : le premier match international de football",
+        "texte": "Le tout premier match international de l'histoire du football s'est terminé sur un 0-0. Il a eu lieu le 30 novembre 1872 à Glasgow, au terrain de cricket de Hamilton Crescent, entre l'Écosse et l'Angleterre. Environ 4 000 spectateurs ont payé un shilling pour y assister. Les Écossais alignaient deux défenseurs, deux demis et six attaquants, tandis que les Anglais jouaient avec huit attaquants, une tactique très offensive, mais sans but marqué. Le jeu reposait alors surtout sur le dribble, car la passe était encore peu pratiquée."
       }
-     ],
-     "questions": [
-      {
-       "q": "Why was the missile fired without a nuclear warhead?",
-       "r": "Because the aim was only to test that the submarine could use the missile again after maintenance."
+    },
+    {
+      "id": "2026-10-09-12",
+      "label": "Point de 12h",
+      "date": "2026-10-09",
+      "hour": 12,
+      "tz": "+2",
+      "publishedAt": "2026-10-09T10:00:00Z",
+      "sections": {
+        "france": [
+          {
+            "titre": "Lycées bloqués : 3 000 enseignants promis, 141 établissements encore fermés",
+            "resume": "Le ministre de l'Éducation Édouard Geffray a annoncé jeudi soir 3 000 enseignants supplémentaires, alors que 141 lycées restaient fermés vendredi 9 octobre.",
+            "details": "Le gouvernement cherche une sortie de crise face à un mouvement parti de revendications locales (manque de professeurs, classes surchargées). Des remplaçants sont promis dès la semaine prochaine dans les lycées les plus touchés. Le mouvement coïncide avec l'examen du budget 2027, qui prévoit une hausse des crédits de l'Éducation mais la perte de 1 588 postes d'enseignants selon la presse spécialisée.",
+            "src": "Titres Presse / La Croix",
+            "url": "https://www.titrespresse.com/24468482603/edouard-geffray-blocage",
+            "une": true
+          }
+        ],
+        "grandest": [
+          {
+            "titre": "Grève chez DNA et L'Alsace contre 400 suppressions de postes au groupe Ebra",
+            "resume": "Les syndicats du groupe de presse Ebra (Crédit Mutuel) appellent à la grève vendredi 9 octobre, avec un rassemblement devant le siège de la banque.",
+            "details": "Le plan prévoit de supprimer 400 postes sur environ 3 200 dans neuf titres, dont une cinquantaine aux DNA et 12 à L'Alsace, surtout via des départs volontaires. Les salariés contestent aussi le recours à l'IA pour la mise en page et l'arrêt d'une rotative. Le plan avait été annoncé aux syndicats le 22 juin.",
+            "src": "Rue89 Strasbourg",
+            "url": "https://www.rue89strasbourg.com/greve-lalsace-dna-398612"
+          }
+        ],
+        "defense": [
+          {
+            "titre": "L'A400M va recevoir un kit de bombardier d'eau après le mégafeu girondin",
+            "resume": "La ministre des Armées Catherine Vautrin a annoncé l'achat d'un kit de lutte contre les incendies pour l'A400M, rapporte La Dépêche.",
+            "details": "L'A400M avait été déployé cet été avec un prototype lors du mégafeu en Gironde. Le dispositif est un réservoir amovible installé en soute, capable de larguer jusqu'à 20 000 litres d'eau ou de retardant par la rampe arrière. Airbus indique que le kit reste en développement et en certification, et la Sécurité civile doute de sa viabilité.",
+            "src": "La Dépêche / Titres Presse",
+            "url": "https://www.titrespresse.com/24481582603/airbus-defence-space"
+          }
+        ]
       },
-      {
-       "q": "What else did the test carry?",
-       "r": "Experiments for the next version, the M51.4."
+      "culture": {
+        "sujet": "Borobudur et ses reliefs enfouis",
+        "texte": "Sous le temple bouddhique de Borobudur, à Java, se cachent 160 panneaux sculptés que personne ne voit. Construit vers l'an 800 sous la dynastie Sailendra, le monument compte 2 672 reliefs et 504 statues de Bouddha. Peu après sa construction, on a ajouté une base de pierre qui a recouvert le soubassement d'origine, le « Karmawibhangga », consacré aux conséquences des actes. Ces reliefs cachés ont été redécouverts en 1885 par l'ingénieur Yzerman. Seule une petite partie reste dégagée aujourd'hui, le reste demeurant masqué pour ne pas fragiliser l'édifice."
       }
-     ],
-     "src": "Naval News",
-     "url": "https://www.navalnews.com/?p=91680"
+    },
+    {
+      "id": "2026-10-09-06",
+      "label": "Point de 6h",
+      "date": "2026-10-09",
+      "hour": 6,
+      "tz": "+2",
+      "publishedAt": "2026-10-09T04:00:00Z",
+      "sections": {
+        "france": [
+          {
+            "titre": "Lycéens : 504 interpellations et 48 forces de l'ordre blessées jeudi",
+            "resume": "Le ministère de l'Intérieur a dressé jeudi 8 octobre au soir le bilan de la journée de mobilisation lycéenne : 504 interpellations et 48 policiers et gendarmes blessés.",
+            "details": "Selon Beauvau, 71 500 personnes ont défilé ou se sont rassemblées, dont 24 500 à Paris, et environ 55 000 ont participé à des actions devant des établissements. Le ministère note une hausse des violences urbaines visant enseignants et établissements : un proviseur adjoint a été brûlé au visage par un mortier d'artifice à Saint-Chamond (Loire). Laurent Nuñez a réuni dans la soirée préfets de zone et responsables de la police et de la gendarmerie.",
+            "src": "Actu17",
+            "url": "https://actu17.fr/faits-divers/mouvement-lyceen-504-interpellations-et-48-policiers-et-gendarmes-blesses-beauvau-note-une-augmentation-des-violences-urbaines.html",
+            "une": true
+          }
+        ]
+      },
+      "culture": {
+        "sujet": "Le premier SMS : 15 caractères et pas de réponse possible",
+        "texte": "Le 3 décembre 1992, un message de quinze caractères, « Merry Christmas », traverse pour la première fois un réseau mobile sous forme de SMS. L'ingénieur Neil Papworth, du groupe Sema, le tape sur un ordinateur à Newbury (Angleterre) et l'envoie sur le réseau de Vodafone. Le destinataire, Richard Jarvis, un directeur de Vodafone, le reçoit sur un téléphone Orbitel 901. Il ne pouvait pourtant pas répondre : ce modèle n'avait pas de clavier permettant d'écrire un message. Il faudra attendre 1993 pour que Nokia propose des téléphones capables d'en envoyer."
+      },
+      "lecture": {
+        "en": {
+          "titre": "France fires a nuclear missile from a submarine",
+          "texte": "On 6 October 2026, the French Navy successfully fired an M51.3 ballistic missile from the nuclear-powered submarine Le Vigilant. The launch took place off the coast of Brittany, without a nuclear warhead, and the missile landed in the North Atlantic, hundreds of kilometres from any coast.\nThe main goal was to prove that the submarine could use the missile again after a long period of maintenance. The work on Le Vigilant had started in 2023 and lasted almost three years. President Emmanuel Macron watched the test from the frigate Auvergne and said it showed that France's deterrent remains credible.\nThe M51.3 is the newest version of the missile. It entered service in October 2025 and offers a longer range, better accuracy and a greater ability to get past enemy defences. The test also carried experiments for the next version, the M51.4, which is already being developed.",
+          "vocab": [
+            {
+              "cible": "deterrent",
+              "fr": "dissuasion",
+              "ex": "He said it showed that France's deterrent remains credible."
+            },
+            {
+              "cible": "maintenance",
+              "fr": "maintenance, entretien",
+              "ex": "The main goal was to prove that the submarine could use the missile again after a long period of maintenance."
+            },
+            {
+              "cible": "credible",
+              "fr": "crédible",
+              "ex": "He said it showed that France's deterrent remains credible."
+            },
+            {
+              "cible": "range",
+              "fr": "portée",
+              "ex": "It offers a longer range, better accuracy and a greater ability to get past enemy defences."
+            },
+            {
+              "cible": "to get past",
+              "fr": "franchir, contourner",
+              "ex": "It offers a longer range, better accuracy and a greater ability to get past enemy defences."
+            },
+            {
+              "cible": "to carry out / to carry",
+              "fr": "transporter, embarquer",
+              "ex": "The test also carried experiments for the next version."
+            },
+            {
+              "cible": "off the coast of",
+              "fr": "au large de",
+              "ex": "The launch took place off the coast of Brittany."
+            }
+          ],
+          "questions": [
+            {
+              "q": "Why was the missile fired without a nuclear warhead?",
+              "r": "Because the aim was only to test that the submarine could use the missile again after maintenance."
+            },
+            {
+              "q": "What else did the test carry?",
+              "r": "Experiments for the next version, the M51.4."
+            }
+          ],
+          "src": "Naval News",
+          "url": "https://www.navalnews.com/?p=91680"
+        }
+      }
+    },
+    {
+      "id": "2026-10-08-18",
+      "label": "Point de 18h",
+      "date": "2026-10-08",
+      "hour": 18,
+      "tz": "+2",
+      "publishedAt": "2026-10-08T16:00:00Z",
+      "sections": {
+        "defense": [
+          {
+            "titre": "Vautrin alerte : sans budget 2027, les commandes d'armement seraient gelées",
+            "resume": "Le 8 octobre, la ministre des Armées Catherine Vautrin a averti que l'absence de budget 2027 voté avant fin décembre bloquerait des programmes d'armement.",
+            "details": "Sans loi de finances, les crédits de la mission Défense resteraient plafonnés au niveau de 2026, soit environ 6,5 Md€ de moins que les 63,4 Md€ prévus pour 2027. Aucune nouvelle commande ne pourrait être passée en attendant. L'alerte tombe alors que la LPM actualisée, promulguée en août, ajoute 36 Md€ d'ici 2030.",
+            "src": "Boursorama (AFP)",
+            "url": "https://www.boursorama.com/actualite-economique/actualites/programmes-d-armement-bloques-la-ministre-des-armees-met-en-garde-contre-les-consequences-sur-la-defense-si-le-budget-2027-n-est-pas-adopte-avant-la-fin-de-l-annee-1462f1cb34364b2b4861e25999106b0b",
+            "une": true
+          }
+        ],
+        "france": [
+          {
+            "titre": "Lycées : l'intersyndicale appelle à une nouvelle journée d'action le 13 octobre",
+            "resume": "Après l'« acte IV » de jeudi, intersyndicale étudiante et professionnelle donne rendez-vous mardi 13 octobre.",
+            "details": "Le ministère de l'Éducation affirme qu'environ 96 % des établissements sont ouverts, alors que le syndicat lycéen évoque près de 2 000 lycées à l'arrêt. Les cours ont repris le matin dans plusieurs villes, mais des blocages subsistent. Le gouvernement promet des premières décisions chiffrées avant fin octobre.",
+            "src": "Boursorama",
+            "url": "https://www.boursorama.com/actualite-economique/actualites/lycees-nouvel-appel-a-la-mobilisation-le-13-octobre-830315b93ddee6ff9015695b0b5697f0"
+          },
+          {
+            "titre": "Banque de France : pas d'« effet de second tour » sur l'inflation",
+            "resume": "Le gouverneur estime que le choc inflationniste lié à la guerre au Moyen-Orient ne s'étend pas, pour l'instant, à toute l'économie.",
+            "details": "Il ne voit pas de spirale entre prix et salaires à ce stade. Le diagnostic reste conditionné à l'évolution de l'énergie, dont les prix du diesel viennent de refluer dans l'UE après des records.",
+            "src": "Boursorama",
+            "url": "https://www.boursorama.com/actualite-economique/actualites/pas-d-effet-de-second-tour-que-signifie-le-commentaire-du-gouverneur-de-la-banque-de-france-sur-l-inflation-actuelle-942e537d52eae35820d400d57fd6dde9"
+          },
+          {
+            "titre": "Cyberattaques : un coup de pouce fiscal pour protéger les usines",
+            "resume": "Les députés de la commission des finances ont adopté un amendement incitant les industriels à investir dans la cybersécurité.",
+            "details": "L'objectif est d'éviter la paralysie de sites de production par des rançongiciels. Le dispositif, encore au stade de l'amendement budgétaire, devra survivre aux débats sur le projet de loi de finances.",
+            "src": "Boursorama",
+            "url": "https://www.boursorama.com/actualite-economique/actualites/cyberattaques-vers-un-coup-de-pouce-fiscal-pour-aider-a-proteger-les-usines-de-la-paralysie-7890204daf1661ab08ac3a9927952c46"
+          }
+        ],
+        "grandest": [
+          {
+            "titre": "Lycéens à Metz : un cortège calme malgré la colère",
+            "resume": "Plusieurs centaines de personnes ont défilé jeudi à Metz, au lendemain de la prise de parole de Sébastien Lecornu.",
+            "details": "Le plan annoncé par le Premier ministre ne sera détaillé que fin octobre, ce qui n'a pas apaisé la mobilisation. Le mouvement reprenait aussi à Nancy.",
+            "src": "ICI Lorraine",
+            "url": "https://www.ici.fr/grand-est/moselle-57/metz/blocage-des-lycees-en-moselle-la-mobilisation-reprend-ce-jeudi-les-professeurs-appeles-a-manifester-a-metz-3059326"
+          }
+        ],
+        "occitanie": [
+          {
+            "titre": "Toulouse et Montpellier : l'« acte IV » lycéen sous tension juridique",
+            "resume": "Jeudi 8 octobre, grève et cortèges à Toulouse et Montpellier, avec deux décisions opposées sur les interdictions de rassemblement.",
+            "details": "À Toulouse, le juge des référés a suspendu l'arrêté interdisant les rassemblements près des établissements. À Montpellier, la préfète a interdit les cortèges dans l'Écusson ; la manifestation était fixée à 13h au Peyrou.",
+            "src": "ICI Occitanie",
+            "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/blocage-des-lycees-une-nouvelle-journee-de-greve-et-de-manifestations-ce-jeudi-8-octobre-4098788"
+          }
+        ]
+      },
+      "culture": {
+        "sujet": "Mondino et la dissection publique de Bologne",
+        "texte": "En 1316, un anatomiste de Bologne a achevé un manuel de dissection qui allait régner sur l'Europe pendant plus de deux siècles. Mondino de Luzzi, professeur de médecine, y décrit l'ouverture du corps dans l'ordre de putréfaction : abdomen d'abord, puis thorax, puis crâne. Son Anathomia s'appuyait sur des dissections de cadavres humains pratiquées à Bologne vers 1315, parmi les premières documentées en Occident chrétien. L'ouvrage resta un texte de référence dans les universités jusqu'au XVIe siècle. Il fut supplanté en 1543 par le De humani corporis fabrica d'André Vésale, qui corrigea de nombreuses erreurs héritées de Galien."
+      }
+    },
+    {
+      "id": "2026-10-06-18",
+      "label": "Point de 18h",
+      "date": "2026-10-06",
+      "hour": 18,
+      "tz": "+2",
+      "publishedAt": "2026-10-06T16:00:00Z",
+      "sections": {
+        "defense": [
+          {
+            "titre": "Le SNLE Le Vigilant tire avec succès un missile M51.3",
+            "resume": "Le sous-marin nucléaire Le Vigilant a tiré un missile M51.3 sans charge au large du Finistère le 6 octobre, en présence d'Emmanuel Macron.",
+            "details": "Baptisée SMERTRIOS, l'opération valide la capacité du sous-marin à mettre en œuvre le M51 après son arrêt technique périodique (IPER). C'est le premier tir de cette version depuis un SNLE selon ArianeGroup. Le M51.3, entré en service opérationnel en octobre 2025, emporte la tête nucléaire océanique TNO-2 et améliore portée, précision et capacité de pénétration.",
+            "src": "Zone Militaire",
+            "url": "https://www.opex360.com/2026/10/06/dissuasion-le-sous-marin-nucleaire-lanceur-dengins-le-vigilant-a-tire-un-missile-strategique-m51-3-avec-succes/",
+            "une": true
+          }
+        ],
+        "france": [
+          {
+            "titre": "Lycéens dans la rue : 256 000 à 450 000 manifestants selon les sources",
+            "resume": "La troisième journée de mobilisation lycéenne et étudiante a réuni le 6 octobre 256 000 manifestants selon l'Intérieur, 450 000 selon l'intersyndicale jeunesse.",
+            "details": "Paris a compté 56 000 personnes selon le ministère, 100 000 selon les organisateurs. Près de 900 lycées sur 3 700 ont été perturbés. Les syndicats d'enseignants appelaient à soutenir le mouvement, y compris par la grève, contre la dégradation des conditions d'apprentissage ; le ministre Édouard Geffray espère une reprise progressive dès mercredi.",
+            "src": "franceinfo",
+            "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-blocages-des-lycees-des-manifestations-prevues-dans-une-trentaine-de-villes-pour-l-acte-iii-de-la-mobilisation_8224333.html"
+          },
+          {
+            "titre": "Budget 2027 : le PLF arrive à l'Assemblée, la censure plane",
+            "resume": "Le projet de loi de finances 2027 est déposé à l'Assemblée le 6 octobre, face à des oppositions unanimement hostiles.",
+            "details": "Le texte vise un déficit de 5,0 % du PIB en 2027 contre 5,4 % attendus en 2026, avec 54 milliards d'euros d'effort dont 43 milliards de mesures nouvelles. Socialistes et écologistes dénoncent une « provocation » et la gauche promet une motion de censure contre le gouvernement Lecornu, minoritaire.",
+            "src": "Le Journal du Net",
+            "url": "https://www.journaldunet.com/business/action-publique/1555095-la-gauche-annonce-une-motion-de-censure-contre-le-gouvernement-lecornu-lors-du-debat-sur-le-budget-2027/"
+          }
+        ],
+        "grandest": [
+          {
+            "titre": "Des milliers de lycéens défilent à Strasbourg, Mulhouse et Metz",
+            "resume": "Rassemblements devant les lycées puis cortèges à Strasbourg et Mulhouse à 14h, et plusieurs milliers de manifestants à Metz le 6 octobre.",
+            "details": "Lycéens, étudiants et enseignants ont défilé dans le cadre de l'acte III national. À Metz, un incident lié à l'interpellation d'une lycéenne la veille a conduit à l'ouverture d'une enquête par le parquet, selon France 3.",
+            "src": "France 3 Grand Est",
+            "url": "https://france3-regions.franceinfo.fr/grand-est/alsace/mobilisations-du-6-octobre-plusieurs-rassemblements-devant-des-lycees-et-universites-avant-des-manifestations-a-strasbourg-et-mulhouse-3428592.html"
+          }
+        ],
+        "occitanie": [
+          {
+            "titre": "Gard et Hérault en vigilance orange pluie-inondation dès 22h",
+            "resume": "Météo-France place le Gard et l'Hérault en orange pluie-inondation et orages à partir de 22h ce mardi soir.",
+            "details": "Un nouvel épisode méditerranéen est attendu dans la nuit de mardi à mercredi, avec orages stationnaires, grêle et rafales localement violentes. Le reste de l'Occitanie reste en jaune ; les Bouches-du-Rhône et le Var passeront en orange mercredi.",
+            "src": "ICI Occitanie",
+            "url": "https://www.ici.fr/occitanie/gard-30/intemperies-le-gard-et-l-herault-en-vigilance-orange-pluie-inondation-et-orages-a-partir-de-mardi-soir-5352978"
+          }
+        ],
+        "jeuvideo": [
+          {
+            "titre": "Gears of War: E-Day sort sur Xbox Series et PC",
+            "resume": "Le nouveau Gears of War de The Coalition est disponible le 6 octobre sur Xbox Series X|S et PC, dès le premier jour dans le Game Pass.",
+            "details": "Exclusivité Xbox côté consoles, le jeu propose une campagne de plus de 14 heures ainsi que des modes Versus 4v4 et Horde Siege. Les éditions Premium et Collector offraient un accès anticipé depuis le 1er octobre.",
+            "src": "L'Éclaireur Fnac",
+            "url": "https://leclaireur.fnac.com/article/cp63637-gears-of-war-e-day-date-de-sortie-trailer-toutes-les-infos/"
+          }
+        ]
+      },
+      "culture": {
+        "sujet": "Le cornique, langue déclarée morte puis ressuscitée",
+        "texte": "En 2009, l'UNESCO classait le cornique parmi les langues éteintes, alors que des centaines de personnes le parlaient déjà. La tradition fait de Dolly Pentreath, morte en 1777 à Mousehole, la dernière locutrice native, même si ce statut est discuté. La renaissance débute avec Henry Jenner, qui publie en 1904 son Handbook of the Cornish Language. Le Royaume-Uni reconnaît le cornique en 2002 au titre de la Charte européenne des langues régionales. En 2010, l'UNESCO révise son verdict et le range parmi les langues « en danger critique »."
+      }
+    },
+    {
+      "id": "2026-10-05-18",
+      "label": "Point de 18h",
+      "date": "2026-10-05",
+      "hour": 18,
+      "tz": "+2",
+      "publishedAt": "2026-10-05T16:00:00Z",
+      "sections": {
+        "defense": [
+          {
+            "titre": "Paris et Ankara s'accordent sur une feuille de route de défense",
+            "resume": "La France et la Turquie ont convenu le 5 octobre d'une feuille de route pour renforcer leur coopération militaire, selon Zone Militaire.",
+            "details": "L'accord intervient après des années de tensions, dont l'épisode de 2020 autour d'un navire de recherche turc escorté près de l'île grecque de Kastellorizo. Ankara s'intéresse de longue date au système sol-air SAMP/T, dont la vente est restée suspendue au dialogue politique.",
+            "src": "Zone Militaire (Opex360)",
+            "url": "https://www.opex360.com/2026/10/05/la-france-et-la-turquie-saccordent-sur-une-feuille-de-route-pour-renforcer-leur-cooperation-en-matiere-de-defense/",
+            "une": true
+          }
+        ],
+        "france": [
+          {
+            "titre": "Blocus lycéen : tension à la veille de la journée du 6 octobre",
+            "resume": "Après un lundi de cours suspendus dans plusieurs centaines de lycées, l'USL et l'Union étudiante appellent à une nouvelle journée de mobilisation mardi.",
+            "details": "Selon les informations relayées, 400 à 500 lycées étaient totalement ou partiellement paralysés lundi, dont plus de 160 en Île-de-France. Les organisations syndicales doivent rejoindre les jeunes mardi, avec un rassemblement attendu à Paris place de la République à 14h. Les revendications portent sur les moyens, les effectifs par classe et Parcoursup.",
+            "src": "Le Bonbon",
+            "url": "https://www.lebonbon.fr/paris/news/greve-nationale-blocus-lycees-quoi-attendre-mardi-6-octobre-2026/"
+          }
+        ],
+        "grandest": [
+          {
+            "titre": "Reims sans tramway, lycées bloqués à Nancy et Metz",
+            "resume": "La mobilisation lycéenne a reparu lundi en Grand Est, avec des perturbations de transport à Reims et des tensions à Metz.",
+            "details": "À Reims, le tramway n'a pas circulé et les bus ont tourné à moitié. À Nancy, plusieurs établissements de l'agglomération sont restés bloqués, quelques centaines de jeunes convergeant vers le centre-ville. En Alsace, de nombreux lycées sont restés fermés après la pause du week-end.",
+            "src": "France 3 Grand Est",
+            "url": "https://france3-regions.franceinfo.fr/grand-est/"
+          }
+        ],
+        "occitanie": [
+          {
+            "titre": "Toulouse : alerte intrusion, interpellations et lycée évacué",
+            "resume": "Nouvelle journée sous tension à Toulouse avec des heurts devant le lycée Raymond Naves, à Borderouge, et plusieurs établissements fermés.",
+            "details": "Une bouteille de gaz a été découverte près du lycée puis sécurisée. À Montpellier, le lycée Clemenceau a été bloqué lundi matin. Les fermetures sont décidées pour raisons de sécurité.",
+            "src": "France 3 Occitanie",
+            "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/blocage-des-lycees-alerte-intrusion-interpellations-et-lycee-evacue-nouvelle-journee-sous-tension-a-toulouse-3428148.html"
+          }
+        ]
+      },
+      "culture": {
+        "sujet": "Le plus grand essaim d'insectes jamais observé",
+        "texte": "En 1875, un essaim de criquets des Montagnes Rocheuses a couvert une zone estimée à près de 513 000 km² au-dessus du Nebraska, soit plus que la France. L'entomologiste Albert Child l'a observé et son nom est resté à cet essaim, dit « Albert's Swarm ». Les estimations évoquent environ 12 500 milliards d'insectes, pour une masse de l'ordre de 27 millions de tonnes. Pourtant, l'espèce, Melanoplus spretus, a disparu en quelques décennies : le dernier spécimen vivant connu a été vu au Canada en 1902. L'une des hypothèses est que les colons ont labouré les zones de ponte, détruisant les œufs."
+      }
+    },
+    {
+      "id": "2026-10-05-12",
+      "label": "Point de 12h",
+      "date": "2026-10-05",
+      "hour": 12,
+      "tz": "+2",
+      "publishedAt": "2026-10-05T10:00:00Z",
+      "sections": {
+        "france": [
+          {
+            "titre": "Blocus des lycées : Geffray lance une consultation, les syndicats insistent",
+            "resume": "Le ministre de l'Éducation Édouard Geffray ouvre ce lundi 5 octobre une plateforme de consultation des lycéens, mais l'Union syndicale lycéenne appelle à poursuivre la mobilisation dès mardi.",
+            "details": "La plateforme, prévue pour trois semaines, doit recueillir les difficultés et les attentes des élèves. Le mouvement, parti le 29 septembre contre le manque de professeurs et la vétusté des locaux, a gagné des universités. L'USL juge ces annonces insuffisantes, faute de mesures concrètes.",
+            "src": "Europe 1",
+            "url": "https://www.europe1.fr/politique/blocus-des-lycees-edouard-geffray-multiplie-les-concertations-mais-les-syndicats-restent-sur-leur-faim-1119149",
+            "une": true
+          }
+        ],
+        "grandest": [
+          {
+            "titre": "Blocus lycéen : établissements fermés à Strasbourg et dans le Haut-Rhin",
+            "resume": "Ce lundi 5 octobre, les lycées de Strasbourg et huit établissements du Haut-Rhin sont fermés en raison de la mobilisation lycéenne.",
+            "details": "Les blocages se poursuivent aussi dans plusieurs villes lorraines, dont Nancy, Metz et Val-de-Briey. À Reims, la mobilisation lycéenne et étudiante a privé la ville de tramway et réduit de moitié les bus. La mobilisation du matin est jugée faible par endroits en Alsace.",
+            "src": "Titres de presse (DNA)",
+            "url": "https://www.titrespresse.com/23937542603/alsace-patio-strasbourg"
+          }
+        ],
+        "jeuvideo": [
+          {
+            "titre": "Paramount et Warner Bros. Discovery fusionnent demain sous le nom Skydance",
+            "resume": "Le rachat à 110 milliards de dollars doit être finalisé mardi 6 octobre, après l'accord conclu avec des procureurs généraux d'États américains.",
+            "details": "Le nouvel ensemble s'appellera Skydance et regroupera Paramount, Warner Bros., HBO Max et CBS. Le sort de Warner Bros. Games, rattaché à WBD, n'est pas détaillé à ce stade ; une restructuration avec de nombreuses suppressions de postes est attendue dans les semaines à venir.",
+            "src": "CNBC",
+            "url": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html"
+          },
+          {
+            "titre": "Gears of War: E-Day sort demain sur Xbox Series et PC",
+            "resume": "Le préquel de la saga Gears of War est disponible dès mardi 6 octobre sur Xbox Series X|S et PC, et inclus dans le Game Pass dès le premier jour.",
+            "details": "C'est la sortie phare de la semaine du 5 octobre. Des employés de The Coalition s'inquiéteraient de possibles licenciements après le lancement, alors que Xbox mène une restructuration qui vise 3 200 postes sur l'exercice.",
+            "src": "ActuGaming",
+            "url": "https://actugaming.net/les-sorties-jeux-video-de-la-semaine-du-5-octobre-gears-of-war-e-day-star-wars-galactic-racer-hellraiser-aion-2-828423"
+          }
+        ]
+      },
+      "culture": {
+        "sujet": "L'os d'Ishango, plus vieille trace de calcul ?",
+        "texte": "Un os de babouin de 10 cm, gravé d'entailles regroupées en colonnes, intrigue les mathématiciens depuis 1950. Il a été trouvé à Ishango, sur les rives du lac Édouard (actuelle RD Congo), par le géologue belge Jean de Heinzelin de Braucourt. Daté d'environ 20 000 ans, il porte trois colonnes de marques dont l'une additionne 11, 13, 17 et 19, soit les nombres premiers entre 10 et 20. Une autre colonne aligne 11, 21, 19 et 9, des nombres proches de 10 ± 1 et 20 ± 1. Certains y voient un calendrier lunaire ou un outil de calcul, d'autres un simple décompte : le débat reste ouvert. L'objet est conservé à l'Institut royal des sciences naturelles de Belgique, à Bruxelles."
+      }
+    },
+    {
+      "id": "2026-10-05-06",
+      "label": "Point de 6h",
+      "date": "2026-10-05",
+      "hour": 6,
+      "tz": "+2",
+      "publishedAt": "2026-10-05T04:00:00Z",
+      "sections": {
+        "france": [
+          {
+            "titre": "Blocus lycéen : plus de 400 lycées paralysés avant la journée du 6 octobre",
+            "resume": "Né à Créteil le 21 septembre, le mouvement de blocage touche plus de 400 lycées et débouche sur une journée de mobilisation nationale mardi 6 octobre.",
+            "details": "Les cours sont totalement ou partiellement suspendus lundi 5 octobre dans 400 à 500 lycées où la sécurité n'est pas garantie. Les lycéens dénoncent le manque d'enseignants, les classes surchargées, des bâtiments dégradés et le stress de Parcoursup. L'intersyndicale de l'Éducation appelle à participer mardi, y compris par la grève, avec une manifestation prévue à 14h place de la République à Paris.",
+            "src": "France 24",
+            "url": "https://www.france24.com/fr/france/20261004-mobilisation-lyceenne-plus-400-lycees-paralyses-6-octobre-manifestation-greve-blocus-violences-police-ce-qu-il-faut-savoir",
+            "une": true
+          }
+        ]
+      },
+      "culture": {
+        "sujet": "Le courrier postal envoyé dans une boîte de biscuits",
+        "texte": "Pendant des décennies, le courrier de l'île tongienne de Niuafo'ou a été remis aux navires de passage dans une boîte de conserve. L'île volcanique n'a ni port ni lagon accessible : les paquebots ne pouvaient pas accoster. Un nageur emportait donc le courrier dans une boîte de biscuits étanche, soudée, jusqu'au navire, et rapportait celui qui arrivait de la même façon. Ce « Tin Can Mail » a fonctionné jusqu'en 1983, quand une piste d'aviation a rendu le système inutile. L'île a même été évacuée après l'éruption de 1946, mais ses habitants sont revenus ensuite ; ses timbres, tamponnés d'une mention « Tin Can Mail », sont devenus très recherchés des philatélistes."
+      },
+      "lecture": {
+        "en": {
+          "titre": "Thousands of French students block their schools",
+          "texte": "Two weeks ago, students at a high school in Créteil, near Paris, blocked the entrance to protest against the lack of teachers and overcrowded classes. The protest quickly spread across the country. By the weekend, more than 400 schools were affected, and the authorities said classes would be fully or partly suspended on Monday in places where safety could not be guaranteed.\nThe students also criticise damaged school buildings and the stress linked to the university admission platform Parcoursup. Several teachers' unions have joined the movement, and the education unions have called for a day of action, including a strike, on Tuesday 6 October.\nA large demonstration is planned in Paris, and the government is under pressure to offer concrete measures. For now, student organisations say they will continue the movement until they get a clear answer.",
+          "vocab": [
+            {
+              "cible": "overcrowded",
+              "fr": "surchargé",
+              "ex": "…protest against the lack of teachers and overcrowded classes."
+            },
+            {
+              "cible": "spread",
+              "fr": "se propager",
+              "ex": "The protest quickly spread across the country."
+            },
+            {
+              "cible": "affected",
+              "fr": "touché",
+              "ex": "By the weekend, more than 400 schools were affected…"
+            },
+            {
+              "cible": "suspended",
+              "fr": "suspendu",
+              "ex": "…classes would be fully or partly suspended on Monday…"
+            },
+            {
+              "cible": "to join",
+              "fr": "rejoindre",
+              "ex": "Several teachers' unions have joined the movement…"
+            },
+            {
+              "cible": "under pressure",
+              "fr": "sous pression",
+              "ex": "…the government is under pressure to offer concrete measures."
+            },
+            {
+              "cible": "a clear answer",
+              "fr": "une réponse claire",
+              "ex": "…until they get a clear answer."
+            }
+          ],
+          "questions": [
+            {
+              "q": "Where did the protest start?",
+              "r": "At a high school in Créteil, near Paris."
+            },
+            {
+              "q": "What day of action is planned?",
+              "r": "Tuesday 6 October, with a strike and a demonstration in Paris."
+            }
+          ],
+          "src": "France 24",
+          "url": "https://www.france24.com/fr/france/20261004-mobilisation-lyceenne-plus-400-lycees-paralyses-6-octobre-manifestation-greve-blocus-violences-police-ce-qu-il-faut-savoir"
+        }
+      }
+    },
+    {
+      "id": "2026-10-04-18",
+      "label": "Point de 18h",
+      "date": "2026-10-04",
+      "hour": 18,
+      "tz": "+2",
+      "publishedAt": "2026-10-04T16:00:00Z",
+      "sections": {
+        "defense": [
+          {
+            "titre": "Le 68e RAA éclate ses batteries de CAESAr pour échapper aux drones",
+            "resume": "Le 68e régiment d'artillerie d'Afrique réorganise ses batteries de canons CAESAr afin de mieux les protéger contre les drones, selon Opex360 le 4 octobre.",
+            "details": "Les batteries de quatre pièces laissent place à des sections de deux canons de 155 mm, plus difficiles à repérer et à frapper. Une section dédiée prépare les positions de tir et met en place des leurres. Ce retour d'expérience tiré des combats en Ukraine inspire désormais la doctrine de l'artillerie française.",
+            "src": "Opex360",
+            "url": "https://www.opex360.com/2026/10/04/le-68e-regiment-dartillerie-dafrique-reorganise-ses-batteries-de-caesar-pour-accroitre-leur-protection-contre-les-drones/"
+          }
+        ],
+        "france": [
+          {
+            "titre": "Blocages de lycées : Lecornu accélère la loi « casseur-payeur »",
+            "resume": "Le Premier ministre fait inscrire dès octobre au Sénat la proposition de loi « casseur-payeur », après les dégradations liées aux blocages de lycées.",
+            "details": "Le texte vise à faire supporter aux auteurs de violences collectives le coût des réparations plutôt qu'aux finances publiques. Le ministre de l'Intérieur Laurent Nuñez réfute toute intervention policière « disproportionnée » et affirme que les forces de l'ordre protègent les lycéens qui manifestent pacifiquement. Une nouvelle journée de mobilisation est annoncée pour le 6 octobre.",
+            "src": "Entrevue",
+            "url": "https://entrevue.fr/politique/violences-autour-des-lycees-lecornu-accelere-lexamen-de-la-loi-casseur-payeur",
+            "une": true
+          },
+          {
+            "titre": "Nuñez rejette l'accusation de violences policières devant les lycées",
+            "resume": "Laurent Nuñez affirme que la police ne fait que protéger les élèves qui souhaitent manifester pacifiquement.",
+            "details": "Le gouvernement attribue une partie des blocages à LFI et à ses relais d'extrême gauche, tandis que Jean-Luc Mélenchon voit dans la journée du 6 octobre « un point de départ ». Le ministre David Amiel assure de son côté que les lycéens ont le droit de manifester.",
+            "src": "Orange Actualités",
+            "url": "https://actu.orange.fr/france/blocages-des-lycees-nunez-refute-toute-intervention-quot-disproportionnee-quot-CNT000002sjkFa.html"
+          }
+        ],
+        "grandest": [
+          {
+            "titre": "Metz : mobilisation contre la fermeture des urgences de Legouest",
+            "resume": "Une centaine de personnes se sont rassemblées à Metz contre le transfert des urgences de l'hôpital militaire Legouest.",
+            "details": "Les urgences doivent passer sous la responsabilité du CHR Metz-Thionville début 2027. Les manifestants craignent de perdre le seul service d'urgences du centre-ville de Metz ; Force Ouvrière s'inquiète aussi pour le personnel.",
+            "src": "France 3 Grand Est",
+            "url": "https://france3-regions.franceinfo.fr/grand-est/moselle/metz/on-a-des-raisons-d-etre-inquiets-mobilisation-contre-la-fermeture-des-urgences-de-legouest-3427461.html"
+          },
+          {
+            "titre": "Plus de 12 000 personnes en rose à Strasbourg contre le cancer du sein",
+            "resume": "Strasbourg a vu défiler plus de 12 000 personnes vêtues de rose ce dimanche 4 octobre, dans le cadre d'Octobre rose.",
+            "details": "Le rassemblement vise à sensibiliser au dépistage du cancer du sein. Par ailleurs, la ville a rétabli ses trams après des dégradations commises lors des manifestations lycéennes de la semaine.",
+            "src": "France 3 Grand Est",
+            "url": "https://france3-regions.franceinfo.fr/grand-est/"
+          }
+        ],
+        "occitanie": [
+          {
+            "titre": "Vigilance orange : fortes pluies dans les Pyrénées-Orientales et l'Aude",
+            "resume": "Météo-France maintient le département des Pyrénées-Orientales et l'Aude en orange pluie-inondation ce dimanche, avec des orages venus d'Espagne.",
+            "details": "Environ 50 mm sont tombés à Perpignan en quelques heures. Huit gués et ponts submersibles ont été fermés, les animations extérieures annulées, et la préfecture appelle à limiter les déplacements. Les cumuls pourraient atteindre 150 à 180 mm sur les reliefs (Corbières, Fenouillèdes, Albères).",
+            "src": "France 3 Occitanie",
+            "url": "https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/vigilance-orange-les-pyrenees-orientales-et-l-aude-sous-la-menace-de-fortes-pluies-et-d-inondations-3427668.html"
+          },
+          {
+            "titre": "Aude et Hérault : jusqu'à 200 mm de pluie, des routes coupées",
+            "resume": "Des cumuls allant jusqu'à 200 mm ont coupé plusieurs axes routiers dans l'Aude et l'Hérault, avant le déplacement des pluies vers les Pyrénées-Orientales.",
+            "details": "Les deux départements, d'abord en orange, sont repassés en jaune pluie-inondation dans l'après-midi (Aude) puis en fin de journée (Hérault).",
+            "src": "France 3 Occitanie",
+            "url": "https://france3-regions.franceinfo.fr/occitanie/aude/narbonne/inondations-dans-l-aude-et-l-herault-jusqu-a-200-mm-de-pluie-des-axes-routiers-coupes-la-pluie-se-dirige-vers-les-pyrenees-orientales-3427587.html"
+          }
+        ],
+        "jeuvideo": [
+          {
+            "titre": "Warner Bros racheté par Paramount : fusion actée sous le nom Skydance",
+            "resume": "Le rachat de Warner Bros par Paramount est acté et la nouvelle entité s'appellera simplement Skydance.",
+            "details": "L'opération, évaluée à 111 milliards de dollars, doit entrer en vigueur la semaine prochaine. Des licenciements massifs sont attendus dans les semaines à venir, ce qui pèse sur l'avenir des studios de jeux du groupe.",
+            "src": "ActuGaming",
+            "url": "https://www.actugaming.net/le-rachat-de-warner-bros-par-paramount-est-acte-la-nouvelle-entreprise-sappellera-simplement-skydance-828113/"
+          },
+          {
+            "titre": "Chez The Coalition, la crainte de licenciements après Gears of War: E-Day",
+            "resume": "Des employés du studio Xbox redoutent des licenciements juste après la sortie de Gears of War: E-Day.",
+            "details": "Le story director Juan Vaca aurait été licencié deux semaines avant le lancement. Les bonus liés au succès du jeu sont en jeu, dans un contexte de vagues de suppressions de postes chez Xbox.",
+            "src": "ActuGaming",
+            "url": "https://actugaming.net/chez-the-coalition-plusieurs-employes-craignent-les-licenciements-apres-le-lancement-de-gears-of-war-e-day-827899"
+          }
+        ]
+      },
+      "culture": {
+        "sujet": "Le pont inca retissé chaque année avec de l'herbe",
+        "texte": "Au Pérou, un pont suspendu long d'environ trente mètres est entièrement refait à la main, en herbe, chaque année depuis plus de cinq siècles. Le Q'eswachaka enjambe le río Apurímac, à plus de 3 700 mètres d'altitude, et prolonge un ancien chemin de l'Empire inca. Chaque mois de juin, quatre communautés quechua fabriquent des cordes de paille de ichu et les tressent en câbles, puis remplacent l'ancien pont en trois jours. Le vieux pont est coupé et jeté dans la rivière, le nouveau est inauguré par une fête. Ce savoir-faire est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2013."
+      }
+    },
+    {
+      "id": "2026-10-04-12",
+      "label": "Point de 12h",
+      "date": "2026-10-04",
+      "hour": 12,
+      "tz": "+2",
+      "publishedAt": "2026-10-04T10:00:00Z",
+      "sections": {
+        "occitanie": [
+          {
+            "titre": "Aude et Pyrénées-Orientales en vigilance orange pluie-inondation",
+            "resume": "Météo-France a placé l'Aude et les Pyrénées-Orientales en vigilance orange pluie-inondation ce dimanche 4 octobre, jusqu'en milieu d'après-midi.",
+            "details": "Un système orageux touchant le nord-est de l'Espagne depuis samedi soir a remonté vers les deux départements dans la nuit. Les cumuls attendus atteignaient 80 à 120 mm, localement 150 à 180 mm, surtout sur les premiers reliefs (Corbières, Fenouillèdes, Albères). La fin de l'alerte orange était annoncée pour 16h.",
+            "src": "franceinfo",
+            "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-aude-et-les-pyrenees-orientales-en-vigilance-orange-pluie-inondation-jusque-dans-l-apres-midi_8221870.html",
+            "une": true
+          }
+        ]
+      },
+      "culture": {
+        "sujet": "Le tribunal sans avocat qui siège depuis plus de mille ans",
+        "texte": "Chaque jeudi à midi, devant la porte des Apôtres de la cathédrale de Valence, huit paysans en tenue noire jugent les conflits d'eau de la huerta. Ce Tribunal des eaux, dont l'origine remonte au Xe siècle selon la tradition, est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2009. Ses huit « síndicos » sont élus par les irrigants de huit canaux (acequias) dérivés du Turia. La procédure est entièrement orale : pas d'avocat, pas de greffe, et le verdict est rendu sur-le-champ, sans appel possible. Les amendes sont modestes, mais la sanction suprême reste de se voir privé d'eau."
+      }
+    },
+    {
+      "id": "2026-10-04-06",
+      "label": "Point de 6h",
+      "date": "2026-10-04",
+      "hour": 6,
+      "tz": "+2",
+      "publishedAt": "2026-10-04T04:00:00Z",
+      "sections": {
+        "occitanie": [
+          {
+            "titre": "Pluies diluviennes : vigilance orange dans les Pyrénées-Orientales et l'Aude",
+            "resume": "Après l'Hérault samedi, Météo-France place les Pyrénées-Orientales et l'Aude en vigilance orange pluie-inondation pour dimanche 4 octobre.",
+            "details": "L'Hérault, en orange samedi 3 octobre avec jusqu'à 150 mm attendus localement en quelques heures, a été rétrogradé en jaune. Pour dimanche, 80 à 120 mm sont prévus, jusqu'à 160 mm par endroits, avec des intensités de 30 à 50 mm/h propices au ruissellement. Cet épisode survient quelques jours après de précédentes inondations dans la région.",
+            "src": "Orange Actualités",
+            "url": "https://actu.orange.fr/france/meteo-les-pyrenees-orientales-en-alerte-orange-pluie-inondation-l-aude-et-l-herault-retrogrades-en-jaune-magic-CNT000002sih8z.html",
+            "une": true
+          }
+        ]
+      },
+      "culture": {
+        "sujet": "Prometheus, l'arbre de 4 900 ans abattu par erreur",
+        "texte": "En 1964, un arbre vieux d'environ 4 900 ans a été abattu sur le mont Wheeler, dans le Nevada, pour qu'on puisse en lire les cernes. Le doctorant Donald Currey étudiait d'anciennes glaciations et son carottier était resté coincé dans un pin bristlecone ; avec l'accord des gardes forestiers, l'arbre a été coupé. Le décompte des cernes a donné près de 4 862 ans, faisant de lui l'organisme non clonal le plus âgé jamais daté. Surnommé plus tard « Prometheus », il germait donc vers 2 900 av. J.-C., avant les pyramides de Gizeh. L'épisode a contribué à la protection des vieux bristlecones, et le bois a aidé à calibrer la datation au carbone 14."
+      },
+      "lecture": {
+        "en": {
+          "titre": "Floods Threaten the South of France Again",
+          "texte": "Heavy rain hit the south of France on Saturday. Météo-France put the Hérault on orange alert for rain and flooding, with local totals of up to 150 mm in a few hours. Roads were cut off and some schools and public transport had already been closed in Montpellier earlier in the week.\nLater in the day, the Hérault was downgraded to yellow, but the danger moved south. Forecasters placed the Pyrénées-Orientales and the Aude on orange alert for Sunday, October 4, with 80 to 120 mm of rain expected and up to 160 mm in some places.\nAuthorities asked residents to avoid unnecessary journeys and to stay away from rivers, because flash floods can rise very quickly after heavy storms.",
+          "vocab": [
+            {
+              "cible": "put on orange alert",
+              "fr": "placer en alerte orange",
+              "ex": "Météo-France put the Hérault on orange alert for rain and flooding"
+            },
+            {
+              "cible": "local totals",
+              "fr": "cumuls locaux",
+              "ex": "with local totals of up to 150 mm in a few hours"
+            },
+            {
+              "cible": "cut off",
+              "fr": "coupé, isolé",
+              "ex": "Roads were cut off and some schools and public transport had already been closed"
+            },
+            {
+              "cible": "downgraded",
+              "fr": "rétrogradé",
+              "ex": "the Hérault was downgraded to yellow"
+            },
+            {
+              "cible": "forecasters",
+              "fr": "prévisionnistes",
+              "ex": "Forecasters placed the Pyrénées-Orientales and the Aude on orange alert"
+            },
+            {
+              "cible": "residents",
+              "fr": "habitants",
+              "ex": "Authorities asked residents to avoid unnecessary journeys"
+            },
+            {
+              "cible": "flash floods",
+              "fr": "crues soudaines",
+              "ex": "flash floods can rise very quickly after heavy storms"
+            }
+          ],
+          "questions": [
+            {
+              "q": "Which departments were on orange alert for Sunday?",
+              "r": "The Pyrénées-Orientales and the Aude."
+            },
+            {
+              "q": "Why were residents told to stay away from rivers?",
+              "r": "Because flash floods can rise very quickly."
+            }
+          ],
+          "src": "Orange Actualités",
+          "url": "https://actu.orange.fr/france/meteo-les-pyrenees-orientales-en-alerte-orange-pluie-inondation-l-aude-et-l-herault-retrogrades-en-jaune-magic-CNT000002sih8z.html"
+        }
+      }
+    },
+    {
+      "id": "2026-10-03-18",
+      "label": "Point de 18h",
+      "date": "2026-10-03",
+      "hour": 18,
+      "tz": "+2",
+      "publishedAt": "2026-10-03T16:00:00Z",
+      "sections": {
+        "france": [
+          {
+            "titre": "Blocages de lycées : une centaine d'établissements perturbés, tensions avec la police",
+            "resume": "Près de 80 lycées sont bloqués, notamment à Lille, Strasbourg, Nice et Paris, au lendemain d'une réunion jugée décevante avec le ministère de l'Éducation.",
+            "details": "Plusieurs dizaines de personnes ont été interpellées lors de heurts. Matignon dénonce une opération orchestrée par La France Insoumise, ce que le mouvement conteste. Le Snes-FSU appelle à la grève mardi 6 octobre en soutien aux revendications des lycéens sur les moyens alloués aux établissements.",
+            "src": "franceinfo",
+            "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-ce-stade-il-n-y-a-pas-de-garanties-deplore-sophie-venetitay-du-snes-fsu-apres-la-reunion-avec-le-ministere-de-l-education_8219677.html",
+            "une": true
+          }
+        ],
+        "grandest": [
+          {
+            "titre": "Mobilisation lycéenne dans la Marne : 45 interpellations, surtout à Reims",
+            "resume": "Environ 1 350 jeunes ont manifesté vendredi dans la Marne pour le quatrième jour de mobilisation lycéenne en Champagne-Ardenne.",
+            "details": "Les interpellations ont eu lieu principalement à Reims. À Strasbourg, l'université a fermé ses portes après des heurts entre manifestants et forces de l'ordre sur le campus, dans le prolongement du mouvement national.",
+            "src": "France 3 Grand Est",
+            "url": "https://france3-regions.franceinfo.fr/grand-est/alsace"
+          }
+        ],
+        "occitanie": [
+          {
+            "titre": "Haute-Garonne : l'avenir de l'unique unité de pédopsychiatrie du sud du département inquiète",
+            "resume": "Des inquiétudes se font jour sur le devenir de la seule unité de pédopsychiatrie du sud de la Haute-Garonne.",
+            "details": "Le sujet rejoint la question de l'accès aux soins psychiques des enfants en zone rurale, où l'offre est déjà très limitée.",
+            "src": "France 3 Occitanie",
+            "url": "https://france3-regions.franceinfo.fr/occitanie/"
+          }
+        ]
+      },
+      "culture": {
+        "sujet": "Le jour où le surf a débarqué en Australie",
+        "texte": "Le 24 décembre 1914, un nageur hawaïen glisse sur les vagues de Freshwater, près de Sydney, devant une foule médusée. Duke Kahanamoku, déjà double champion olympique du 100 m nage libre en 1912, venait faire une démonstration de surf lors d'une tournée de natation. Faute de planche, il en sculpte une en quelques jours dans du pin local, dit-on. Une jeune spectatrice, Isabel Letham, 15 ans, monte avec lui sur la planche et devient l'une des premières Australiennes à surfer. Ce moment est considéré comme l'acte de naissance du surf australien."
+      }
     }
-   }
-  },
-  {
-   "id": "2026-10-08-18",
-   "label": "Point de 18h",
-   "date": "2026-10-08",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-08T16:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Vautrin alerte : sans budget 2027, les commandes d'armement seraient gelées",
-      "resume": "Le 8 octobre, la ministre des Armées Catherine Vautrin a averti que l'absence de budget 2027 voté avant fin décembre bloquerait des programmes d'armement.",
-      "details": "Sans loi de finances, les crédits de la mission Défense resteraient plafonnés au niveau de 2026, soit environ 6,5 Md€ de moins que les 63,4 Md€ prévus pour 2027. Aucune nouvelle commande ne pourrait être passée en attendant. L'alerte tombe alors que la LPM actualisée, promulguée en août, ajoute 36 Md€ d'ici 2030.",
-      "src": "Boursorama (AFP)",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/programmes-d-armement-bloques-la-ministre-des-armees-met-en-garde-contre-les-consequences-sur-la-defense-si-le-budget-2027-n-est-pas-adopte-avant-la-fin-de-l-annee-1462f1cb34364b2b4861e25999106b0b",
-      "une": true
-     }
-    ],
-    "france": [
-     {
-      "titre": "Lycées : l'intersyndicale appelle à une nouvelle journée d'action le 13 octobre",
-      "resume": "Après l'« acte IV » de jeudi, intersyndicale étudiante et professionnelle donne rendez-vous mardi 13 octobre.",
-      "details": "Le ministère de l'Éducation affirme qu'environ 96 % des établissements sont ouverts, alors que le syndicat lycéen évoque près de 2 000 lycées à l'arrêt. Les cours ont repris le matin dans plusieurs villes, mais des blocages subsistent. Le gouvernement promet des premières décisions chiffrées avant fin octobre.",
-      "src": "Boursorama",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/lycees-nouvel-appel-a-la-mobilisation-le-13-octobre-830315b93ddee6ff9015695b0b5697f0"
-     },
-     {
-      "titre": "Banque de France : pas d'« effet de second tour » sur l'inflation",
-      "resume": "Le gouverneur estime que le choc inflationniste lié à la guerre au Moyen-Orient ne s'étend pas, pour l'instant, à toute l'économie.",
-      "details": "Il ne voit pas de spirale entre prix et salaires à ce stade. Le diagnostic reste conditionné à l'évolution de l'énergie, dont les prix du diesel viennent de refluer dans l'UE après des records.",
-      "src": "Boursorama",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/pas-d-effet-de-second-tour-que-signifie-le-commentaire-du-gouverneur-de-la-banque-de-france-sur-l-inflation-actuelle-942e537d52eae35820d400d57fd6dde9"
-     },
-     {
-      "titre": "Cyberattaques : un coup de pouce fiscal pour protéger les usines",
-      "resume": "Les députés de la commission des finances ont adopté un amendement incitant les industriels à investir dans la cybersécurité.",
-      "details": "L'objectif est d'éviter la paralysie de sites de production par des rançongiciels. Le dispositif, encore au stade de l'amendement budgétaire, devra survivre aux débats sur le projet de loi de finances.",
-      "src": "Boursorama",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/cyberattaques-vers-un-coup-de-pouce-fiscal-pour-aider-a-proteger-les-usines-de-la-paralysie-7890204daf1661ab08ac3a9927952c46"
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Lycéens à Metz : un cortège calme malgré la colère",
-      "resume": "Plusieurs centaines de personnes ont défilé jeudi à Metz, au lendemain de la prise de parole de Sébastien Lecornu.",
-      "details": "Le plan annoncé par le Premier ministre ne sera détaillé que fin octobre, ce qui n'a pas apaisé la mobilisation. Le mouvement reprenait aussi à Nancy.",
-      "src": "ICI Lorraine",
-      "url": "https://www.ici.fr/grand-est/moselle-57/metz/blocage-des-lycees-en-moselle-la-mobilisation-reprend-ce-jeudi-les-professeurs-appeles-a-manifester-a-metz-3059326"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "Toulouse et Montpellier : l'« acte IV » lycéen sous tension juridique",
-      "resume": "Jeudi 8 octobre, grève et cortèges à Toulouse et Montpellier, avec deux décisions opposées sur les interdictions de rassemblement.",
-      "details": "À Toulouse, le juge des référés a suspendu l'arrêté interdisant les rassemblements près des établissements. À Montpellier, la préfète a interdit les cortèges dans l'Écusson ; la manifestation était fixée à 13h au Peyrou.",
-      "src": "ICI Occitanie",
-      "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/blocage-des-lycees-une-nouvelle-journee-de-greve-et-de-manifestations-ce-jeudi-8-octobre-4098788"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Mondino et la dissection publique de Bologne",
-    "texte": "En 1316, un anatomiste de Bologne a achevé un manuel de dissection qui allait régner sur l'Europe pendant plus de deux siècles. Mondino de Luzzi, professeur de médecine, y décrit l'ouverture du corps dans l'ordre de putréfaction : abdomen d'abord, puis thorax, puis crâne. Son Anathomia s'appuyait sur des dissections de cadavres humains pratiquées à Bologne vers 1315, parmi les premières documentées en Occident chrétien. L'ouvrage resta un texte de référence dans les universités jusqu'au XVIe siècle. Il fut supplanté en 1543 par le De humani corporis fabrica d'André Vésale, qui corrigea de nombreuses erreurs héritées de Galien."
-   }
-  },
-  {
-   "id": "2026-10-06-18",
-   "label": "Point de 18h",
-   "date": "2026-10-06",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-06T16:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Le SNLE Le Vigilant tire avec succès un missile M51.3",
-      "resume": "Le sous-marin nucléaire Le Vigilant a tiré un missile M51.3 sans charge au large du Finistère le 6 octobre, en présence d'Emmanuel Macron.",
-      "details": "Baptisée SMERTRIOS, l'opération valide la capacité du sous-marin à mettre en œuvre le M51 après son arrêt technique périodique (IPER). C'est le premier tir de cette version depuis un SNLE selon ArianeGroup. Le M51.3, entré en service opérationnel en octobre 2025, emporte la tête nucléaire océanique TNO-2 et améliore portée, précision et capacité de pénétration.",
-      "src": "Zone Militaire",
-      "url": "https://www.opex360.com/2026/10/06/dissuasion-le-sous-marin-nucleaire-lanceur-dengins-le-vigilant-a-tire-un-missile-strategique-m51-3-avec-succes/",
-      "une": true
-     }
-    ],
-    "france": [
-     {
-      "titre": "Lycéens dans la rue : 256 000 à 450 000 manifestants selon les sources",
-      "resume": "La troisième journée de mobilisation lycéenne et étudiante a réuni le 6 octobre 256 000 manifestants selon l'Intérieur, 450 000 selon l'intersyndicale jeunesse.",
-      "details": "Paris a compté 56 000 personnes selon le ministère, 100 000 selon les organisateurs. Près de 900 lycées sur 3 700 ont été perturbés. Les syndicats d'enseignants appelaient à soutenir le mouvement, y compris par la grève, contre la dégradation des conditions d'apprentissage ; le ministre Édouard Geffray espère une reprise progressive dès mercredi.",
-      "src": "franceinfo",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-blocages-des-lycees-des-manifestations-prevues-dans-une-trentaine-de-villes-pour-l-acte-iii-de-la-mobilisation_8224333.html"
-     },
-     {
-      "titre": "Budget 2027 : le PLF arrive à l'Assemblée, la censure plane",
-      "resume": "Le projet de loi de finances 2027 est déposé à l'Assemblée le 6 octobre, face à des oppositions unanimement hostiles.",
-      "details": "Le texte vise un déficit de 5,0 % du PIB en 2027 contre 5,4 % attendus en 2026, avec 54 milliards d'euros d'effort dont 43 milliards de mesures nouvelles. Socialistes et écologistes dénoncent une « provocation » et la gauche promet une motion de censure contre le gouvernement Lecornu, minoritaire.",
-      "src": "Le Journal du Net",
-      "url": "https://www.journaldunet.com/business/action-publique/1555095-la-gauche-annonce-une-motion-de-censure-contre-le-gouvernement-lecornu-lors-du-debat-sur-le-budget-2027/"
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Des milliers de lycéens défilent à Strasbourg, Mulhouse et Metz",
-      "resume": "Rassemblements devant les lycées puis cortèges à Strasbourg et Mulhouse à 14h, et plusieurs milliers de manifestants à Metz le 6 octobre.",
-      "details": "Lycéens, étudiants et enseignants ont défilé dans le cadre de l'acte III national. À Metz, un incident lié à l'interpellation d'une lycéenne la veille a conduit à l'ouverture d'une enquête par le parquet, selon France 3.",
-      "src": "France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/alsace/mobilisations-du-6-octobre-plusieurs-rassemblements-devant-des-lycees-et-universites-avant-des-manifestations-a-strasbourg-et-mulhouse-3428592.html"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "Gard et Hérault en vigilance orange pluie-inondation dès 22h",
-      "resume": "Météo-France place le Gard et l'Hérault en orange pluie-inondation et orages à partir de 22h ce mardi soir.",
-      "details": "Un nouvel épisode méditerranéen est attendu dans la nuit de mardi à mercredi, avec orages stationnaires, grêle et rafales localement violentes. Le reste de l'Occitanie reste en jaune ; les Bouches-du-Rhône et le Var passeront en orange mercredi.",
-      "src": "ICI Occitanie",
-      "url": "https://www.ici.fr/occitanie/gard-30/intemperies-le-gard-et-l-herault-en-vigilance-orange-pluie-inondation-et-orages-a-partir-de-mardi-soir-5352978"
-     }
-    ],
-    "jeuvideo": [
-     {
-      "titre": "Gears of War: E-Day sort sur Xbox Series et PC",
-      "resume": "Le nouveau Gears of War de The Coalition est disponible le 6 octobre sur Xbox Series X|S et PC, dès le premier jour dans le Game Pass.",
-      "details": "Exclusivité Xbox côté consoles, le jeu propose une campagne de plus de 14 heures ainsi que des modes Versus 4v4 et Horde Siege. Les éditions Premium et Collector offraient un accès anticipé depuis le 1er octobre.",
-      "src": "L'Éclaireur Fnac",
-      "url": "https://leclaireur.fnac.com/article/cp63637-gears-of-war-e-day-date-de-sortie-trailer-toutes-les-infos/"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le cornique, langue déclarée morte puis ressuscitée",
-    "texte": "En 2009, l'UNESCO classait le cornique parmi les langues éteintes, alors que des centaines de personnes le parlaient déjà. La tradition fait de Dolly Pentreath, morte en 1777 à Mousehole, la dernière locutrice native, même si ce statut est discuté. La renaissance débute avec Henry Jenner, qui publie en 1904 son Handbook of the Cornish Language. Le Royaume-Uni reconnaît le cornique en 2002 au titre de la Charte européenne des langues régionales. En 2010, l'UNESCO révise son verdict et le range parmi les langues « en danger critique »."
-   }
-  },
-  {
-   "id": "2026-10-05-18",
-   "label": "Point de 18h",
-   "date": "2026-10-05",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-05T16:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Paris et Ankara s'accordent sur une feuille de route de défense",
-      "resume": "La France et la Turquie ont convenu le 5 octobre d'une feuille de route pour renforcer leur coopération militaire, selon Zone Militaire.",
-      "details": "L'accord intervient après des années de tensions, dont l'épisode de 2020 autour d'un navire de recherche turc escorté près de l'île grecque de Kastellorizo. Ankara s'intéresse de longue date au système sol-air SAMP/T, dont la vente est restée suspendue au dialogue politique.",
-      "src": "Zone Militaire (Opex360)",
-      "url": "https://www.opex360.com/2026/10/05/la-france-et-la-turquie-saccordent-sur-une-feuille-de-route-pour-renforcer-leur-cooperation-en-matiere-de-defense/",
-      "une": true
-     }
-    ],
-    "france": [
-     {
-      "titre": "Blocus lycéen : tension à la veille de la journée du 6 octobre",
-      "resume": "Après un lundi de cours suspendus dans plusieurs centaines de lycées, l'USL et l'Union étudiante appellent à une nouvelle journée de mobilisation mardi.",
-      "details": "Selon les informations relayées, 400 à 500 lycées étaient totalement ou partiellement paralysés lundi, dont plus de 160 en Île-de-France. Les organisations syndicales doivent rejoindre les jeunes mardi, avec un rassemblement attendu à Paris place de la République à 14h. Les revendications portent sur les moyens, les effectifs par classe et Parcoursup.",
-      "src": "Le Bonbon",
-      "url": "https://www.lebonbon.fr/paris/news/greve-nationale-blocus-lycees-quoi-attendre-mardi-6-octobre-2026/"
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Reims sans tramway, lycées bloqués à Nancy et Metz",
-      "resume": "La mobilisation lycéenne a reparu lundi en Grand Est, avec des perturbations de transport à Reims et des tensions à Metz.",
-      "details": "À Reims, le tramway n'a pas circulé et les bus ont tourné à moitié. À Nancy, plusieurs établissements de l'agglomération sont restés bloqués, quelques centaines de jeunes convergeant vers le centre-ville. En Alsace, de nombreux lycées sont restés fermés après la pause du week-end.",
-      "src": "France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "Toulouse : alerte intrusion, interpellations et lycée évacué",
-      "resume": "Nouvelle journée sous tension à Toulouse avec des heurts devant le lycée Raymond Naves, à Borderouge, et plusieurs établissements fermés.",
-      "details": "Une bouteille de gaz a été découverte près du lycée puis sécurisée. À Montpellier, le lycée Clemenceau a été bloqué lundi matin. Les fermetures sont décidées pour raisons de sécurité.",
-      "src": "France 3 Occitanie",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/blocage-des-lycees-alerte-intrusion-interpellations-et-lycee-evacue-nouvelle-journee-sous-tension-a-toulouse-3428148.html"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le plus grand essaim d'insectes jamais observé",
-    "texte": "En 1875, un essaim de criquets des Montagnes Rocheuses a couvert une zone estimée à près de 513 000 km² au-dessus du Nebraska, soit plus que la France. L'entomologiste Albert Child l'a observé et son nom est resté à cet essaim, dit « Albert's Swarm ». Les estimations évoquent environ 12 500 milliards d'insectes, pour une masse de l'ordre de 27 millions de tonnes. Pourtant, l'espèce, Melanoplus spretus, a disparu en quelques décennies : le dernier spécimen vivant connu a été vu au Canada en 1902. L'une des hypothèses est que les colons ont labouré les zones de ponte, détruisant les œufs."
-   }
-  },
-  {
-   "id": "2026-10-05-12",
-   "label": "Point de 12h",
-   "date": "2026-10-05",
-   "hour": 12,
-   "tz": "+2",
-   "publishedAt": "2026-10-05T10:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "titre": "Blocus des lycées : Geffray lance une consultation, les syndicats insistent",
-      "resume": "Le ministre de l'Éducation Édouard Geffray ouvre ce lundi 5 octobre une plateforme de consultation des lycéens, mais l'Union syndicale lycéenne appelle à poursuivre la mobilisation dès mardi.",
-      "details": "La plateforme, prévue pour trois semaines, doit recueillir les difficultés et les attentes des élèves. Le mouvement, parti le 29 septembre contre le manque de professeurs et la vétusté des locaux, a gagné des universités. L'USL juge ces annonces insuffisantes, faute de mesures concrètes.",
-      "src": "Europe 1",
-      "url": "https://www.europe1.fr/politique/blocus-des-lycees-edouard-geffray-multiplie-les-concertations-mais-les-syndicats-restent-sur-leur-faim-1119149",
-      "une": true
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Blocus lycéen : établissements fermés à Strasbourg et dans le Haut-Rhin",
-      "resume": "Ce lundi 5 octobre, les lycées de Strasbourg et huit établissements du Haut-Rhin sont fermés en raison de la mobilisation lycéenne.",
-      "details": "Les blocages se poursuivent aussi dans plusieurs villes lorraines, dont Nancy, Metz et Val-de-Briey. À Reims, la mobilisation lycéenne et étudiante a privé la ville de tramway et réduit de moitié les bus. La mobilisation du matin est jugée faible par endroits en Alsace.",
-      "src": "Titres de presse (DNA)",
-      "url": "https://www.titrespresse.com/23937542603/alsace-patio-strasbourg"
-     }
-    ],
-    "jeuvideo": [
-     {
-      "titre": "Paramount et Warner Bros. Discovery fusionnent demain sous le nom Skydance",
-      "resume": "Le rachat à 110 milliards de dollars doit être finalisé mardi 6 octobre, après l'accord conclu avec des procureurs généraux d'États américains.",
-      "details": "Le nouvel ensemble s'appellera Skydance et regroupera Paramount, Warner Bros., HBO Max et CBS. Le sort de Warner Bros. Games, rattaché à WBD, n'est pas détaillé à ce stade ; une restructuration avec de nombreuses suppressions de postes est attendue dans les semaines à venir.",
-      "src": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html"
-     },
-     {
-      "titre": "Gears of War: E-Day sort demain sur Xbox Series et PC",
-      "resume": "Le préquel de la saga Gears of War est disponible dès mardi 6 octobre sur Xbox Series X|S et PC, et inclus dans le Game Pass dès le premier jour.",
-      "details": "C'est la sortie phare de la semaine du 5 octobre. Des employés de The Coalition s'inquiéteraient de possibles licenciements après le lancement, alors que Xbox mène une restructuration qui vise 3 200 postes sur l'exercice.",
-      "src": "ActuGaming",
-      "url": "https://actugaming.net/les-sorties-jeux-video-de-la-semaine-du-5-octobre-gears-of-war-e-day-star-wars-galactic-racer-hellraiser-aion-2-828423"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "L'os d'Ishango, plus vieille trace de calcul ?",
-    "texte": "Un os de babouin de 10 cm, gravé d'entailles regroupées en colonnes, intrigue les mathématiciens depuis 1950. Il a été trouvé à Ishango, sur les rives du lac Édouard (actuelle RD Congo), par le géologue belge Jean de Heinzelin de Braucourt. Daté d'environ 20 000 ans, il porte trois colonnes de marques dont l'une additionne 11, 13, 17 et 19, soit les nombres premiers entre 10 et 20. Une autre colonne aligne 11, 21, 19 et 9, des nombres proches de 10 ± 1 et 20 ± 1. Certains y voient un calendrier lunaire ou un outil de calcul, d'autres un simple décompte : le débat reste ouvert. L'objet est conservé à l'Institut royal des sciences naturelles de Belgique, à Bruxelles."
-   }
-  },
-  {
-   "id": "2026-10-05-06",
-   "label": "Point de 6h",
-   "date": "2026-10-05",
-   "hour": 6,
-   "tz": "+2",
-   "publishedAt": "2026-10-05T04:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "titre": "Blocus lycéen : plus de 400 lycées paralysés avant la journée du 6 octobre",
-      "resume": "Né à Créteil le 21 septembre, le mouvement de blocage touche plus de 400 lycées et débouche sur une journée de mobilisation nationale mardi 6 octobre.",
-      "details": "Les cours sont totalement ou partiellement suspendus lundi 5 octobre dans 400 à 500 lycées où la sécurité n'est pas garantie. Les lycéens dénoncent le manque d'enseignants, les classes surchargées, des bâtiments dégradés et le stress de Parcoursup. L'intersyndicale de l'Éducation appelle à participer mardi, y compris par la grève, avec une manifestation prévue à 14h place de la République à Paris.",
-      "src": "France 24",
-      "url": "https://www.france24.com/fr/france/20261004-mobilisation-lyceenne-plus-400-lycees-paralyses-6-octobre-manifestation-greve-blocus-violences-police-ce-qu-il-faut-savoir",
-      "une": true
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le courrier postal envoyé dans une boîte de biscuits",
-    "texte": "Pendant des décennies, le courrier de l'île tongienne de Niuafo'ou a été remis aux navires de passage dans une boîte de conserve. L'île volcanique n'a ni port ni lagon accessible : les paquebots ne pouvaient pas accoster. Un nageur emportait donc le courrier dans une boîte de biscuits étanche, soudée, jusqu'au navire, et rapportait celui qui arrivait de la même façon. Ce « Tin Can Mail » a fonctionné jusqu'en 1983, quand une piste d'aviation a rendu le système inutile. L'île a même été évacuée après l'éruption de 1946, mais ses habitants sont revenus ensuite ; ses timbres, tamponnés d'une mention « Tin Can Mail », sont devenus très recherchés des philatélistes."
-   },
-   "lecture": {
-    "en": {
-     "titre": "Thousands of French students block their schools",
-     "texte": "Two weeks ago, students at a high school in Créteil, near Paris, blocked the entrance to protest against the lack of teachers and overcrowded classes. The protest quickly spread across the country. By the weekend, more than 400 schools were affected, and the authorities said classes would be fully or partly suspended on Monday in places where safety could not be guaranteed.\nThe students also criticise damaged school buildings and the stress linked to the university admission platform Parcoursup. Several teachers' unions have joined the movement, and the education unions have called for a day of action, including a strike, on Tuesday 6 October.\nA large demonstration is planned in Paris, and the government is under pressure to offer concrete measures. For now, student organisations say they will continue the movement until they get a clear answer.",
-     "vocab": [
-      {
-       "cible": "overcrowded",
-       "fr": "surchargé",
-       "ex": "…protest against the lack of teachers and overcrowded classes."
-      },
-      {
-       "cible": "spread",
-       "fr": "se propager",
-       "ex": "The protest quickly spread across the country."
-      },
-      {
-       "cible": "affected",
-       "fr": "touché",
-       "ex": "By the weekend, more than 400 schools were affected…"
-      },
-      {
-       "cible": "suspended",
-       "fr": "suspendu",
-       "ex": "…classes would be fully or partly suspended on Monday…"
-      },
-      {
-       "cible": "to join",
-       "fr": "rejoindre",
-       "ex": "Several teachers' unions have joined the movement…"
-      },
-      {
-       "cible": "under pressure",
-       "fr": "sous pression",
-       "ex": "…the government is under pressure to offer concrete measures."
-      },
-      {
-       "cible": "a clear answer",
-       "fr": "une réponse claire",
-       "ex": "…until they get a clear answer."
-      }
-     ],
-     "questions": [
-      {
-       "q": "Where did the protest start?",
-       "r": "At a high school in Créteil, near Paris."
-      },
-      {
-       "q": "What day of action is planned?",
-       "r": "Tuesday 6 October, with a strike and a demonstration in Paris."
-      }
-     ],
-     "src": "France 24",
-     "url": "https://www.france24.com/fr/france/20261004-mobilisation-lyceenne-plus-400-lycees-paralyses-6-octobre-manifestation-greve-blocus-violences-police-ce-qu-il-faut-savoir"
-    }
-   }
-  },
-  {
-   "id": "2026-10-04-18",
-   "label": "Point de 18h",
-   "date": "2026-10-04",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-04T16:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Le 68e RAA éclate ses batteries de CAESAr pour échapper aux drones",
-      "resume": "Le 68e régiment d'artillerie d'Afrique réorganise ses batteries de canons CAESAr afin de mieux les protéger contre les drones, selon Opex360 le 4 octobre.",
-      "details": "Les batteries de quatre pièces laissent place à des sections de deux canons de 155 mm, plus difficiles à repérer et à frapper. Une section dédiée prépare les positions de tir et met en place des leurres. Ce retour d'expérience tiré des combats en Ukraine inspire désormais la doctrine de l'artillerie française.",
-      "src": "Opex360",
-      "url": "https://www.opex360.com/2026/10/04/le-68e-regiment-dartillerie-dafrique-reorganise-ses-batteries-de-caesar-pour-accroitre-leur-protection-contre-les-drones/"
-     }
-    ],
-    "france": [
-     {
-      "titre": "Blocages de lycées : Lecornu accélère la loi « casseur-payeur »",
-      "resume": "Le Premier ministre fait inscrire dès octobre au Sénat la proposition de loi « casseur-payeur », après les dégradations liées aux blocages de lycées.",
-      "details": "Le texte vise à faire supporter aux auteurs de violences collectives le coût des réparations plutôt qu'aux finances publiques. Le ministre de l'Intérieur Laurent Nuñez réfute toute intervention policière « disproportionnée » et affirme que les forces de l'ordre protègent les lycéens qui manifestent pacifiquement. Une nouvelle journée de mobilisation est annoncée pour le 6 octobre.",
-      "src": "Entrevue",
-      "url": "https://entrevue.fr/politique/violences-autour-des-lycees-lecornu-accelere-lexamen-de-la-loi-casseur-payeur",
-      "une": true
-     },
-     {
-      "titre": "Nuñez rejette l'accusation de violences policières devant les lycées",
-      "resume": "Laurent Nuñez affirme que la police ne fait que protéger les élèves qui souhaitent manifester pacifiquement.",
-      "details": "Le gouvernement attribue une partie des blocages à LFI et à ses relais d'extrême gauche, tandis que Jean-Luc Mélenchon voit dans la journée du 6 octobre « un point de départ ». Le ministre David Amiel assure de son côté que les lycéens ont le droit de manifester.",
-      "src": "Orange Actualités",
-      "url": "https://actu.orange.fr/france/blocages-des-lycees-nunez-refute-toute-intervention-quot-disproportionnee-quot-CNT000002sjkFa.html"
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Metz : mobilisation contre la fermeture des urgences de Legouest",
-      "resume": "Une centaine de personnes se sont rassemblées à Metz contre le transfert des urgences de l'hôpital militaire Legouest.",
-      "details": "Les urgences doivent passer sous la responsabilité du CHR Metz-Thionville début 2027. Les manifestants craignent de perdre le seul service d'urgences du centre-ville de Metz ; Force Ouvrière s'inquiète aussi pour le personnel.",
-      "src": "France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/moselle/metz/on-a-des-raisons-d-etre-inquiets-mobilisation-contre-la-fermeture-des-urgences-de-legouest-3427461.html"
-     },
-     {
-      "titre": "Plus de 12 000 personnes en rose à Strasbourg contre le cancer du sein",
-      "resume": "Strasbourg a vu défiler plus de 12 000 personnes vêtues de rose ce dimanche 4 octobre, dans le cadre d'Octobre rose.",
-      "details": "Le rassemblement vise à sensibiliser au dépistage du cancer du sein. Par ailleurs, la ville a rétabli ses trams après des dégradations commises lors des manifestations lycéennes de la semaine.",
-      "src": "France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "Vigilance orange : fortes pluies dans les Pyrénées-Orientales et l'Aude",
-      "resume": "Météo-France maintient le département des Pyrénées-Orientales et l'Aude en orange pluie-inondation ce dimanche, avec des orages venus d'Espagne.",
-      "details": "Environ 50 mm sont tombés à Perpignan en quelques heures. Huit gués et ponts submersibles ont été fermés, les animations extérieures annulées, et la préfecture appelle à limiter les déplacements. Les cumuls pourraient atteindre 150 à 180 mm sur les reliefs (Corbières, Fenouillèdes, Albères).",
-      "src": "France 3 Occitanie",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/vigilance-orange-les-pyrenees-orientales-et-l-aude-sous-la-menace-de-fortes-pluies-et-d-inondations-3427668.html"
-     },
-     {
-      "titre": "Aude et Hérault : jusqu'à 200 mm de pluie, des routes coupées",
-      "resume": "Des cumuls allant jusqu'à 200 mm ont coupé plusieurs axes routiers dans l'Aude et l'Hérault, avant le déplacement des pluies vers les Pyrénées-Orientales.",
-      "details": "Les deux départements, d'abord en orange, sont repassés en jaune pluie-inondation dans l'après-midi (Aude) puis en fin de journée (Hérault).",
-      "src": "France 3 Occitanie",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/aude/narbonne/inondations-dans-l-aude-et-l-herault-jusqu-a-200-mm-de-pluie-des-axes-routiers-coupes-la-pluie-se-dirige-vers-les-pyrenees-orientales-3427587.html"
-     }
-    ],
-    "jeuvideo": [
-     {
-      "titre": "Warner Bros racheté par Paramount : fusion actée sous le nom Skydance",
-      "resume": "Le rachat de Warner Bros par Paramount est acté et la nouvelle entité s'appellera simplement Skydance.",
-      "details": "L'opération, évaluée à 111 milliards de dollars, doit entrer en vigueur la semaine prochaine. Des licenciements massifs sont attendus dans les semaines à venir, ce qui pèse sur l'avenir des studios de jeux du groupe.",
-      "src": "ActuGaming",
-      "url": "https://www.actugaming.net/le-rachat-de-warner-bros-par-paramount-est-acte-la-nouvelle-entreprise-sappellera-simplement-skydance-828113/"
-     },
-     {
-      "titre": "Chez The Coalition, la crainte de licenciements après Gears of War: E-Day",
-      "resume": "Des employés du studio Xbox redoutent des licenciements juste après la sortie de Gears of War: E-Day.",
-      "details": "Le story director Juan Vaca aurait été licencié deux semaines avant le lancement. Les bonus liés au succès du jeu sont en jeu, dans un contexte de vagues de suppressions de postes chez Xbox.",
-      "src": "ActuGaming",
-      "url": "https://actugaming.net/chez-the-coalition-plusieurs-employes-craignent-les-licenciements-apres-le-lancement-de-gears-of-war-e-day-827899"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le pont inca retissé chaque année avec de l'herbe",
-    "texte": "Au Pérou, un pont suspendu long d'environ trente mètres est entièrement refait à la main, en herbe, chaque année depuis plus de cinq siècles. Le Q'eswachaka enjambe le río Apurímac, à plus de 3 700 mètres d'altitude, et prolonge un ancien chemin de l'Empire inca. Chaque mois de juin, quatre communautés quechua fabriquent des cordes de paille de ichu et les tressent en câbles, puis remplacent l'ancien pont en trois jours. Le vieux pont est coupé et jeté dans la rivière, le nouveau est inauguré par une fête. Ce savoir-faire est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2013."
-   }
-  },
-  {
-   "id": "2026-10-04-12",
-   "label": "Point de 12h",
-   "date": "2026-10-04",
-   "hour": 12,
-   "tz": "+2",
-   "publishedAt": "2026-10-04T10:00:00Z",
-   "sections": {
-    "occitanie": [
-     {
-      "titre": "Aude et Pyrénées-Orientales en vigilance orange pluie-inondation",
-      "resume": "Météo-France a placé l'Aude et les Pyrénées-Orientales en vigilance orange pluie-inondation ce dimanche 4 octobre, jusqu'en milieu d'après-midi.",
-      "details": "Un système orageux touchant le nord-est de l'Espagne depuis samedi soir a remonté vers les deux départements dans la nuit. Les cumuls attendus atteignaient 80 à 120 mm, localement 150 à 180 mm, surtout sur les premiers reliefs (Corbières, Fenouillèdes, Albères). La fin de l'alerte orange était annoncée pour 16h.",
-      "src": "franceinfo",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-aude-et-les-pyrenees-orientales-en-vigilance-orange-pluie-inondation-jusque-dans-l-apres-midi_8221870.html",
-      "une": true
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le tribunal sans avocat qui siège depuis plus de mille ans",
-    "texte": "Chaque jeudi à midi, devant la porte des Apôtres de la cathédrale de Valence, huit paysans en tenue noire jugent les conflits d'eau de la huerta. Ce Tribunal des eaux, dont l'origine remonte au Xe siècle selon la tradition, est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2009. Ses huit « síndicos » sont élus par les irrigants de huit canaux (acequias) dérivés du Turia. La procédure est entièrement orale : pas d'avocat, pas de greffe, et le verdict est rendu sur-le-champ, sans appel possible. Les amendes sont modestes, mais la sanction suprême reste de se voir privé d'eau."
-   }
-  },
-  {
-   "id": "2026-10-04-06",
-   "label": "Point de 6h",
-   "date": "2026-10-04",
-   "hour": 6,
-   "tz": "+2",
-   "publishedAt": "2026-10-04T04:00:00Z",
-   "sections": {
-    "occitanie": [
-     {
-      "titre": "Pluies diluviennes : vigilance orange dans les Pyrénées-Orientales et l'Aude",
-      "resume": "Après l'Hérault samedi, Météo-France place les Pyrénées-Orientales et l'Aude en vigilance orange pluie-inondation pour dimanche 4 octobre.",
-      "details": "L'Hérault, en orange samedi 3 octobre avec jusqu'à 150 mm attendus localement en quelques heures, a été rétrogradé en jaune. Pour dimanche, 80 à 120 mm sont prévus, jusqu'à 160 mm par endroits, avec des intensités de 30 à 50 mm/h propices au ruissellement. Cet épisode survient quelques jours après de précédentes inondations dans la région.",
-      "src": "Orange Actualités",
-      "url": "https://actu.orange.fr/france/meteo-les-pyrenees-orientales-en-alerte-orange-pluie-inondation-l-aude-et-l-herault-retrogrades-en-jaune-magic-CNT000002sih8z.html",
-      "une": true
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Prometheus, l'arbre de 4 900 ans abattu par erreur",
-    "texte": "En 1964, un arbre vieux d'environ 4 900 ans a été abattu sur le mont Wheeler, dans le Nevada, pour qu'on puisse en lire les cernes. Le doctorant Donald Currey étudiait d'anciennes glaciations et son carottier était resté coincé dans un pin bristlecone ; avec l'accord des gardes forestiers, l'arbre a été coupé. Le décompte des cernes a donné près de 4 862 ans, faisant de lui l'organisme non clonal le plus âgé jamais daté. Surnommé plus tard « Prometheus », il germait donc vers 2 900 av. J.-C., avant les pyramides de Gizeh. L'épisode a contribué à la protection des vieux bristlecones, et le bois a aidé à calibrer la datation au carbone 14."
-   },
-   "lecture": {
-    "en": {
-     "titre": "Floods Threaten the South of France Again",
-     "texte": "Heavy rain hit the south of France on Saturday. Météo-France put the Hérault on orange alert for rain and flooding, with local totals of up to 150 mm in a few hours. Roads were cut off and some schools and public transport had already been closed in Montpellier earlier in the week.\nLater in the day, the Hérault was downgraded to yellow, but the danger moved south. Forecasters placed the Pyrénées-Orientales and the Aude on orange alert for Sunday, October 4, with 80 to 120 mm of rain expected and up to 160 mm in some places.\nAuthorities asked residents to avoid unnecessary journeys and to stay away from rivers, because flash floods can rise very quickly after heavy storms.",
-     "vocab": [
-      {
-       "cible": "put on orange alert",
-       "fr": "placer en alerte orange",
-       "ex": "Météo-France put the Hérault on orange alert for rain and flooding"
-      },
-      {
-       "cible": "local totals",
-       "fr": "cumuls locaux",
-       "ex": "with local totals of up to 150 mm in a few hours"
-      },
-      {
-       "cible": "cut off",
-       "fr": "coupé, isolé",
-       "ex": "Roads were cut off and some schools and public transport had already been closed"
-      },
-      {
-       "cible": "downgraded",
-       "fr": "rétrogradé",
-       "ex": "the Hérault was downgraded to yellow"
-      },
-      {
-       "cible": "forecasters",
-       "fr": "prévisionnistes",
-       "ex": "Forecasters placed the Pyrénées-Orientales and the Aude on orange alert"
-      },
-      {
-       "cible": "residents",
-       "fr": "habitants",
-       "ex": "Authorities asked residents to avoid unnecessary journeys"
-      },
-      {
-       "cible": "flash floods",
-       "fr": "crues soudaines",
-       "ex": "flash floods can rise very quickly after heavy storms"
-      }
-     ],
-     "questions": [
-      {
-       "q": "Which departments were on orange alert for Sunday?",
-       "r": "The Pyrénées-Orientales and the Aude."
-      },
-      {
-       "q": "Why were residents told to stay away from rivers?",
-       "r": "Because flash floods can rise very quickly."
-      }
-     ],
-     "src": "Orange Actualités",
-     "url": "https://actu.orange.fr/france/meteo-les-pyrenees-orientales-en-alerte-orange-pluie-inondation-l-aude-et-l-herault-retrogrades-en-jaune-magic-CNT000002sih8z.html"
-    }
-   }
-  },
-  {
-   "id": "2026-10-03-18",
-   "label": "Point de 18h",
-   "date": "2026-10-03",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-03T16:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "titre": "Blocages de lycées : une centaine d'établissements perturbés, tensions avec la police",
-      "resume": "Près de 80 lycées sont bloqués, notamment à Lille, Strasbourg, Nice et Paris, au lendemain d'une réunion jugée décevante avec le ministère de l'Éducation.",
-      "details": "Plusieurs dizaines de personnes ont été interpellées lors de heurts. Matignon dénonce une opération orchestrée par La France Insoumise, ce que le mouvement conteste. Le Snes-FSU appelle à la grève mardi 6 octobre en soutien aux revendications des lycéens sur les moyens alloués aux établissements.",
-      "src": "franceinfo",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-ce-stade-il-n-y-a-pas-de-garanties-deplore-sophie-venetitay-du-snes-fsu-apres-la-reunion-avec-le-ministere-de-l-education_8219677.html",
-      "une": true
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Mobilisation lycéenne dans la Marne : 45 interpellations, surtout à Reims",
-      "resume": "Environ 1 350 jeunes ont manifesté vendredi dans la Marne pour le quatrième jour de mobilisation lycéenne en Champagne-Ardenne.",
-      "details": "Les interpellations ont eu lieu principalement à Reims. À Strasbourg, l'université a fermé ses portes après des heurts entre manifestants et forces de l'ordre sur le campus, dans le prolongement du mouvement national.",
-      "src": "France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/alsace"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "Haute-Garonne : l'avenir de l'unique unité de pédopsychiatrie du sud du département inquiète",
-      "resume": "Des inquiétudes se font jour sur le devenir de la seule unité de pédopsychiatrie du sud de la Haute-Garonne.",
-      "details": "Le sujet rejoint la question de l'accès aux soins psychiques des enfants en zone rurale, où l'offre est déjà très limitée.",
-      "src": "France 3 Occitanie",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le jour où le surf a débarqué en Australie",
-    "texte": "Le 24 décembre 1914, un nageur hawaïen glisse sur les vagues de Freshwater, près de Sydney, devant une foule médusée. Duke Kahanamoku, déjà double champion olympique du 100 m nage libre en 1912, venait faire une démonstration de surf lors d'une tournée de natation. Faute de planche, il en sculpte une en quelques jours dans du pin local, dit-on. Une jeune spectatrice, Isabel Letham, 15 ans, monte avec lui sur la planche et devient l'une des premières Australiennes à surfer. Ce moment est considéré comme l'acte de naissance du surf australien."
-   }
-  }
- ]
+  ]
 }
