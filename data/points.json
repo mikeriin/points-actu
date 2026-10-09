@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-10-09T03:50:00Z",
+ "updatedAt": "2026-10-09T09:55:00Z",
  "points": [
+  {
+   "id": "2026-10-09-12",
+   "label": "Point de 12h",
+   "date": "2026-10-09",
+   "hour": 12,
+   "tz": "+2",
+   "publishedAt": "2026-10-09T10:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Lycées bloqués : 3 000 enseignants promis, 141 établissements encore fermés",
+      "resume": "Le ministre de l'Éducation Édouard Geffray a annoncé jeudi soir 3 000 enseignants supplémentaires, alors que 141 lycées restaient fermés vendredi 9 octobre.",
+      "details": "Le gouvernement cherche une sortie de crise face à un mouvement parti de revendications locales (manque de professeurs, classes surchargées). Des remplaçants sont promis dès la semaine prochaine dans les lycées les plus touchés. Le mouvement coïncide avec l'examen du budget 2027, qui prévoit une hausse des crédits de l'Éducation mais la perte de 1 588 postes d'enseignants selon la presse spécialisée.",
+      "src": "Titres Presse / La Croix",
+      "url": "https://www.titrespresse.com/24468482603/edouard-geffray-blocage",
+      "une": true
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Grève chez DNA et L'Alsace contre 400 suppressions de postes au groupe Ebra",
+      "resume": "Les syndicats du groupe de presse Ebra (Crédit Mutuel) appellent à la grève vendredi 9 octobre, avec un rassemblement devant le siège de la banque.",
+      "details": "Le plan prévoit de supprimer 400 postes sur environ 3 200 dans neuf titres, dont une cinquantaine aux DNA et 12 à L'Alsace, surtout via des départs volontaires. Les salariés contestent aussi le recours à l'IA pour la mise en page et l'arrêt d'une rotative. Le plan avait été annoncé aux syndicats le 22 juin.",
+      "src": "Rue89 Strasbourg",
+      "url": "https://www.rue89strasbourg.com/greve-lalsace-dna-398612"
+     }
+    ],
+    "defense": [
+     {
+      "titre": "L'A400M va recevoir un kit de bombardier d'eau après le mégafeu girondin",
+      "resume": "La ministre des Armées Catherine Vautrin a annoncé l'achat d'un kit de lutte contre les incendies pour l'A400M, rapporte La Dépêche.",
+      "details": "L'A400M avait été déployé cet été avec un prototype lors du mégafeu en Gironde. Le dispositif est un réservoir amovible installé en soute, capable de larguer jusqu'à 20 000 litres d'eau ou de retardant par la rampe arrière. Airbus indique que le kit reste en développement et en certification, et la Sécurité civile doute de sa viabilité.",
+      "src": "La Dépêche / Titres Presse",
+      "url": "https://www.titrespresse.com/24481582603/airbus-defence-space"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Borobudur et ses reliefs enfouis",
+    "texte": "Sous le temple bouddhique de Borobudur, à Java, se cachent 160 panneaux sculptés que personne ne voit. Construit vers l'an 800 sous la dynastie Sailendra, le monument compte 2 672 reliefs et 504 statues de Bouddha. Peu après sa construction, on a ajouté une base de pierre qui a recouvert le soubassement d'origine, le « Karmawibhangga », consacré aux conséquences des actes. Ces reliefs cachés ont été redécouverts en 1885 par l'ingénieur Yzerman. Seule une petite partie reste dégagée aujourd'hui, le reste demeurant masqué pour ne pas fragiliser l'édifice."
+   }
+  },
   {
    "id": "2026-10-09-06",
    "label": "Point de 6h",
