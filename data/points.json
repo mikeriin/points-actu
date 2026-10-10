@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-10-10T09:50:00Z",
+ "updatedAt": "2026-10-10T15:50:00Z",
  "points": [
+  {
+   "id": "2026-10-10-18",
+   "label": "Point de 18h",
+   "date": "2026-10-10",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-10T16:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Blocus des lycées : 3 000 professeurs remplaçants annoncés par le gouvernement",
+      "resume": "Face à la mobilisation lycéenne, le gouvernement a annoncé ce samedi 10 octobre quelque 3 000 professeurs remplaçants (TZR) pour couvrir les absences.",
+      "details": "Le mouvement, lancé fin septembre, dénonce notamment le manque d'enseignants et les classes surchargées. Franceinfo consacre ce samedi plusieurs sujets à la question de savoir où en est le blocus. L'exécutif tente ainsi de répondre à l'une des revendications centrales des lycéens.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/le-fil-info/le-fil-info-du-samedi-10-octobre-2026_8203898.html",
+      "une": true
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le sismoscope chinois qui « sentait » les séismes lointains",
+    "texte": "En 132, l'astronome Zhang Heng présente à la cour des Han de l'Est un étrange vase de bronze pour détecter les tremblements de terre. D'après l'Histoire des Han postérieurs, l'appareil mesurait environ 2 mètres de diamètre et portait huit dragons, chacun tenant une bille dans la gueule au-dessus d'un crapaud. Lors d'un séisme, une bille tombait dans la gueule du crapaud situé dans la direction de la secousse. En 138, une bille serait tombée alors qu'aucune secousse n'était ressentie à Luoyang ; quelques jours plus tard, la nouvelle d'un séisme dans le Longxi, à plusieurs centaines de kilomètres, aurait confirmé l'indication. L'appareil original a disparu et son mécanisme interne, probablement un pendule inversé, reste débattu par les historiens."
+   }
+  },
   {
    "id": "2026-10-10-12",
    "label": "Point de 12h",
