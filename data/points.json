@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-10-09T15:50:00Z",
+  "updatedAt": "2026-10-10T03:44:55Z",
   "points": [
+    {
+      "id": "2026-10-10-06",
+      "label": "Point de 6h",
+      "date": "2026-10-10",
+      "hour": 6,
+      "tz": "+2",
+      "publishedAt": "2026-10-10T04:00:00Z",
+      "sections": {
+        "defense": [
+          {
+            "titre": "La DGA retient trois drones de surface pour protéger bases et navires",
+            "resume": "La Direction générale de l'armement a sélectionné, le 9 octobre, trois drones de surface destinés à la protection des bases et des bâtiments de la Marine.",
+            "details": "Cette sélection s'inscrit dans l'expérimentation menée avec l'Agence de l'innovation de défense et la Marine, dont les essais ont eu lieu en janvier 2026 près de Toulon : navigation, endurance, autonomie de décision. Les prototypes retenus doivent passer par une phase de développement, puis une seconde expérimentation désignera le modèle produit en série. Les noms des industriels retenus n'ont pas pu être confirmés ici.",
+            "src": "Zone Militaire",
+            "url": "https://www.opex360.com/2026/10/09/la-direction-generale-de-larmement-selectionne-trois-drones-de-surface-pour-la-protection-des-bases-et-des-navires-de-la-marine/",
+            "une": true
+          }
+        ],
+        "jeuvideo": [
+          {
+            "titre": "Star Wars Zero Company sauve de la faillite le studio Bit Reactor",
+            "resume": "Le succès commercial de Star Wars Zero Company a évité in extremis la faillite à Bit Reactor, selon jeuxvideo.com le 9 octobre.",
+            "details": "Le studio américain, au bord de la rupture avant la sortie du jeu, avait placé environ 80 % de ses effectifs en chômage technique. Les ventes lui permettent de conserver ses employés, dans un contexte de licenciements en série dans l'industrie du jeu vidéo.",
+            "src": "jeuxvideo.com",
+            "url": "https://www.jeuxvideo.com/news/2108130/pas-de-licenciements-ce-jeu-star-wars-note-17-20-sauve-les-employes-de-ce-studio-de-developpement.htm"
+          }
+        ]
+      },
+      "culture": {
+        "sujet": "Rafflesia, la fleur géante sans feuilles ni racines",
+        "texte": "Dans les forêts de Sumatra pousse une fleur qui peut atteindre environ un mètre de diamètre et qui sent la viande avariée. Le naturaliste Joseph Arnold la décrit en 1818 lors d'une expédition avec Thomas Stamford Raffles, dont elle porte le nom : Rafflesia arnoldii. Cette plante n'a ni feuilles, ni tiges, ni racines : elle vit en parasite à l'intérieur des lianes du genre Tetrastigma, dont elle tire eau et nutriments. Seul le bouton émerge, met plusieurs mois à grossir, puis la fleur ne reste ouverte que quelques jours. Son odeur attire les mouches charognardes qui la pollinisent."
+      },
+      "lecture": {
+        "en": {
+          "titre": "France picks three surface drones to guard its naval bases",
+          "texte": "On 9 October, the French defence procurement agency, the DGA, announced that it had selected three surface drones to protect naval bases and Navy ships.\nThe choice follows a trial run by the Defence Innovation Agency and the French Navy near Toulon in January 2026. Seven companies took part, and the drones were tested on navigation, endurance and their ability to make decisions on their own.\nThe three winning prototypes will now enter a development phase. After a second round of experiments, the Navy will pick the model that goes into mass production. The aim is to defend ports and escort ships without putting sailors at risk, a need that has grown as cheap unmanned boats have changed naval warfare.",
+          "vocab": [
+            {
+              "cible": "procurement",
+              "fr": "achats d'armement, approvisionnement",
+              "ex": "the French defence procurement agency, the DGA"
+            },
+            {
+              "cible": "trial",
+              "fr": "essai",
+              "ex": "The choice follows a trial run by the Defence Innovation Agency"
+            },
+            {
+              "cible": "endurance",
+              "fr": "endurance, autonomie",
+              "ex": "tested on navigation, endurance and their ability to make decisions"
+            },
+            {
+              "cible": "winning",
+              "fr": "gagnant, retenu",
+              "ex": "The three winning prototypes will now enter a development phase"
+            },
+            {
+              "cible": "mass production",
+              "fr": "production en série",
+              "ex": "the Navy will pick the model that goes into mass production"
+            },
+            {
+              "cible": "escort",
+              "fr": "escorter",
+              "ex": "defend ports and escort ships without putting sailors at risk"
+            },
+            {
+              "cible": "unmanned",
+              "fr": "sans équipage",
+              "ex": "cheap unmanned boats have changed naval warfare"
+            }
+          ],
+          "questions": [
+            {
+              "q": "Where and when did the trials take place?",
+              "r": "Near Toulon, in January 2026."
+            },
+            {
+              "q": "What happens after the development phase?",
+              "r": "A second round of experiments, then the Navy picks the model for mass production."
+            }
+          ],
+          "src": "Zone Militaire",
+          "url": "https://www.opex360.com/2026/10/09/la-direction-generale-de-larmement-selectionne-trois-drones-de-surface-pour-la-protection-des-bases-et-des-navires-de-la-marine/"
+        }
+      }
+    },
     {
       "id": "2026-10-09-18",
       "label": "Point de 18h",
