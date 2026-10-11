@@ -1,6 +1,37 @@
 {
- "updatedAt": "2026-10-11T09:44:40Z",
+ "updatedAt": "2026-10-11T15:50:00Z",
  "points": [
+  {
+   "id": "2026-10-11-18",
+   "label": "Point de 18h",
+   "date": "2026-10-11",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-11T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "L'armée de Terre étudie l'option des microréacteurs nucléaires",
+      "resume": "Le Commandement du combat futur évoque des petits réacteurs modulaires dans un document de prospective publié ce 11 octobre.",
+      "details": "Le sujet figure dans la « Déclinaison capacitaire d'action aéroterrestre future », rédigée par le CCF. L'idée est de lancer des études pour alimenter en énergie des unités déployées, sans dépendre des carburants fossiles. Il s'agit à ce stade d'une réflexion de prospective et non d'un programme financé.",
+      "src": "Zone Militaire",
+      "url": "https://www.opex360.com/2026/10/11/larmee-de-terre-veut-lancer-des-etudes-pour-se-doter-de-microreacteurs-nucleaires/",
+      "une": true
+     },
+     {
+      "titre": "Guerre électronique : un nouveau système de navigation testé pour les chuteurs opérationnels",
+      "resume": "L'armée de Terre évalue NAVDAC, un dispositif pensé pour les parachutistes et mis en œuvre par le 1er RPIMa.",
+      "details": "Le système vise à garder visible la position des unités amies là où les signaux GNSS sont brouillés. Le groupement aéroporté de la section technique de l'armée de Terre l'a évalué. NAVDAC n'est pas encore opérationnel.",
+      "src": "Zone Militaire",
+      "url": "https://www.opex360.com/2026/10/11/guerre-electronique-larmee-de-terre-evalue-un-nouveau-systeme-de-navigation-pour-les-chuteurs-operationnels/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le pad thaï, plat national fabriqué par décret",
+    "texte": "Le plat considéré aujourd'hui comme l'emblème de la cuisine thaïlandaise doit beaucoup à la politique. Dans les années 1930-1940, le Premier ministre Plaek Phibunsongkhram mène une campagne nationaliste, qui voit le pays changer son nom de Siam en Thaïlande en 1939. Son gouvernement encourage alors la consommation de nouilles de riz sautées, présentées comme un plat national, pour renforcer l'identité du pays et ménager les ressources en riz. Les nouilles elles-mêmes viennent de la cuisine chinoise, ce qui rend l'histoire d'autant plus paradoxale. Le pad thaï est ainsi un plat à la fois ancien dans ses techniques et récent comme symbole national."
+   }
+  },
   {
    "id": "2026-10-11-12",
    "label": "Point de 12h",
