@@ -1,6 +1,74 @@
 {
- "updatedAt": "2026-10-10T15:50:00Z",
+ "updatedAt": "2026-10-11T03:44:40Z",
  "points": [
+  {
+   "id": "2026-10-11-06",
+   "label": "Point de 6h",
+   "date": "2026-10-11",
+   "hour": 6,
+   "tz": "+2",
+   "publishedAt": "2026-10-11T04:00:00Z",
+   "sections": {},
+   "culture": {
+    "sujet": "Le tunnel creusé des deux côtés d'une montagne",
+    "texte": "Vers 550 av. J.-C., des ouvriers ont percé une montagne de Samos depuis ses deux versants pour amener l'eau à la cité. Le tunnel d'Eupalinos, du nom de l'ingénieur de Mégare qui le conçut, mesure environ 1 036 mètres de long pour une section d'à peu près 1,8 mètre de côté. Les deux équipes, parties de points opposés sans repère visible entre elles, se sont rejointes avec seulement quelques mètres d'écart. Hérodote le décrit dans ses Histoires comme l'une des trois plus grandes réalisations des Grecs de son temps. Oublié, il a été redécouvert en 1882 par l'archéologue Ernst Fabricius, et il est inscrit à l'Unesco depuis 1992 avec le site de Pythagorion et l'Héraion."
+   },
+   "lecture": {
+    "en": {
+     "titre": "France tests a new version of its strategic missile",
+     "texte": "France has successfully test-fired a new version of its strategic missile from a nuclear-armed submarine. On 6 October 2026, the submarine Le Vigilant launched an M51.3 missile, according to the defence press.\nThe manufacturer, ArianeGroup, says it was the first time this version of the missile had been fired from a ballistic missile submarine. Such tests are rare and closely watched, because they show that the country's nuclear deterrent remains credible.\nThe M51 is the sea-based part of the French deterrent. Keeping it up to date is a long-term effort, since each new version has to be tested carefully before it enters service.",
+     "vocab": [
+      {
+       "cible": "test-fired",
+       "fr": "tiré en essai",
+       "ex": "France has successfully test-fired a new version of its strategic missile"
+      },
+      {
+       "cible": "launched",
+       "fr": "a lancé",
+       "ex": "the submarine Le Vigilant launched an M51.3 missile"
+      },
+      {
+       "cible": "according to",
+       "fr": "selon",
+       "ex": "according to the defence press"
+      },
+      {
+       "cible": "closely watched",
+       "fr": "surveillé de près",
+       "ex": "Such tests are rare and closely watched"
+      },
+      {
+       "cible": "credible",
+       "fr": "crédible",
+       "ex": "the country's nuclear deterrent remains credible"
+      },
+      {
+       "cible": "deterrent",
+       "fr": "force de dissuasion",
+       "ex": "The M51 is the sea-based part of the French deterrent"
+      },
+      {
+       "cible": "enter service",
+       "fr": "entrer en service",
+       "ex": "each new version has to be tested carefully before it enters service"
+      }
+     ],
+     "questions": [
+      {
+       "q": "Which submarine fired the missile?",
+       "r": "Le Vigilant."
+      },
+      {
+       "q": "Why is this test considered a first?",
+       "r": "It was the first time the M51.3 version was fired from a ballistic missile submarine."
+      }
+     ],
+     "src": "Opex360 (Zone Militaire)",
+     "url": "https://www.opex360.com/2026/10/06/dissuasion-le-sous-marin-nucleaire-lanceur-dengins-le-vigilant-a-tire-un-missile-strategique-m51-3-avec-succes/"
+    }
+   }
+  },
   {
    "id": "2026-10-10-18",
    "label": "Point de 18h",
