@@ -1,6 +1,55 @@
 {
- "updatedAt": "2026-10-11T03:44:40Z",
+ "updatedAt": "2026-10-11T09:44:40Z",
  "points": [
+  {
+   "id": "2026-10-11-12",
+   "label": "Point de 12h",
+   "date": "2026-10-11",
+   "hour": 12,
+   "tz": "+2",
+   "publishedAt": "2026-10-11T10:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "SCAF : revue de conception validée pour l'effecteur déporté de MBDA",
+      "resume": "La France, l'Allemagne et l'Espagne ont validé la revue de conception initiale d'un effecteur déporté développé par MBDA pour le SCAF, selon Zone Militaire le 10 octobre.",
+      "details": "Ce « remote carrier » doit accompagner l'avion de combat du futur système aérien. MBDA le présentait comme un engin furtif d'environ 400 kg, conçu pour opérer en essaim avec une charge utile modulaire. Cette validation franchit une étape technique dans un programme dont la gouvernance reste observée de près.",
+      "src": "Opex360 / Zone Militaire",
+      "url": "https://www.opex360.com/2026/10/10/scaf-la-france-lallemagne-et-lespagne-ont-valide-la-revue-de-conception-initiale-dun-effecteur-deporte-developpe-par-mbda/",
+      "une": true
+     },
+     {
+      "titre": "Exail dévoile un système de surveillance maritime à base de drones Oryx",
+      "resume": "Exail présente un dispositif de commandement et de contrôle reposant sur trois drones navals de la gamme Oryx, résistants au brouillage électronique (Zone Militaire, 9 octobre).",
+      "details": "Le système vise la surveillance maritime avec des drones de surface capables de continuer leur mission en environnement de guerre électronique. Il s'inscrit dans l'intérêt croissant des marines pour les drones navals, la DGA ayant par ailleurs retenu trois drones de surface pour protéger bases et navires.",
+      "src": "Opex360 / Zone Militaire",
+      "url": "https://www.opex360.com/2026/10/09/le-francais-exail-devoile-un-nouveau-systeme-de-surveillance-maritime-base-sur-les-drones-navals-de-la-gamme-oryx/"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "A69 : plus de 800 policiers et gendarmes face aux opposants ce week-end",
+      "resume": "Un millier d'opposants à l'autoroute A69 manifestent les 10 et 11 octobre dans le Tarn, sous la surveillance de plus de 800 forces de l'ordre.",
+      "details": "Selon la préfecture, 500 policiers et gendarmes étaient mobilisés dès vendredi soir, puis plus de 800 samedi. Les opposants ont installé leur camp de base près de Sémalens. Aucun bilan d'incidents n'était disponible à la mi-journée.",
+      "src": "ICI Occitanie",
+      "url": "https://www.ici.fr/occitanie/tarn-81/castres/autoroute-a69-800-policiers-et-gendarmes-mobilises-pour-la-manifestation-de-ce-week-end-4865149"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Ubisoft ferme Rainbow Six Mobile sept mois après son lancement",
+      "resume": "Ubisoft a annoncé le 8 octobre l'arrêt de Rainbow Six Mobile, jouable jusqu'au 15 janvier 2027.",
+      "details": "Lancé dans le monde en février 2026, le jeu disparaît après une courte vie. Ubisoft invoque seulement un alignement des ressources sur ses priorités stratégiques, dans le cadre de sa restructuration marquée par plusieurs annulations de projets. Plus de détails sont promis dans les prochaines semaines.",
+      "src": "Inven Global",
+      "url": "https://www.invenglobal.com/articles/26980/rainbow-six-mobile-to-end-service-on-january-15-2027"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Cahokia, la métropole oubliée du Mississippi",
+    "texte": "Vers l'an 1100, une ville plus peuplée que bien des cités européennes s'élevait près de l'actuelle Saint-Louis, sans écriture ni cheval. Cahokia, bâtie par la culture mississippienne à partir d'environ 1050, comptait probablement 10 000 à 20 000 habitants à son apogée. Son monument central, Monks Mound, atteint 30 mètres de haut sur une base d'environ 290 sur 315 mètres, érigé uniquement à la main avec des paniers de terre. Un cercle de poteaux de bois, surnommé « Woodhenge », servait sans doute de calendrier solaire. La ville fut abandonnée vers 1350, sans doute après des crues, des tensions sociales et des changements climatiques."
+   }
+  },
   {
    "id": "2026-10-11-06",
    "label": "Point de 6h",
