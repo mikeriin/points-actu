@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-10-12T03:50:00Z",
+ "updatedAt": "2026-10-12T09:44:50Z",
  "points": [
+  {
+   "id": "2026-10-12-12",
+   "label": "Point de 12h",
+   "date": "2026-10-12",
+   "hour": 12,
+   "tz": "+2",
+   "publishedAt": "2026-10-12T10:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Aubagne : un principal et une enseignante blessés par un tir dans un collège",
+      "resume": "Un collégien de 14 ans a été interpellé lundi 12 octobre après avoir tiré au fusil de chasse au collège Lakanal d'Aubagne (Bouches-du-Rhône).",
+      "details": "Le principal et une professeure de 37 ans sont blessés, leur pronostic vital n'étant pas engagé, selon les premières informations. L'adolescent aurait été maîtrisé sur place par le personnel avant l'arrivée des forces de l'ordre. Les ministres de l'Intérieur et de l'Éducation nationale doivent se rendre sur place dans l'après-midi ; les mobiles restent inconnus et les premiers éléments ne font pas de lien avec le mouvement lycéen.",
+      "src": "Europe 1",
+      "url": "https://www.europe1.fr/faits-divers/aubagne-un-proviseur-et-une-enseignante-blesses-par-un-tir-de-fusil-de-chasse-un-collegien-interpelle-1141400",
+      "une": true
+     },
+     {
+      "titre": "Lycées : 3 000 professeurs remplaçants déployés face à la contestation",
+      "resume": "Le ministre Édouard Geffray déploie dès lundi 12 octobre des remplaçants dans les lycées les plus touchés par la mobilisation lycéenne.",
+      "details": "Un outil de repérage a identifié 114 lycées en situation critique. Les recteurs pourront recruter au-delà des plafonds actuels, et des heures supplémentaires seront versées par anticipation pour les remplacements de courte durée. Le chiffre est contesté par le SNALC, qui y voit surtout de la communication, tandis que les organisations lycéennes appellent à poursuivre le mouvement mardi.",
+      "src": "Europe 1",
+      "url": "https://www.europe1.fr/societe/dou-proviennent-les-3000-enseignants-remplacants-que-deploie-edouard-geffray-dans-les-lycees-des-lundi-1133189"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Bokeh Game Studio, père de Slitterhead, prépare un nouveau projet d'ampleur",
+      "resume": "Le studio de Keiichiro Toyama, créateur de Silent Hill, recrute pour un nouveau jeu dont rien n'est encore dévoilé.",
+      "details": "Le studio, à l'origine de Slitterhead (novembre 2024, accueil mitigé), évoque un projet de grande envergure sur sa page de recrutement. Un casting de capture de mouvements aurait aussi été ouvert au Japon. Ni titre, ni genre, ni plateforme, ni éditeur ne sont connus.",
+      "src": "Le Blog du Geek",
+      "url": "https://www.le-blog-du-geek.com/bref/infos-flash-du-12-octobre-2026-62577"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "La patate douce, voyageuse du Pacifique avant Colomb",
+    "texte": "Bien avant les caravelles, une plante sud-américaine a traversé le Pacifique : la patate douce, cultivée en Polynésie dès le Moyen Âge. Elle y porte le nom de « kumara », proche du quechua « kumar » des Andes. En 2020, une étude génétique publiée dans Nature a trouvé des traces d'ascendance amérindienne chez des habitants de plusieurs îles polynésiennes, dont les Marquises, avec un métissage daté d'environ 1150-1230. Ces marins auraient donc rencontré des peuples d'Amérique du Sud, plus de 250 ans avant Colomb. Le tubercule, devenu base de l'alimentation en Nouvelle-Zélande, y est resté la culture phare des Maoris."
+   }
+  },
   {
    "id": "2026-10-12-06",
    "label": "Point de 6h",
