@@ -1,6 +1,62 @@
 {
- "updatedAt": "2026-10-12T09:44:50Z",
+ "updatedAt": "2026-10-12T15:44:46Z",
  "points": [
+  {
+   "id": "2026-10-12-18",
+   "label": "Point de 18h",
+   "date": "2026-10-12",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-12T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Ravitaillement en vol automatisé : la Belgique rejoint l'Espagne et l'Allemagne",
+      "resume": "Bruxelles se joint, selon Opex360 le 12 octobre, au projet européen d'automatisation du ravitaillement en vol mené par Madrid et Berlin.",
+      "details": "Airbus a obtenu la certification complète de son système A3R sur l'A330 MRTT auprès de l'INTA espagnol, avec des essais en Espagne et à Singapour. Le programme SMART MRTT vise à ravitailler des drones et, à terme, à développer un drone ravitailleur, en lien avec le projet FAARC lancé par l'Allemagne et l'Espagne.",
+      "src": "Zone Militaire",
+      "url": "https://www.opex360.com/2026/10/12/la-belgique-se-joint-a-lespagne-et-lallemagne-pour-automatiser-le-ravitaillement-en-vol/"
+     },
+     {
+      "titre": "Anduril dévoile une gamme de missiles de défense aérienne modulaires et bon marché",
+      "resume": "L'industriel américain Anduril a présenté le 12 octobre une nouvelle famille de missiles sol-air modulaires censés coûter peu.",
+      "details": "Le positionnement bas coût vise à contrer drones et munitions rôdeuses sans épuiser des intercepteurs onéreux. Les performances et les coûts annoncés viennent de l'entreprise et restent à confirmer de façon indépendante.",
+      "src": "Zone Militaire",
+      "url": "https://www.opex360.com/2026/10/12/lamericain-anduril-presente-une-nouvelle-gamme-de-missiles-de-defense-aerienne-modulaires-et-peu-couteux/"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Cyberattaque contre les frigos : des centaines d'Intermarché et de magasins U touchés",
+      "resume": "Dans la nuit du 11 au 12 octobre, une attaque informatique a frappé les installations frigorifiques de 150 à 200 Intermarché et de moins de 100 magasins Coopérative U, selon l'AFP.",
+      "details": "À Grand-Couronne (Seine-Maritime), le magasin a détruit tous ses produits frais et surgelés par précaution sanitaire, sans date de reprise. Le système de surveillance des températures serait en cause, des pirates ayant pu déclencher un dégivrage à distance, d'après BFMTV : ces éléments ne sont pas confirmés officiellement.",
+      "src": "France 3 Normandie",
+      "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/nous-sommes-contraints-de-tout-detruire-une-cyberattaque-frappe-de-nombreux-supermarches-des-magasins-normands-concernes-3432267.html",
+      "une": true
+     },
+     {
+      "titre": "Colère des lycéens : blocages persistants mais 96,5 % des lycées rouverts",
+      "resume": "Le 12 octobre, la mobilisation lycéenne se poursuit mais semble s'essouffler, de nouveaux rassemblements étant attendus mardi 13.",
+      "details": "À Toulouse, le rectorat recense quatre lycées bloqués. Les revendications portent sur les effectifs d'enseignants et les conditions d'apprentissage. Le mouvement, lancé fin septembre, a donné lieu à de nombreuses interpellations et à des violences condamnées par le gouvernement.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Strasbourg : onze interpellations lors du blocage de lycées",
+      "resume": "Le 12 octobre au matin, la police a interpellé 11 personnes lors de nouveaux blocages de lycées à Strasbourg.",
+      "details": "Un incendie a touché le portail du lycée Kléber et des mortiers d'artifice ont été tirés près des lycées Couffignal et Jean-Monnet, selon France 3. Le chiffre des interpellations provient d'une source policière.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/colere-des-lyceens-la-mobilisation-se-poursuit-a-strasbourg-des-incidents-et-11-interpellations-3432213.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le fleuve qui coule à l'envers au Cambodge",
+    "texte": "Chaque année, le Tonlé Sap, au Cambodge, inverse le sens de son courant. Cette rivière de 120 km relie le Mékong, à Phnom Penh, au grand lac du même nom. En saison sèche, elle s'écoule du lac vers le fleuve ; quand la crue de mousson fait monter le Mékong, vers mai-juin, l'eau remonte vers le lac. Celui-ci passe alors de quelques milliers à plus de 10 000 km², et sa profondeur de moins de 1 m à près de 9 m. Le sens normal revient en octobre-novembre, ce que célèbre la fête de l'eau Bon Om Touk. Le lac est réserve de biosphère de l'UNESCO depuis 1997."
+   }
+  },
   {
    "id": "2026-10-12-12",
    "label": "Point de 12h",
