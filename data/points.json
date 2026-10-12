@@ -1,6 +1,85 @@
 {
- "updatedAt": "2026-10-11T15:50:00Z",
+ "updatedAt": "2026-10-12T03:50:00Z",
  "points": [
+  {
+   "id": "2026-10-12-06",
+   "label": "Point de 6h",
+   "date": "2026-10-12",
+   "hour": 6,
+   "tz": "+2",
+   "publishedAt": "2026-10-12T04:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "L'armée de Terre veut étudier des microréacteurs nucléaires",
+      "resume": "Selon Zone Militaire du 11 octobre 2026, l'armée de Terre prévoit de lancer des études pour se doter de petits réacteurs nucléaires modulaires.",
+      "details": "Ce type de réacteur de faible puissance viserait à alimenter des installations ou des emprises isolées sans dépendre de convois de carburant. L'armée de Terre structure cette priorité en trois axes d'effort. L'US Army a de son côté attribué en août 2026 des contrats pouvant atteindre 2,2 milliards de dollars pour équiper cinq de ses bases. Côté français, on en reste à la phase d'étude.",
+      "src": "Zone Militaire (Opex360)",
+      "url": "https://www.opex360.com/2026/10/11/larmee-de-terre-veut-lancer-des-etudes-pour-se-doter-de-microreacteurs-nucleaires/",
+      "une": true
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le papyrus qui nomme le cerveau pour la première fois",
+    "texte": "Le plus ancien texte connu à employer le mot « cerveau » est un manuel de chirurgie égyptien vieux de près de 3 600 ans. Le papyrus Edwin Smith, copié vers 1600 av. J.-C. d'après un original plus ancien, décrit 48 cas de blessures, classés avec une méthode étonnamment moderne : examen, diagnostic, puis pronostic (« une maladie que l'on traitera », « que l'on ne peut pas traiter »). Il décrit les sutures du crâne, les méninges et le liquide cérébral, et relie une lésion à un côté du cerveau à des troubles de l'autre côté du corps. L'antiquaire américain Edwin Smith l'a acheté à Louxor en 1862 ; il n'a été traduit qu'en 1930, par l'égyptologue James Henry Breasted. Il contient très peu de magie, à la différence de la plupart des textes médicaux de l'époque."
+   },
+   "lecture": {
+    "en": {
+     "titre": "The French Army Looks at Nuclear Microreactors",
+     "texte": "The French Army is preparing to launch studies on small nuclear reactors to power its operations. Microreactors are compact units that can produce electricity for years without refuelling, so they could reduce the need to transport fuel to remote bases.\nThe idea is not new elsewhere. In August 2026, the US Army selected five companies to build microreactors on five of its bases, in contracts worth up to 2.2 billion dollars. Supporters argue that such systems make forces less dependent on diesel convoys, which are easy targets in a war.\nHowever, the French plan is still at a very early stage. For now, the Army only wants to study the question, and no reactor has been ordered.",
+     "vocab": [
+      {
+       "cible": "to power",
+       "fr": "alimenter en énergie",
+       "ex": "The French Army is preparing to launch studies on small nuclear reactors to power its operations."
+      },
+      {
+       "cible": "refuelling",
+       "fr": "ravitaillement en carburant",
+       "ex": "Microreactors are compact units that can produce electricity for years without refuelling."
+      },
+      {
+       "cible": "remote",
+       "fr": "isolé, éloigné",
+       "ex": "They could reduce the need to transport fuel to remote bases."
+      },
+      {
+       "cible": "to select",
+       "fr": "choisir, retenir",
+       "ex": "In August 2026, the US Army selected five companies to build microreactors."
+      },
+      {
+       "cible": "worth up to",
+       "fr": "d'une valeur pouvant atteindre",
+       "ex": "...in contracts worth up to 2.2 billion dollars."
+      },
+      {
+       "cible": "dependent on",
+       "fr": "dépendant de",
+       "ex": "Such systems make forces less dependent on diesel convoys."
+      },
+      {
+       "cible": "at a very early stage",
+       "fr": "à un stade très précoce",
+       "ex": "The French plan is still at a very early stage."
+      }
+     ],
+     "questions": [
+      {
+       "q": "What is the French Army planning to do for now?",
+       "r": "Launch studies on small nuclear reactors."
+      },
+      {
+       "q": "Why could microreactors be useful for armed forces?",
+       "r": "They make forces less dependent on fuel convoys."
+      }
+     ],
+     "src": "Zone Militaire (Opex360)",
+     "url": "https://www.opex360.com/2026/10/11/larmee-de-terre-veut-lancer-des-etudes-pour-se-doter-de-microreacteurs-nucleaires/"
+    }
+   }
+  },
   {
    "id": "2026-10-11-18",
    "label": "Point de 18h",
