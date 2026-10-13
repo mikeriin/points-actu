@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-10-13T09:44:29Z",
+ "updatedAt": "2026-10-13T15:45:25Z",
  "points": [
+  {
+   "id": "2026-10-13-18",
+   "label": "Point de 18h",
+   "date": "2026-10-13",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-13T16:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Lycéens : 480 000 manifestants selon eux, 161 500 selon l'Intérieur",
+      "resume": "La cinquième journée d'action des lycéens et étudiants a donné lieu à deux bilans très éloignés ce mardi 13 octobre.",
+      "details": "L'intersyndicale de la jeunesse revendique 480 000 participants, dont 41 500 à Paris selon le ministère de l'Intérieur. Le ministère de l'Éducation compte 147 personnels blessés depuis le début du mouvement. Le 13 octobre est la deuxième journée la plus lourde pour eux après le 1er octobre. Les jeunes réclament la fin de Parcoursup et 250 000 places supplémentaires à l'université.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-lyceens-de-nouveau-dans-la-rue-pour-un-acte-5-du-mouvement_8234260.html",
+      "une": true
+     },
+     {
+      "titre": "Budget 2027 : le RN ne votera pas la motion de rejet du PS",
+      "resume": "Les débats sur le projet de loi de finances 2027 s'ouvrent à l'Assemblée avec un gouvernement sans majorité.",
+      "details": "Le groupe RN a annoncé qu'il voterait contre la motion de rejet déposée par les socialistes, ce qui écarte son adoption. En commission des Finances, les députés avaient déjà supprimé les premières mesures d'économie, dont l'article liminaire. Le texte initial, déposé le 1er octobre, vise 43 milliards d'économies et un déficit de 5,0 % du PIB.",
+      "src": "LCP",
+      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-du-rassemblement-national-voteront-contre-la-motion-de-rejet-des"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Nîmes : un homme criblé de balles, enquête pour meurtre en bande organisée",
+      "resume": "Un homme de 47 ans a été tué par balles dimanche 11 octobre route de Courbessac, à Nîmes.",
+      "details": "Le parquet a ouvert une enquête pour meurtre en bande organisée. Les enquêteurs privilégient la piste d'un règlement de comptes. Aucune interpellation n'a eu lieu à ce stade.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/gard/nimes/un-homme-crible-de-balles-retrouve-mort-a-nimes-une-enquete-ouverte-pour-meurtre-en-bande-organisee-3432114.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Caral, la cité qui avait 5 000 ans avant les Incas",
+    "texte": "Au Pérou, la cité de Caral, dans la vallée de Supe, est l'une des plus anciennes villes connues des Amériques. Des datations au radiocarbone publiées dans la revue Science en 2001 ont fait remonter ses premiers édifices vers 2627 av. J.-C., soit à l'époque des pyramides d'Égypte. Elle compte six grandes pyramides à degrés, dont la plus haute dépasse 18 mètres. Les fouilles menées dès 1994 par l'archéologue Ruth Shady n'y ont révélé aucune trace de céramique ni de fortification. Le site a été inscrit au patrimoine mondial de l'UNESCO en 2009."
+   }
+  },
   {
    "id": "2026-10-13-12",
    "label": "Point de 12h",
