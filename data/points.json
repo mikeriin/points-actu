@@ -1,6 +1,94 @@
 {
- "updatedAt": "2026-10-12T15:44:46Z",
+ "updatedAt": "2026-10-13T03:50:00Z",
  "points": [
+  {
+   "id": "2026-10-13-06",
+   "label": "Point de 6h",
+   "date": "2026-10-13",
+   "hour": 6,
+   "tz": "+2",
+   "publishedAt": "2026-10-13T04:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Le chef militaire de l'OTAN prévient Moscou : toute attaque serait vaine",
+      "resume": "Le général Grynkewich, commandant suprême des forces alliées en Europe, a averti lundi à Varsovie que toute attaque contre un membre de l'OTAN serait « totalement vaine ».",
+      "details": "Il a précisé qu'aucun conflit n'était imminent. Ces propos interviennent alors que la Russie a frappé au moins six infrastructures énergétiques ukrainiennes malgré le « cessez-le-feu énergétique » annoncé par Donald Trump, ce que Kiev juge révélateur. L'UE a par ailleurs adopté de nouvelles sanctions visant environ 1 600 personnes et entités, et Emmanuel Macron appelle à ne pas « céder » à la menace russe.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-otan-previent-la-russie-que-toute-attaque-sera-totalement-vaine_8234011.html",
+      "une": true
+     }
+    ],
+    "france": [
+     {
+      "titre": "Lycéens : nouvelle journée de grève et de manifestations ce mardi",
+      "resume": "L'intersyndicale étudiante et lycéenne appelle à manifester et à faire grève ce mardi 13 octobre, malgré les annonces du ministre de l'Éducation.",
+      "details": "Le gouvernement a promis le déploiement de 3 000 enseignants remplaçants, jugé insuffisant par les syndicats lycéens. La journée précédente avait donné lieu à un bras de fer sur les chiffres : plus de 130 000 manifestants selon la CGT, 71 500 selon le ministère de l'Intérieur. L'Union syndicale lycéenne veut prolonger le mouvement pendant les vacances.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/l-intersyndicale-etudiante-appelle-a-une-nouvelle-journee-de-manifestations-et-de-greve-mardi-13-octobre_8228863.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le perroquet qui attend les fruits du rimu pour se reproduire",
+    "texte": "Le kakapo, perroquet nocturne de Nouvelle-Zélande, ne se reproduit que lorsque les arbres rimu produisent des fruits en abondance, soit tous les deux à quatre ans environ. Incapable de voler, il peut peser jusqu'à 4 kg, ce qui en fait le plus lourd perroquet du monde. Les mâles se rassemblent pour chanter à tour de rôle sur des arènes de parade, avec un grondement grave audible à plusieurs kilomètres. Introduits en Nouvelle-Zélande, chats, rats et hermines l'avaient réduit à 51 individus en 1995. Grâce à une surveillance intensive sur des îles sans prédateurs, la population dépasse aujourd'hui les 200 oiseaux."
+   },
+   "lecture": {
+    "en": {
+     "titre": "NATO warns Russia: any attack would be futile",
+     "texte": "NATO's top military commander in Europe, General Alexus Grynkewich, warned Russia on Monday that any attack on an alliance member would be \"totally futile\". He was speaking at a security forum in Warsaw, a few hundred kilometres from the Ukrainian border.\nThe general stressed that no conflict was imminent, but he said NATO was ready to defend every inch of its territory. His message came as Russia struck at least six energy sites in Ukraine, just after US President Donald Trump had announced an \"energy ceasefire\". Ukrainian President Volodymyr Zelensky said the attacks proved that Moscow did not intend to respect the deal.\nMeanwhile, the European Union adopted new sanctions against about 1,600 people and organisations linked to the war. In Paris, President Emmanuel Macron said that Europe must not give in to the Russian threat.",
+     "vocab": [
+      {
+       "cible": "futile",
+       "fr": "vain, inutile",
+       "ex": "any attack on an alliance member would be \"totally futile\""
+      },
+      {
+       "cible": "imminent",
+       "fr": "imminent",
+       "ex": "no conflict was imminent"
+      },
+      {
+       "cible": "to strike (struck)",
+       "fr": "frapper",
+       "ex": "Russia struck at least six energy sites in Ukraine"
+      },
+      {
+       "cible": "ceasefire",
+       "fr": "cessez-le-feu",
+       "ex": "an \"energy ceasefire\""
+      },
+      {
+       "cible": "to respect a deal",
+       "fr": "respecter un accord",
+       "ex": "Moscow did not intend to respect the deal"
+      },
+      {
+       "cible": "sanctions",
+       "fr": "sanctions",
+       "ex": "the European Union adopted new sanctions"
+      },
+      {
+       "cible": "to give in",
+       "fr": "céder",
+       "ex": "Europe must not give in to the Russian threat"
+      }
+     ],
+     "questions": [
+      {
+       "q": "Where did General Grynkewich make his warning?",
+       "r": "At a security forum in Warsaw."
+      },
+      {
+       "q": "Why does Zelensky say the energy ceasefire is not respected?",
+       "r": "Because Russia struck at least six energy sites in Ukraine."
+      }
+     ],
+     "src": "franceinfo",
+     "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-otan-previent-la-russie-que-toute-attaque-sera-totalement-vaine_8234011.html"
+    }
+   }
+  },
   {
    "id": "2026-10-12-18",
    "label": "Point de 18h",
