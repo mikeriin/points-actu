@@ -1,6 +1,48 @@
 {
- "updatedAt": "2026-10-13T03:50:00Z",
+ "updatedAt": "2026-10-13T09:44:29Z",
  "points": [
+  {
+   "id": "2026-10-13-12",
+   "label": "Point de 12h",
+   "date": "2026-10-13",
+   "hour": 12,
+   "tz": "+2",
+   "publishedAt": "2026-10-13T10:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Lycéens : nouvelle journée d'action le jour du budget à l'Assemblée",
+      "resume": "Lycéens et étudiants appellent à se rassembler ce mardi 13 octobre devant Matignon, jour de l'examen du budget à l'Assemblée nationale.",
+      "details": "Plusieurs assemblées générales parisiennes veulent interpeller directement Sébastien Lecornu, et l'Union syndicale lycéenne réclame une rencontre avec le Premier ministre. La CGT soutient l'appel. Le 7 octobre, le chef du gouvernement avait promis des premières décisions à la fin du mois ; une mobilisation plus large contre la vie chère est annoncée le 17 octobre.",
+      "src": "CNews",
+      "url": "https://www.cnews.fr/france/2026-10-12/mobilisation-lyceenne-appel-contre-la-vie-chere-quoi-faut-il-sattendre-les-13-et",
+      "une": true
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Lycéens à Nancy et Metz : cortèges prévus cet après-midi",
+      "resume": "Des manifestations de lycéens sont appelées ce mardi 13 octobre à 13h place Carnot à Nancy et à 14h place de la Comédie à Metz.",
+      "details": "Le mouvement avait déjà donné lieu à des heurts les 5, 6 et 8 octobre, avec 15 établissements de l'académie Nancy-Metz basculés en distanciel et l'entrée du lycée Henri-Loritz incendiée en marge d'un cortège à Nancy. Des perturbations sont signalées sur le réseau Stan.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/nouvelle-journee-d-action-a-metz-et-nancy-lyceens-et-etudiants-sont-mobilises-pour-de-meilleures-conditions-de-scolarite-3429840.html"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Toulouse : manifestation lycéenne à 14h, centre-ville interdit aux cortèges non déclarés",
+      "resume": "La préfecture autorise la marche CGT-FSU des Arènes aux Récollets mais interdit les rassemblements non déclarés dans le centre-ville de 10h à 20h ce mardi.",
+      "details": "C'est l'« acte V » de la colère lycéenne : lycées fermés, métro et tram partiellement perturbés selon la presse locale. La marche de la semaine dernière avait réuni 13 500 personnes selon les autorités, 30 000 selon les organisateurs. Les revendications portent sur les enseignants non remplacés, les classes surchargées et Parcoursup.",
+      "src": "Le Journal Toulousain",
+      "url": "https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/greve-manifestation-lyceenne-toulouse-mardi-13-octobre-quoi-faut-attendre-400771/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Les qanats, ces rivières creusées à la main depuis 2 700 ans",
+    "texte": "En Iran, des galeries souterraines creusées à la main amènent l'eau sur des dizaines de kilomètres sans aucune pompe. Ce système, le qanat, exploite une simple pente : un puits « mère » atteint la nappe en amont, puis un tunnel à très faible inclinaison conduit l'eau jusqu'aux champs et aux villages en contrebas. Le qanat de Gonabad, dans le nord-est du pays, serait vieux de plus de 2 700 ans et mesure environ 33 km, avec un puits mère de plus de 300 m de profondeur. Des puits verticaux régulièrement espacés servaient à évacuer les déblais et à aérer les ouvriers, les muqannis, métier souvent transmis de père en fils. En 2016, l'UNESCO a inscrit onze qanats persans sur la Liste du patrimoine mondial."
+   }
+  },
   {
    "id": "2026-10-13-06",
    "label": "Point de 6h",
