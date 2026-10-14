@@ -1,6 +1,101 @@
 {
- "updatedAt": "2026-10-13T15:45:25Z",
+ "updatedAt": "2026-10-14T03:44:39Z",
  "points": [
+  {
+   "id": "2026-10-14-06",
+   "label": "Point de 6h",
+   "date": "2026-10-14",
+   "hour": 6,
+   "tz": "+2",
+   "publishedAt": "2026-10-14T04:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Flotte fantôme : la Marine déroute un pétrolier à La Réunion",
+      "resume": "La Marine nationale a arraisonné le 12 octobre le pétrolier DF Peak, soupçonné de faux pavillon, à plus de 450 nautiques au sud de La Réunion.",
+      "details": "Long de 244 mètres, le navire bat pavillon béninois depuis juin 2025 et s'appelait Kaliningrad sous pavillon russe. L'opération repose sur l'article 110 de la convention de Montego Bay. À la demande de la procureure, il est escorté vers un mouillage au large de La Réunion pour la suite de l'enquête judiciaire.",
+      "src": "Mer et Marine",
+      "url": "https://www.meretmarine.com/fr/marine-marchande/la-reunion-la-marine-nationale-deroute-un-petrolier-soupconne-d-appartenir-a-la-flotte-fantome",
+      "une": true
+     }
+    ],
+    "france": [
+     {
+      "titre": "Budget 2027 : la motion de rejet du PS écartée à l'Assemblée",
+      "resume": "Les députés ont rejeté mardi soir la motion de rejet socialiste par 236 voix contre 149, ce qui ouvre l'examen du projet de loi de finances.",
+      "details": "Le RN avait annoncé voter contre, Horizons et LIOT n'ont pas soutenu la motion non plus. L'examen de la partie recettes se poursuit dans l'hémicycle jusqu'à lundi. Le gouvernement, sans majorité, vise un déficit de 5,0 % du PIB en 2027.",
+      "src": "LCP",
+      "url": "https://lcp.fr/actualites/la-motion-de-rejet-des-socialistes-n-ayant-pas-ete-adoptee-l-examen-du-budget-2027-aura"
+     },
+     {
+      "titre": "Lycéens : 480 000 manifestants selon les syndicats, 161 500 selon l'État",
+      "resume": "La journée de mobilisation du 13 octobre a donné lieu à des chiffres très éloignés entre l'intersyndicale de la jeunesse et les autorités.",
+      "details": "À Rennes, la préfecture compte 7 300 manifestants contre 10 000 selon les syndicats, avec neuf interpellations signalées à 19 h. L'Union étudiante affirme que 90 % des universités sont bloquées ou fermées, un chiffre non vérifié.",
+      "src": "La Dépêche",
+      "url": "https://unidivers.fr/blocages-lyceens-manif-ecole-crise/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Cahokia, la ville oubliée du Mississippi",
+    "texte": "Vers 1100, la plus grande ville d'Amérique du Nord au nord du Mexique se dressait près de l'actuelle Saint-Louis, et presque personne n'en connaît le nom. Cahokia comptait alors entre 10 000 et 20 000 habitants, davantage que Londres à la même époque. Son centre est dominé par Monks Mound, une butte de terre de près de 30 mètres de haut, bâtie en plusieurs phases entre environ 900 et 1100, sans bête de trait, avec des paniers de terre portés à dos d'homme. Des cercles de grands poteaux de bois, surnommés Woodhenge, servaient de calendrier solaire pour repérer les solstices et les équinoxes. La cité fut abandonnée vers 1350 ; son nom vient d'un peuple illinois présent au XVIIe siècle, sans lien avec ses bâtisseurs."
+   },
+   "lecture": {
+    "en": {
+     "titre": "France stops a suspected Russian ghost-fleet tanker in the Indian Ocean",
+     "texte": "On 12 October, the French Navy boarded an oil tanker more than 450 nautical miles south of La Réunion. The ship, called DF Peak, is suspected of sailing under a false flag.\nAccording to the French armed forces, the operation aimed to check the nationality of the vessel. The 244-metre tanker flies the flag of Benin, but it was previously registered in Russia under the name Kaliningrad. It was coming back from Venezuela.\nAt the request of the public prosecutor, the tanker was diverted and is now being escorted to an anchorage off La Réunion, where the legal investigation will continue. France has intercepted several ships linked to Russia's so-called ghost fleet since 2025, a network of old tankers that try to avoid sanctions by hiding who really owns them.",
+     "vocab": [
+      {
+       "cible": "to board",
+       "fr": "arraisonner, monter à bord de",
+       "ex": "the French Navy boarded an oil tanker"
+      },
+      {
+       "cible": "suspected of",
+       "fr": "soupçonné de",
+       "ex": "The ship, called DF Peak, is suspected of sailing under a false flag."
+      },
+      {
+       "cible": "false flag",
+       "fr": "faux pavillon",
+       "ex": "suspected of sailing under a false flag"
+      },
+      {
+       "cible": "to divert",
+       "fr": "dérouter",
+       "ex": "the tanker was diverted and is now being escorted"
+      },
+      {
+       "cible": "to escort",
+       "fr": "escorter",
+       "ex": "is now being escorted to an anchorage"
+      },
+      {
+       "cible": "public prosecutor",
+       "fr": "procureur de la République",
+       "ex": "At the request of the public prosecutor"
+      },
+      {
+       "cible": "to avoid sanctions",
+       "fr": "contourner les sanctions",
+       "ex": "try to avoid sanctions by hiding who really owns them"
+      }
+     ],
+     "questions": [
+      {
+       "q": "Where was the tanker stopped?",
+       "r": "More than 450 nautical miles south of La Réunion, in the Indian Ocean."
+      },
+      {
+       "q": "Why was the DF Peak diverted?",
+       "r": "The public prosecutor requested it so the legal investigation could continue."
+      }
+     ],
+     "src": "Mer et Marine",
+     "url": "https://www.meretmarine.com/fr/marine-marchande/la-reunion-la-marine-nationale-deroute-un-petrolier-soupconne-d-appartenir-a-la-flotte-fantome"
+    }
+   }
+  },
   {
    "id": "2026-10-13-18",
    "label": "Point de 18h",
