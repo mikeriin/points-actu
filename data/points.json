@@ -1,6 +1,62 @@
 {
- "updatedAt": "2026-10-14T09:45:17Z",
+ "updatedAt": "2026-10-14T15:45:14Z",
  "points": [
+  {
+   "id": "2026-10-14-18",
+   "label": "Point de 18h",
+   "date": "2026-10-14",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-14T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Munitions téléopérées : la DGA commande un nouveau lot de MX-10 DAMOCLES",
+      "resume": "La DGA a activé le 13 octobre une tranche optionnelle du contrat de 2024 avec KNDS et Delair pour un nouveau lot de MX-10 DAMOCLES.",
+      "details": "Zone Militaire évoque « quelques centaines » d'exemplaires, sans chiffre officiel. Cette munition téléopérée à courte portée (10 km) est destinée à l'armée de Terre et à la Marine. Les premières livraisons ont eu lieu le 2 décembre 2025.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/13/le-ministere-des-armees-a-commande-un-nouveau-lot-de-munitions-teleoperees-damocles-aupres-de-knds/",
+      "une": true
+     },
+     {
+      "titre": "Drone Volt dévoile Hercules 100, un drone cargo de 100 kg",
+      "resume": "Le français Drone Volt a présenté son drone logistique Hercules 100 au salon UAV Show de Bordeaux.",
+      "details": "Octocoptère de 197 kg au décollage, il emporte 100 kg pendant 30 minutes à 36 km/h, avec radar anticollision, LiDAR et treuil automatisé. La Marine nationale en a déjà acquis quatre exemplaires après un essai concluant.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/13/le-francais-drone-volt-presente-le-nouveau-drone-logistique-hercules-100-capable-de-transporter-une-charge-de-100-kg/"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Mobilisation lycéenne : après le 13 octobre, l'espoir d'une convergence des luttes",
+      "resume": "Cinquième grande journée de manifestations lycéennes mardi, rejointe par étudiants, fonctionnaires et salariés.",
+      "details": "À Marseille, 15 000 à 20 000 personnes ont défilé. Les lycéens espèrent désormais élargir le mouvement à d'autres secteurs.",
+      "src": "Café pédagogique",
+      "url": "https://www.cafepedagogique.net/2026/10/14/apres-la-manifestation-du-13-octobre-les-lyceens-esperent-la-convergence-des-luttes/"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Routiers : opérations escargot jeudi à Strasbourg et Metz contre deux taxes poids lourds",
+      "resume": "La FNTR appelle à manifester jeudi 15 octobre autour de Strasbourg et de Metz.",
+      "details": "Les transporteurs protestent contre deux taxes sur les poids lourds. Des perturbations de circulation sont à prévoir sur les axes autour des deux villes.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/pourquoi-les-chauffeurs-routiers-organisent-des-operations-escargots-autour-de-strasbourg-ce-jeudi-15-octobre-3433440.html"
+     },
+     {
+      "titre": "Mulhouse : les manifestations à répétition inquiètent les commerçants",
+      "resume": "Des commerçants mulhousiens disent voir leur fréquentation baisser avec la répétition des cortèges.",
+      "details": "Le 13 octobre était la cinquième journée de mobilisation de lycéens, étudiants et enseignants. Un retour des gilets jaunes est annoncé pour le 17 octobre.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/mulhouse/face-a-des-manifestations-qui-se-repetent-des-commercants-inquiets-pour-leur-activite-les-clients-ont-moins-envie-d-aller-faire-leur-shopping-3433020.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le cancer contagieux du diable de Tasmanie",
+    "texte": "Chez le diable de Tasmanie, un cancer se transmet par morsure d'un animal à l'autre, comme une maladie infectieuse. Repérée en 1996 dans le nord-est de l'île, cette tumeur faciale (DFTD) a fait chuter certaines populations de plus de 80 %. Chaque tumeur descend d'une seule cellule cancéreuse d'un individu ancestral : les cellules elles-mêmes sont l'agent contagieux. En 2014, des chercheurs ont découvert une seconde lignée indépendante (DFT2) dans le sud de la Tasmanie, preuve que le phénomène a surgi deux fois chez la même espèce. Seuls quelques cancers transmissibles sont connus dans le monde, également chez le chien et certains mollusques."
+   }
+  },
   {
    "id": "2026-10-14-12",
    "label": "Point de 12h",
