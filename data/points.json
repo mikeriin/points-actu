@@ -1,6 +1,30 @@
 {
- "updatedAt": "2026-10-14T03:44:39Z",
+ "updatedAt": "2026-10-14T09:45:17Z",
  "points": [
+  {
+   "id": "2026-10-14-12",
+   "label": "Point de 12h",
+   "date": "2026-10-14",
+   "hour": 12,
+   "tz": "+2",
+   "publishedAt": "2026-10-14T10:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "une": true,
+      "titre": "Collège d'Aubagne : le parquet antiterroriste reprend l'enquête sur les tirs",
+      "resume": "Le PNAT s'est saisi mardi 13 octobre de la fusillade du collège Joseph-Lakanal, après le dessaisissement du parquet de Marseille.",
+      "details": "Un élève de 14 ans est soupçonné d'avoir tiré lundi avec un fusil de chasse sur le principal et une enseignante, blessés sans pronostic vital. L'enquête vise des tentatives d'assassinat en relation avec une entreprise terroriste. Selon le PNAT, l'exploitation des supports numériques du mineur révèle une probable adhésion à la mouvance « True Crime Community », centrée sur les tueurs de masse. L'adolescent et ses parents avaient été placés en garde à vue.",
+      "src": "Boursorama (AFP)",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/france-le-parquet-antiterroriste-se-saisit-de-l-enquete-sur-les-tirs-au-college-d-aubagne-f6bdb9e1e88d080e359b1e359ddc47a9"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Q'eswachaka, le pont inca retissé chaque année avec de l'herbe",
+    "texte": "Au Pérou, un pont long d'une trentaine de mètres, suspendu au-dessus du río Apurímac, est entièrement refait à la main chaque année avec de l'herbe. Les quatre communautés quechua de Huinchiri, Chaupibanda, Choccayhua et Ccollana Quehue le reconstruisent en trois jours, en juin, selon une tradition qui remonte à l'époque inca. Les femmes tressent de fines cordes à partir d'une herbe dure appelée q'oya, puis les hommes les assemblent en câbles aussi épais qu'un corps humain. L'ancien pont est coupé et laissé tomber dans le fleuve, car l'herbe se dégrade en un an. Ce savoir-faire est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2013."
+   }
+  },
   {
    "id": "2026-10-14-06",
    "label": "Point de 6h",
