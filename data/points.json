@@ -1,6 +1,55 @@
 {
- "updatedAt": "2026-10-15T03:45:06Z",
+ "updatedAt": "2026-10-15T09:50:00Z",
  "points": [
+  {
+   "id": "2026-10-15-12",
+   "label": "Point de 12h",
+   "date": "2026-10-15",
+   "hour": 12,
+   "tz": "+2",
+   "publishedAt": "2026-10-15T10:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Berlin envisage de prendre 50 % du capital de KNDS",
+      "resume": "Selon Zone Militaire (14 octobre), le gouvernement allemand étudierait l'achat de la moitié du groupe franco-allemand d'armement terrestre.",
+      "details": "La famille Bode-Wegmann, qui détient aujourd'hui 50 % de KNDS, aurait l'intention de céder la totalité de ses parts. Cela remettrait en cause l'équilibre 50-50 entre Paris et Berlin hérité de la fusion de 2015. Les modalités (part visée, calendrier, gouvernance) restent à confirmer.",
+      "src": "Zone Militaire (Opex360)",
+      "url": "https://www.opex360.com/2026/10/14/armement-terrestre-berlin-envisage-dacquerir-50-du-groupe-franco-allemand-knds/",
+      "une": true
+     },
+     {
+      "titre": "Futur porte-avions : l'amiral Cluzel écarte le risque des catapultes américaines",
+      "resume": "Le chef d'état-major de la Marine ne voit pas de problème dans le recours aux catapultes électromagnétiques américaines pour le futur porte-avions (14 octobre).",
+      "details": "Le débat sur la permanence aéronavale a été mis de côté en attendant l'actualisation de la LPM 2024-2030. Le choix de la technologie américaine reste sensible pour la souveraineté du futur bâtiment.",
+      "src": "Zone Militaire (Opex360)",
+      "url": "https://www.opex360.com/2026/10/14/lamiral-cluzel-ne-voit-pas-de-probleme-avec-les-catapultes-electromagnetiques-americaines-du-futur-porte-avions/"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Routiers en colère à Metz et Strasbourg contre la taxe poids lourds R-Pass",
+      "resume": "Des transporteurs manifestent ce 15 octobre devant la Maison de la Région à Metz et autour de Strasbourg contre une taxe kilométrique sur les poids lourds.",
+      "details": "La FNTR appelle au rassemblement à Metz, tandis que des opérations escargot sont annoncées sur l'A35 et l'A4. Les élus alsaciens doivent voter ce jour-là sur le R-Pass, taxe visant les camions de plus de 3,5 tonnes. Une circulation difficile est attendue.",
+      "src": "Radio Mélodie",
+      "url": "https://www.radiomelodie.com/a/flash/19185-les-transporteurs-routiers-manifestent-aujourdhui-a-metz-et-strasbourg"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Ubisoft prépare une centaine de suppressions de postes en Allemagne",
+      "resume": "Selon Game File relayé le 15 octobre, Ubisoft viserait environ 100 postes dans ses studios de Düsseldorf, Berlin et Mainz via un plan de départs volontaires.",
+      "details": "Plus de la moitié concernerait Düsseldorf, soutien notamment de Rainbow Six Siege ; Mainz est le studio d'Anno 117. L'éditeur n'a pas confirmé le chiffre. Cela s'ajoute à la fermeture envisagée de RedLynx (Trials) et aux licenciements à Singapour.",
+      "src": "JVMag",
+      "url": "https://jvmag.ch/2026/10/15/ubisoft-encore-des-licenciements-avec-cette-fois-ci-lallemagne-pour-cible/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le pays qui a déplacé la ligne de changement de date",
+    "texte": "Fin 1994, le Kiribati a purement décalé le temps : le 31 décembre 1994 n'a pas existé sur ses îles orientales. Jusque-là, la ligne de changement de date coupait l'archipel en deux, si bien que deux parties du même pays vivaient à des jours différents. Le gouvernement a déplacé la ligne vers l'est pour unifier le calendrier national dès le 1er janvier 1995. Kiritimati (île Christmas) est ainsi passée à UTC+14, le fuseau le plus avancé du monde. L'île Caroline, rebaptisée « île du Millénaire », a pu se vanter d'accueillir le premier lever de soleil de l'an 2000."
+   }
+  },
   {
    "id": "2026-10-15-06",
    "label": "Point de 6h",
