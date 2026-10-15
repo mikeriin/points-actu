@@ -1,6 +1,103 @@
 {
- "updatedAt": "2026-10-14T15:45:14Z",
+ "updatedAt": "2026-10-15T03:45:06Z",
  "points": [
+  {
+   "id": "2026-10-15-06",
+   "label": "Point de 6h",
+   "date": "2026-10-15",
+   "hour": 6,
+   "tz": "+2",
+   "publishedAt": "2026-10-15T04:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Paris et N'Djamena relancent leur coopération de défense, sans retour des troupes",
+      "resume": "La ministre des Armées Catherine Vautrin et son homologue tchadien ont signé le 14 octobre une lettre d'intention sur la coopération en matière de capacités de défense.",
+      "details": "Le texte, signé pendant la visite du président Déby à Paris, vise à développer les capacités des forces armées tchadiennes, notamment dans des domaines innovants. Il ne constitue pas un nouvel accord militaire et n'annonce aucun retour de soldats français. Le Tchad avait dénoncé l'accord de défense en novembre 2024 et les derniers militaires français ont quitté le pays en janvier 2025.",
+      "src": "Zone Militaire (Opex360)",
+      "url": "https://www.opex360.com/2026/10/14/la-france-et-le-tchad-signent-une-lettre-dintention-pour-retablir-leur-cooperation-en-matiere-de-defense/",
+      "une": true
+     }
+    ],
+    "france": [
+     {
+      "titre": "Budget 2027 : Amiel sous le feu des questions des députés",
+      "resume": "Le ministre des Comptes publics David Amiel a été largement interrogé à l'Assemblée le 14 octobre, alors que l'examen du projet de loi de finances 2027 a débuté.",
+      "details": "Le gouvernement vise un déficit de 5 % du PIB en 2027 contre 5,4 % attendus en 2026, pour un effort de 54 milliards d'euros. Sébastien Lecornu ne dispose pas de majorité et dépend de l'abstention du PS ou du RN pour éviter la censure. Le vote sur la première partie du texte est prévu le 20 octobre.",
+      "src": "CNews / LCP",
+      "url": "https://www.cnews.fr/france/2026-10-14/assemblee-nationale-revivez-en-integralite-la-seance-des-questions-au"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Xbox Nano Controller : Microsoft officialise une manette miniature à 99 grammes",
+      "resume": "Microsoft a présenté le 14 octobre la Xbox Nano Controller, une manette de poche commercialisée le 4 novembre, précommandes ouvertes.",
+      "details": "Longue d'un peu plus de 12,7 cm pour environ 99 g, elle est compatible Xbox, PC, iOS et Android. Xbox a aussi annoncé le même jour un prochain ID@Xbox Showcase, avec 18 jeux attendus dont The Wolf Among Us Remastered.",
+      "src": "JVMag",
+      "url": "https://jvmag.ch/2026/10/14/xbox-nano-controller-microsoft-annonce-une-manette-miniature/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Teff, la plus petite céréale cultivée",
+    "texte": "Le teff, base de l'injera éthiopienne, est l'une des plus petites céréales cultivées : un grain mesure environ un millimètre. Cette graminée (Eragrostis tef) a été domestiquée sur les hauts plateaux d'Éthiopie, probablement entre 4000 et 1000 av. J.-C. Sa petitesse oblige à le récolter et le battre avec des soins particuliers, et il est naturellement sans gluten. La pâte de l'injera fermente deux à trois jours avant d'être cuite en galette spongieuse sur une plaque, la mitad. Le grain entier se consomme avec son germe et son son, ce qui le rend riche en fer et en calcium. L'Éthiopie a même interdit en 2006 l'exportation de teff brut pour protéger son marché intérieur."
+   },
+   "lecture": {
+    "en": {
+     "titre": "France and Chad restart defence cooperation",
+     "texte": "On 14 October, France and Chad signed a letter of intent to rebuild their defence cooperation. French defence minister Catherine Vautrin and her Chadian counterpart signed the text during a visit by President Déby to Paris.\nThe document focuses on helping the Chadian armed forces develop new capabilities, especially in innovative fields. However, it is not a new military agreement, and it does not mean that French troops will return to the country.\nThe relationship had broken down in November 2024, when N'Djamena ended its defence agreement with Paris. The last French soldiers left Chad in January 2025. The new letter shows that both governments want to keep working together, but in a more limited and carefully defined way.",
+     "vocab": [
+      {
+       "cible": "letter of intent",
+       "fr": "lettre d'intention",
+       "ex": "France and Chad signed a letter of intent to rebuild their defence cooperation."
+      },
+      {
+       "cible": "counterpart",
+       "fr": "homologue",
+       "ex": "French defence minister Catherine Vautrin and her Chadian counterpart signed the text."
+      },
+      {
+       "cible": "capabilities",
+       "fr": "capacités",
+       "ex": "The document focuses on helping the Chadian armed forces develop new capabilities."
+      },
+      {
+       "cible": "it does not mean that",
+       "fr": "cela ne signifie pas que",
+       "ex": "It does not mean that French troops will return to the country."
+      },
+      {
+       "cible": "to break down",
+       "fr": "se détériorer, rompre",
+       "ex": "The relationship had broken down in November 2024."
+      },
+      {
+       "cible": "to end an agreement",
+       "fr": "mettre fin à un accord",
+       "ex": "N'Djamena ended its defence agreement with Paris."
+      },
+      {
+       "cible": "limited",
+       "fr": "limité",
+       "ex": "Both governments want to keep working together, but in a more limited and carefully defined way."
+      }
+     ],
+     "questions": [
+      {
+       "q": "What did the two ministers sign on 14 October?",
+       "r": "A letter of intent on defence cooperation."
+      },
+      {
+       "q": "Will French troops return to Chad because of this text?",
+       "r": "No, it is not a new military agreement and no return is announced."
+      }
+     ],
+     "src": "Zone Militaire (Opex360)",
+     "url": "https://www.opex360.com/2026/10/14/la-france-et-le-tchad-signent-une-lettre-dintention-pour-retablir-leur-cooperation-en-matiere-de-defense/"
+    }
+   }
+  },
   {
    "id": "2026-10-14-18",
    "label": "Point de 18h",
