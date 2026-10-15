@@ -1,6 +1,55 @@
 {
- "updatedAt": "2026-10-15T09:50:00Z",
+ "updatedAt": "2026-10-15T15:50:00Z",
  "points": [
+  {
+   "id": "2026-10-15-18",
+   "label": "Point de 18h",
+   "date": "2026-10-15",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-15T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "L'A2SM XLR pour rendre à l'armée de l'Air sa capacité SEAD",
+      "resume": "L'armée de l'Air compte sur l'A2SM XLR, version à longue portée de l'armement de Safran, pour retrouver la suppression des défenses aériennes adverses.",
+      "details": "Le chef d'état-major de l'armée de l'Air l'a indiqué lors d'une audition à l'Assemblée nationale le 14 octobre. Dérivée de l'AASM Hammer, cette arme est conçue pour être tirée à distance de sécurité depuis le Rafale. La capacité SEAD/DEAD, abandonnée par la France depuis plusieurs années, redevient ainsi une priorité.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/15/avec-la2sm-xlr-larmee-de-lair-va-recuperer-une-capacite-de-suppression-des-defenses-aeriennes-adverses/",
+      "une": true
+     },
+     {
+      "titre": "« La division au combat » : l'armée de Terre dévoile sa vision à la PAT 2026",
+      "resume": "La Présentation de l'armée de Terre se tient les 14 et 15 octobre à l'École militaire sur le thème de la division au combat.",
+      "details": "Le général d'armée Jacques de Montgros, chef d'état-major depuis juillet 2026, a ouvert l'événement. La feuille de route vise une division déployable en 30 jours en 2027, puis un corps d'armée intégrant une composante aéroterrestre à l'horizon 2030.",
+      "src": "defense.gouv.fr",
+      "url": "https://www.defense.gouv.fr/terre/actualites/division-au-combat-larmee-terre-devoile-sa-vision-lors-pat-2026"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Budget 2027 : les députés rejettent le rabot sur l'abattement des retraités",
+      "resume": "Jeudi 15 octobre, l'Assemblée a supprimé l'article 3 du budget 2027 par 116 voix contre 30, malgré l'avis du gouvernement.",
+      "details": "La mesure devait rapporter 1,4 milliard d'euros en abaissant le plafond de l'abattement de 10 % sur les pensions d'environ 4 400 à 3 000 euros. L'examen de la partie recettes se poursuit jusqu'au 19 octobre, avec un vote solennel le 20. Le gouvernement, sans majorité, n'exclut pas le 49.3.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/economie/budget/budget-2027-les-deputes-rejettent-le-plafonnement-d-un-abattement-fiscal-pour-les-retraites_8238589.html"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Routiers en opération escargot autour de Strasbourg contre la taxe poids lourds",
+      "resume": "Des chauffeurs routiers ont manifesté jeudi 15 octobre autour de Strasbourg, le jour d'un débat régional sur la taxation des poids lourds.",
+      "details": "L'Alsace prévoit une taxe sur les camions de plus de 3,5 tonnes à partir de 2027. Les transporteurs dénoncent un nouvel impôt, tandis que la collectivité y voit un moyen de réduire le trafic de transit.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/pourquoi-les-chauffeurs-routiers-organisent-des-operations-escargots-autour-de-strasbourg-ce-jeudi-15-octobre-3433440.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "La truie de Falaise, condamnée à mort en 1386",
+    "texte": "En 1386, à Falaise en Normandie, une truie a été jugée comme une criminelle et condamnée à être exécutée. Elle avait mortellement blessé un nourrisson, et la justice médiévale appliquait alors aux animaux des procédures proches de celles des humains. L'animal fut traîné jusqu'à la place publique, puis mis à mort par le bourreau. Les archives de ces procès, nombreux du XIIIe au XVIIe siècle en Europe, montrent que les animaux avaient parfois un avocat commis d'office. Une fresque de l'église de la Trinité de Falaise a longtemps rappelé l'affaire avant d'être recouverte au XIXe siècle."
+   }
+  },
   {
    "id": "2026-10-15-12",
    "label": "Point de 12h",
