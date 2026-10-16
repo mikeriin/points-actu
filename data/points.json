@@ -1,6 +1,55 @@
 {
- "updatedAt": "2026-10-16T03:45:15Z",
+ "updatedAt": "2026-10-16T09:50:00Z",
  "points": [
+  {
+   "id": "2026-10-16-12",
+   "label": "Point de 12h",
+   "date": "2026-10-16",
+   "hour": 12,
+   "tz": "+2",
+   "publishedAt": "2026-10-16T10:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Gilets jaunes : le 17 octobre cristallise la colère sociale",
+      "resume": "Des appels à une mobilisation nationale samedi 17 octobre circulent sur les réseaux sociaux, sur fond de carburants et de vie chère, avec le soutien annoncé de la CGT.",
+      "details": "Une carte en ligne recense près de 384 rassemblements. Le gazole avoisinait 2,30 € le litre mi-septembre contre environ 1,45 € en 2018. Le mouvement reste décentralisé et aucun parcours officiel n'était annoncé à Paris. LFI et le PCF soutiennent l'appel, le PS veut être aux côtés des mobilisés.",
+      "src": "Sud Radio",
+      "url": "https://www.sudradio.fr/sud-radio/manifestations-du-17-octobre-vers-une-convergence-des-luttes-massive-et-une-mobilisation-generale",
+      "une": true
+     },
+     {
+      "titre": "Lycéens : nouvel appel à manifester samedi, malgré les concessions",
+      "resume": "Le mouvement lycéen, lancé mi-septembre, appelle à descendre de nouveau dans la rue le 17 octobre et à rejoindre la mobilisation contre la vie chère.",
+      "details": "L'Union syndicale des lycéens réclame la suppression de Parcoursup et un plan de 10 milliards d'euros. Le ministre Édouard Geffray a promis 3 000 remplaçants dans les lycées les plus touchés, et le gouvernement a renoncé aux frais d'inscription en BTS et prépa.",
+      "src": "Euronews",
+      "url": "https://fr.euronews.com/2026/10/14/mobilisation-lyceenne-nouvel-appel-a-manifester-samedi-17-octobre"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Écocontribution poids lourds : la Région Grand Est tient bon",
+      "resume": "Malgré l'opposition des transporteurs, du monde agricole et des entreprises, le conseil régional poursuit la mise en place de l'écocontribution poids lourds.",
+      "details": "Votée en mai, elle fixe 15 centimes par kilomètre pour les camions de plus de 3,5 tonnes sur environ 500 km de routes reprises par la Région, avec une mise en service annoncée pour 2027. Un collectif réclame sa suspension jusqu'aux régionales de 2028. Des opérations escargot ont eu lieu à Metz et Strasbourg.",
+      "src": "Le Républicain Lorrain",
+      "url": "https://www.titrespresse.com/25318632603/lorraine-quotidien-octobre"
+     }
+    ],
+    "defense": [
+     {
+      "titre": "France-Tchad : la coopération militaire reprend peu à peu",
+      "resume": "Paris et N'Djamena ont signé une lettre d'intention pour rétablir leur coopération de défense, avec des contacts relancés en formation et en renseignement.",
+      "details": "La lettre d'intention a été signée autour du 14 octobre. Le contexte est celui du départ des forces françaises du Tchad, et d'un rapprochement progressif entre les deux pays.",
+      "src": "Opex360 / Armées.com",
+      "url": "https://armees.com/entre-la-france-et-le-tchad-une-reconciliation-sur-fond-de-cooperation-militaire"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Axoum, le royaume qui frappait monnaie",
+    "texte": "Au IIIe siècle, le prophète perse Mani cite Axoum, en Éthiopie actuelle, parmi les quatre grands royaumes du monde avec la Perse, Rome et la Chine. Le roi Endubis y fait frapper vers 270 les premières monnaies d'Afrique subsaharienne, en or, argent et bronze, calquées sur les standards romains. Les pièces portent d'abord le disque et le croissant, symboles solaires et lunaires. Après la conversion du roi Ezana au christianisme, vers le milieu du IVe siècle, ces symboles sont remplacés par la croix, ce qui fait de ces pièces parmi les premières à l'afficher. Elles circulaient jusqu'en Inde et en mer Rouge."
+   }
+  },
   {
    "id": "2026-10-16-06",
    "label": "Point de 6h",
@@ -1697,85 +1746,6 @@
    "culture": {
     "sujet": "Le tribunal sans avocat qui siège depuis plus de mille ans",
     "texte": "Chaque jeudi à midi, devant la porte des Apôtres de la cathédrale de Valence, huit paysans en tenue noire jugent les conflits d'eau de la huerta. Ce Tribunal des eaux, dont l'origine remonte au Xe siècle selon la tradition, est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2009. Ses huit « síndicos » sont élus par les irrigants de huit canaux (acequias) dérivés du Turia. La procédure est entièrement orale : pas d'avocat, pas de greffe, et le verdict est rendu sur-le-champ, sans appel possible. Les amendes sont modestes, mais la sanction suprême reste de se voir privé d'eau."
-   }
-  },
-  {
-   "id": "2026-10-04-06",
-   "label": "Point de 6h",
-   "date": "2026-10-04",
-   "hour": 6,
-   "tz": "+2",
-   "publishedAt": "2026-10-04T04:00:00Z",
-   "sections": {
-    "occitanie": [
-     {
-      "titre": "Pluies diluviennes : vigilance orange dans les Pyrénées-Orientales et l'Aude",
-      "resume": "Après l'Hérault samedi, Météo-France place les Pyrénées-Orientales et l'Aude en vigilance orange pluie-inondation pour dimanche 4 octobre.",
-      "details": "L'Hérault, en orange samedi 3 octobre avec jusqu'à 150 mm attendus localement en quelques heures, a été rétrogradé en jaune. Pour dimanche, 80 à 120 mm sont prévus, jusqu'à 160 mm par endroits, avec des intensités de 30 à 50 mm/h propices au ruissellement. Cet épisode survient quelques jours après de précédentes inondations dans la région.",
-      "src": "Orange Actualités",
-      "url": "https://actu.orange.fr/france/meteo-les-pyrenees-orientales-en-alerte-orange-pluie-inondation-l-aude-et-l-herault-retrogrades-en-jaune-magic-CNT000002sih8z.html",
-      "une": true
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Prometheus, l'arbre de 4 900 ans abattu par erreur",
-    "texte": "En 1964, un arbre vieux d'environ 4 900 ans a été abattu sur le mont Wheeler, dans le Nevada, pour qu'on puisse en lire les cernes. Le doctorant Donald Currey étudiait d'anciennes glaciations et son carottier était resté coincé dans un pin bristlecone ; avec l'accord des gardes forestiers, l'arbre a été coupé. Le décompte des cernes a donné près de 4 862 ans, faisant de lui l'organisme non clonal le plus âgé jamais daté. Surnommé plus tard « Prometheus », il germait donc vers 2 900 av. J.-C., avant les pyramides de Gizeh. L'épisode a contribué à la protection des vieux bristlecones, et le bois a aidé à calibrer la datation au carbone 14."
-   },
-   "lecture": {
-    "en": {
-     "titre": "Floods Threaten the South of France Again",
-     "texte": "Heavy rain hit the south of France on Saturday. Météo-France put the Hérault on orange alert for rain and flooding, with local totals of up to 150 mm in a few hours. Roads were cut off and some schools and public transport had already been closed in Montpellier earlier in the week.\nLater in the day, the Hérault was downgraded to yellow, but the danger moved south. Forecasters placed the Pyrénées-Orientales and the Aude on orange alert for Sunday, October 4, with 80 to 120 mm of rain expected and up to 160 mm in some places.\nAuthorities asked residents to avoid unnecessary journeys and to stay away from rivers, because flash floods can rise very quickly after heavy storms.",
-     "vocab": [
-      {
-       "cible": "put on orange alert",
-       "fr": "placer en alerte orange",
-       "ex": "Météo-France put the Hérault on orange alert for rain and flooding"
-      },
-      {
-       "cible": "local totals",
-       "fr": "cumuls locaux",
-       "ex": "with local totals of up to 150 mm in a few hours"
-      },
-      {
-       "cible": "cut off",
-       "fr": "coupé, isolé",
-       "ex": "Roads were cut off and some schools and public transport had already been closed"
-      },
-      {
-       "cible": "downgraded",
-       "fr": "rétrogradé",
-       "ex": "the Hérault was downgraded to yellow"
-      },
-      {
-       "cible": "forecasters",
-       "fr": "prévisionnistes",
-       "ex": "Forecasters placed the Pyrénées-Orientales and the Aude on orange alert"
-      },
-      {
-       "cible": "residents",
-       "fr": "habitants",
-       "ex": "Authorities asked residents to avoid unnecessary journeys"
-      },
-      {
-       "cible": "flash floods",
-       "fr": "crues soudaines",
-       "ex": "flash floods can rise very quickly after heavy storms"
-      }
-     ],
-     "questions": [
-      {
-       "q": "Which departments were on orange alert for Sunday?",
-       "r": "The Pyrénées-Orientales and the Aude."
-      },
-      {
-       "q": "Why were residents told to stay away from rivers?",
-       "r": "Because flash floods can rise very quickly."
-      }
-     ],
-     "src": "Orange Actualités",
-     "url": "https://actu.orange.fr/france/meteo-les-pyrenees-orientales-en-alerte-orange-pluie-inondation-l-aude-et-l-herault-retrogrades-en-jaune-magic-CNT000002sih8z.html"
-    }
    }
   }
  ]
