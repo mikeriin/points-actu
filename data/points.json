@@ -1,6 +1,96 @@
 {
- "updatedAt": "2026-10-16T09:50:00Z",
+ "updatedAt": "2026-10-16T16:00:00Z",
  "points": [
+  {
+   "id": "2026-10-16-18",
+   "label": "Point de 18h",
+   "date": "2026-10-16",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-16T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Mer Rouge : une frégate française abat un drone menaçant un cargo",
+      "resume": "La FREMM Languedoc a détruit au canon un drone qui menaçait le porte-conteneurs Champs-Élysées, révèle Zone Militaire le 16 octobre.",
+      "details": "L'épisode remonte au début d'octobre, dans la zone de Bab el-Mandeb, où la frégate escortait le navire de CMA CGM dans le cadre de la mission européenne Aspides. L'état-major n'a précisé ni la nature ni l'origine du drone. Le cargo a dû modifier cap et vitesse pendant l'incident.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/16/mer-rouge-une-fregate-francaise-a-abattu-un-drone-juge-menacant-pour-le-porte-conteneurs-champs-elysees/",
+      "une": true
+     },
+     {
+      "titre": "Faute de Patroller, le 61e RA recevra des drones Tekever AR3",
+      "resume": "Le 61e régiment d'artillerie sera équipé de drones Tekever AR3 en remplacement du Patroller, selon Opex360 le 16 octobre.",
+      "details": "Le 61e RA est le régiment de l'armée de Terre spécialisé dans le renseignement par l'image et les drones. Le choix de l'AR3, drone tactique portugais déjà employé en Ukraine, signe un contournement du programme Patroller de Safran, dont les livraisons n'ont pas suivi les besoins.",
+      "src": "Opex360",
+      "url": "https://opex360.com/2026/10/16/faute-de-patroller-le-61e-regiment-dartillerie-sera-dote-de-drones-tekever-ar3"
+     },
+     {
+      "titre": "Avion de combat : la France ira seule, pour la troisième fois",
+      "resume": "Meta-Defense estime le 16 octobre que Paris développera seule son futur avion de combat, après l'échec du SCAF.",
+      "details": "Après le Rafale et ses prédécesseurs, la France assume une voie nationale pour l'ACF, le successeur du Rafale à l'horizon 2040, sans coopération « structurelle ». Le SCAF avec l'Allemagne a été abandonné en juin 2026 sur fond de rivalité Dassault-Airbus. L'enjeu est désormais le coût d'un appareil de 6e génération financé par le seul budget français.",
+      "src": "Meta-Defense",
+      "url": "https://meta-defense.fr/2026/10/16/acf-france-seule-3e-fois-scaf/"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Lycéens : intervention policière controversée devant le lycée Paul-Éluard",
+      "resume": "Trois personnes ont été interpellées jeudi 15 octobre à Saint-Denis près d'un lycée où 300 élèves étaient rassemblés.",
+      "details": "Le personnel dénonce une intervention de policiers en civil pour arrêter un élève ; le parquet a ouvert une enquête. Le mouvement lycéen reste vif : le 6 octobre, 488 interpellations et 43 membres des forces de l'ordre blessés avaient été comptés en marge des manifestations. Un nouvel appel à manifester court pour le samedi 17.",
+      "src": "franceinfo",
+      "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-lyceens-ce-que-l-on-sait-de-l-intervention-de-la-police-au-lycee-paul-eluard-de-saint-denis_8239189.html",
+      "une": true
+     },
+     {
+      "titre": "Navigants : le préavis de grève du 17 au 21 octobre est suspendu",
+      "resume": "L'intersyndicale des pilotes et personnels de cabine a suspendu son préavis le 9 octobre, selon des sources recoupées.",
+      "details": "La suspension est conditionnelle : les syndicats attendent la publication d'un décret sur le cumul emploi-retraite et menacent de relancer le mouvement. Air France, Transavia et Corsair n'ont pas, à ce stade, confirmé de programme adapté. Vérifier son vol auprès de la compagnie reste prudent, d'autant que la journée du 17 est aussi marquée par des manifestations.",
+      "src": "Sortiraparis",
+      "url": "https://sortiraparis.com/actualites/a-paris/articles/353907-greve-du-17-octobre-2026-aerien-gares-et-manifestations-a-quoi-s-attendre-a-paris"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Mulhouse : enquête après la mort d'un chauffeur sur le site Stellantis",
+      "resume": "Un chauffeur polonais de 63 ans, employé d'un sous-traitant, est mort sur un quai logistique de l'usine le 15 octobre.",
+      "details": "Une enquête est ouverte pour déterminer les causes du décès, d'origine cardiaque selon ICI. La CGT dénonce des cadences « infernales » et rappelle qu'il s'agit du troisième chauffeur sous-traitant mort en un an et demi. La direction de Stellantis n'avait pas réagi.",
+      "src": "ICI Alsace",
+      "url": "https://www.ici.fr/grand-est/alsace-cea/mulhouse/mulhouse-une-enquete-ouverte-apres-le-deces-d-un-chauffeur-polonais-sur-le-site-de-stellantis-1271941"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Toulouse : manifestation du 17 octobre, événements annulés et bus déviés",
+      "resume": "La Fête des Vendanges est annulée et des lignes de bus sont déviées en prévision du cortège de samedi.",
+      "details": "Une animation de la Métropole est aussi reportée. La mobilisation s'inscrit dans un contexte de grève dans la fonction publique, de blocus lycéens et de tensions au CHU et au tribunal de Toulouse, où le personnel réclame plus de moyens.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/manifestation-du-17-octobre-evenements-annules-transports-perturbes-ce-que-nous-savons-sur-les-perturbations-a-venir-dans-cette-grande-ville-3434466.html"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Ubisoft : plus de 100 postes menacés dans ses studios allemands",
+      "resume": "Blue Byte confirme des suppressions à Düsseldorf, Berlin et Mainz, dans le cadre d'une réduction mondiale.",
+      "details": "Ubisoft propose aussi de fermer RedLynx (Trials) en Finlande, jusqu'à 52 postes, et supprime 70 emplois à Singapour (Skull and Bones). La fermeture de RedLynx reste soumise à la consultation locale. Le groupe poursuit sa restructuration.",
+      "src": "GamesWirtschaft",
+      "url": "https://gameswirtschaft.de/wirtschaft/ubisoft-duesseldorf-mainz-berlin-stellenabbau-151026",
+      "une": true
+     },
+     {
+      "titre": "Xbox sonde ses joueurs sur des exclusivités, Minecraft compris",
+      "resume": "Microsoft a interrogé des Xbox Insiders sur un scénario sans Minecraft sur PlayStation et Nintendo, révèle Windows Central le 14 octobre.",
+      "details": "Le sondage évoque aussi Fallout, The Elder Scrolls ou Doom comme exclusivités consoles. Aucune décision n'est annoncée, le PC serait épargné et les achats existants resteraient accessibles. Minecraft sort toujours sur Switch 2 le 27 octobre.",
+      "src": "Minecraft.fr",
+      "url": "https://minecraft.fr/minecraft-exclusivite-xbox-sondage-playstation-nintendo/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "L'os d'Ishango, un calcul vieux de 20 000 ans",
+    "texte": "Au bord du lac Édouard, un os de singe gravé de 168 encoches attend depuis 1950 qu'on le comprenne. Le géologue belge Jean de Heinzelin de Braucourt l'a découvert à Ishango, en actuelle République démocratique du Congo. Long d'une dizaine de centimètres, il porte trois colonnes d'entailles, dont deux totalisent 60 encoches chacune et la troisième 48. Sa datation, d'abord située vers 9 000 av. J.-C., a été révisée à environ 20 000 ans. On y a vu un outil de comptage, voire un calendrier lunaire, mais l'interprétation reste débattue."
+   }
+  },
   {
    "id": "2026-10-16-12",
    "label": "Point de 12h",
@@ -1722,30 +1812,6 @@
    "culture": {
     "sujet": "Le pont inca retissé chaque année avec de l'herbe",
     "texte": "Au Pérou, un pont suspendu long d'environ trente mètres est entièrement refait à la main, en herbe, chaque année depuis plus de cinq siècles. Le Q'eswachaka enjambe le río Apurímac, à plus de 3 700 mètres d'altitude, et prolonge un ancien chemin de l'Empire inca. Chaque mois de juin, quatre communautés quechua fabriquent des cordes de paille de ichu et les tressent en câbles, puis remplacent l'ancien pont en trois jours. Le vieux pont est coupé et jeté dans la rivière, le nouveau est inauguré par une fête. Ce savoir-faire est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2013."
-   }
-  },
-  {
-   "id": "2026-10-04-12",
-   "label": "Point de 12h",
-   "date": "2026-10-04",
-   "hour": 12,
-   "tz": "+2",
-   "publishedAt": "2026-10-04T10:00:00Z",
-   "sections": {
-    "occitanie": [
-     {
-      "titre": "Aude et Pyrénées-Orientales en vigilance orange pluie-inondation",
-      "resume": "Météo-France a placé l'Aude et les Pyrénées-Orientales en vigilance orange pluie-inondation ce dimanche 4 octobre, jusqu'en milieu d'après-midi.",
-      "details": "Un système orageux touchant le nord-est de l'Espagne depuis samedi soir a remonté vers les deux départements dans la nuit. Les cumuls attendus atteignaient 80 à 120 mm, localement 150 à 180 mm, surtout sur les premiers reliefs (Corbières, Fenouillèdes, Albères). La fin de l'alerte orange était annoncée pour 16h.",
-      "src": "franceinfo",
-      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-aude-et-les-pyrenees-orientales-en-vigilance-orange-pluie-inondation-jusque-dans-l-apres-midi_8221870.html",
-      "une": true
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le tribunal sans avocat qui siège depuis plus de mille ans",
-    "texte": "Chaque jeudi à midi, devant la porte des Apôtres de la cathédrale de Valence, huit paysans en tenue noire jugent les conflits d'eau de la huerta. Ce Tribunal des eaux, dont l'origine remonte au Xe siècle selon la tradition, est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2009. Ses huit « síndicos » sont élus par les irrigants de huit canaux (acequias) dérivés du Turia. La procédure est entièrement orale : pas d'avocat, pas de greffe, et le verdict est rendu sur-le-champ, sans appel possible. Les amendes sont modestes, mais la sanction suprême reste de se voir privé d'eau."
    }
   }
  ]
