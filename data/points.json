@@ -1,6 +1,119 @@
 {
- "updatedAt": "2026-10-15T15:50:00Z",
+ "updatedAt": "2026-10-16T03:45:15Z",
  "points": [
+  {
+   "id": "2026-10-16-06",
+   "label": "Point de 6h",
+   "date": "2026-10-16",
+   "hour": 6,
+   "tz": "+2",
+   "publishedAt": "2026-10-16T04:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "L'armée de l'Air prépare ses drones de bombardement aux munitions DÉLUGE",
+      "resume": "L'escadron de drones de bombardement de l'armée de l'Air et de l'Espace sera doté de munitions téléopérées DÉLUGE, selon Opex360 le 15 octobre.",
+      "details": "Développé par MBDA, DÉLUGE est une munition à sens unique à turboréacteur, annoncée jusqu'à 500 km de portée pour environ 50 kg de charge. La DGA a passé un premier contrat le 22 janvier 2026, avec des livraisons attendues à partir de 2027. L'enjeu : saturer les défenses sol-air adverses, dans le débat sur l'actualisation de la LPM.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/15/larmee-de-lair-de-lespace-va-doter-son-escadron-de-drones-de-bombardement-de-munitions-teleoperees-deluge/",
+      "une": true
+     },
+     {
+      "titre": "Opérations : sauvetage aux îles Salomon depuis la Nouvelle-Calédonie",
+      "resume": "Le point hebdomadaire du ministère des Armées du 8 au 15 octobre fait état d'une mission de sauvetage aux îles Salomon.",
+      "details": "L'opération a mobilisé un avion CASA des forces armées en Nouvelle-Calédonie. Le point de situation recense aussi les opérations menées simultanément sur trois fronts durant la semaine.",
+      "src": "Ministère des Armées",
+      "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-jeudi-8-octobre-au-jeudi-15-octobre-2026"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Grève des navigants : Air France, Transavia et Corsair menacés dès samedi",
+      "resume": "Une intersyndicale de pilotes et de personnels de cabine maintient un préavis de grève du samedi 17 octobre 0h01 au mercredi 21 octobre 23h59.",
+      "details": "Le SNPL, l'UNSA-PNC, le SNPNC-FO, le SNGAF et l'UNAC contestent la réforme du cumul emploi-retraite, prévue le 1er janvier 2027, et veulent en exclure les navigants et la caisse CRPN. Le conflit ne porte pas sur les salaires. Les compagnies doivent informer les passagers au moins 24 h avant le début du mouvement ; d'autres compagnies de droit français peuvent être touchées.",
+      "src": "Air Journal",
+      "url": "https://www.air-journal.fr/2026-09-19-reforme-du-cumul-emploi-retraite-les-pilotes-et-personnels-de-cabine-appeles-a-la-greve-du-17-au-21-octobre-5277588.html"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Attaques contre des surveillants : 19 personnes jugées à Nancy en février",
+      "resume": "Dix-neuf personnes ont été renvoyées jeudi 15 octobre devant le tribunal correctionnel de Nancy.",
+      "details": "Elles sont poursuivies pour une série d'actions violentes visant des agents pénitentiaires et leurs domiciles au printemps 2025. Le procès est fixé à février.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/attaques-contre-les-surveillants-de-prison-19-personnes-seront-jugees-en-fevrier-a-nancy-3434292.html"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Gears of War: E-Day : des débuts jugés timides sur Steam",
+      "resume": "Le jeu, sorti le 6 octobre, aurait atteint 31 517 joueurs simultanés sur Steam et environ 230 000 ventes, selon des estimations.",
+      "details": "Alinea Analytics compte 168 000 ventes sur Steam et 62 000 sur Xbox depuis l'accès anticipé du 1er octobre ; Microsoft ne publie plus de chiffres. Le Game Pass a attiré 1,7 million de joueurs, ce qui pèse sur les ventes. Le pic Steam reste trois fois supérieur à celui de Gears 5 ; la presse est favorable (Metacritic 87).",
+      "src": "Xboxygen",
+      "url": "https://www.xboxygen.com/News/370666-le-game-pass-a-t-il-tue-les-ventes-de-gears-of-war-e-day-12-upgrades-pour-1-copie-vendue-sur-xbox"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Pythéas, le Marseillais parti chercher Thulé",
+    "texte": "Vers 330 av. J.-C., un Grec de Marseille nommé Pythéas s'est aventuré seul, bien au-delà des colonnes d'Hercule, jusqu'aux confins du monde connu. Navigateur et astronome de Massalia, il a longé l'Atlantique puis la Grande-Bretagne et rapporté l'existence de « Thulé », terre située à six jours de mer plus au nord, où les nuits d'été sont très courtes. Il serait l'un des premiers à relier les marées aux phases de la Lune. À Marseille, il avait aussi déterminé la latitude avec un gnomon, à quelques minutes d'arc de la valeur réelle. Son récit « Sur l'Océan » est perdu : on ne le connaît que par des citations de Strabon (qui ne le croyait guère) et de Pline."
+   },
+   "lecture": {
+    "en": {
+     "titre": "French Air Force to Arm Its Bomber Drones with Loitering Munitions",
+     "texte": "The French Air and Space Force plans to equip its squadron of bomber drones with a new weapon called DÉLUGE, according to the defence website Opex360.\nDÉLUGE is a one-way attack drone built by the European company MBDA. It is powered by a small jet engine and can reportedly travel up to 500 kilometres while carrying a warhead of about 50 kilograms. It is launched from the ground towards fixed coordinates.\nThe French procurement agency signed a first contract in January 2026, and deliveries should begin in 2027. The main goal is to overwhelm enemy air defences by launching many cheap weapons at once. The announcement comes as lawmakers debate an update to the 2024-2030 military programming law, which sets the army's budget.",
+     "vocab": [
+      {
+       "cible": "equip",
+       "fr": "équiper, doter",
+       "ex": "The French Air and Space Force plans to equip its squadron of bomber drones with a new weapon."
+      },
+      {
+       "cible": "reportedly",
+       "fr": "selon certaines informations",
+       "ex": "It can reportedly travel up to 500 kilometres."
+      },
+      {
+       "cible": "warhead",
+       "fr": "charge explosive",
+       "ex": "...while carrying a warhead of about 50 kilograms."
+      },
+      {
+       "cible": "procurement",
+       "fr": "achats publics, acquisition",
+       "ex": "The French procurement agency signed a first contract in January 2026."
+      },
+      {
+       "cible": "overwhelm",
+       "fr": "submerger, saturer",
+       "ex": "The main goal is to overwhelm enemy air defences."
+      },
+      {
+       "cible": "lawmakers",
+       "fr": "parlementaires",
+       "ex": "Lawmakers debate an update to the 2024-2030 military programming law."
+      },
+      {
+       "cible": "deliveries",
+       "fr": "livraisons",
+       "ex": "Deliveries should begin in 2027."
+      }
+     ],
+     "questions": [
+      {
+       "q": "What is DÉLUGE and who builds it?",
+       "r": "A one-way attack drone built by MBDA."
+      },
+      {
+       "q": "Why does the air force want so many of these weapons?",
+       "r": "To overwhelm enemy air defences by launching many cheap weapons at once."
+      }
+     ],
+     "src": "Opex360",
+     "url": "https://www.opex360.com/2026/10/15/larmee-de-lair-de-lespace-va-doter-son-escadron-de-drones-de-bombardement-de-munitions-teleoperees-deluge/"
+    }
+   }
+  },
   {
    "id": "2026-10-15-18",
    "label": "Point de 18h",
@@ -1663,48 +1776,6 @@
      "src": "Orange Actualités",
      "url": "https://actu.orange.fr/france/meteo-les-pyrenees-orientales-en-alerte-orange-pluie-inondation-l-aude-et-l-herault-retrogrades-en-jaune-magic-CNT000002sih8z.html"
     }
-   }
-  },
-  {
-   "id": "2026-10-03-18",
-   "label": "Point de 18h",
-   "date": "2026-10-03",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-03T16:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "titre": "Blocages de lycées : une centaine d'établissements perturbés, tensions avec la police",
-      "resume": "Près de 80 lycées sont bloqués, notamment à Lille, Strasbourg, Nice et Paris, au lendemain d'une réunion jugée décevante avec le ministère de l'Éducation.",
-      "details": "Plusieurs dizaines de personnes ont été interpellées lors de heurts. Matignon dénonce une opération orchestrée par La France Insoumise, ce que le mouvement conteste. Le Snes-FSU appelle à la grève mardi 6 octobre en soutien aux revendications des lycéens sur les moyens alloués aux établissements.",
-      "src": "franceinfo",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-ce-stade-il-n-y-a-pas-de-garanties-deplore-sophie-venetitay-du-snes-fsu-apres-la-reunion-avec-le-ministere-de-l-education_8219677.html",
-      "une": true
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Mobilisation lycéenne dans la Marne : 45 interpellations, surtout à Reims",
-      "resume": "Environ 1 350 jeunes ont manifesté vendredi dans la Marne pour le quatrième jour de mobilisation lycéenne en Champagne-Ardenne.",
-      "details": "Les interpellations ont eu lieu principalement à Reims. À Strasbourg, l'université a fermé ses portes après des heurts entre manifestants et forces de l'ordre sur le campus, dans le prolongement du mouvement national.",
-      "src": "France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/alsace"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "Haute-Garonne : l'avenir de l'unique unité de pédopsychiatrie du sud du département inquiète",
-      "resume": "Des inquiétudes se font jour sur le devenir de la seule unité de pédopsychiatrie du sud de la Haute-Garonne.",
-      "details": "Le sujet rejoint la question de l'accès aux soins psychiques des enfants en zone rurale, où l'offre est déjà très limitée.",
-      "src": "France 3 Occitanie",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le jour où le surf a débarqué en Australie",
-    "texte": "Le 24 décembre 1914, un nageur hawaïen glisse sur les vagues de Freshwater, près de Sydney, devant une foule médusée. Duke Kahanamoku, déjà double champion olympique du 100 m nage libre en 1912, venait faire une démonstration de surf lors d'une tournée de natation. Faute de planche, il en sculpte une en quelques jours dans du pin local, dit-on. Une jeune spectatrice, Isabel Letham, 15 ans, monte avec lui sur la planche et devient l'une des premières Australiennes à surfer. Ce moment est considéré comme l'acte de naissance du surf australien."
    }
   }
  ]
