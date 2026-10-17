@@ -1,6 +1,64 @@
 {
- "updatedAt": "2026-10-17T09:35:00Z",
+ "updatedAt": "2026-10-17T15:33:14Z",
  "points": [
+  {
+   "id": "2026-10-17-18",
+   "label": "Point de 18h",
+   "date": "2026-10-17",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-17T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Chypre confirme son intérêt pour le blindé français Jaguar",
+      "resume": "Selon la presse chypriote, Nicosie a retenu l'EBRC Jaguar de KNDS France pour sa Garde nationale ; aucun contrat signé n'est annoncé.",
+      "details": "Le Jaguar remplacerait les AMX-30B2 et les ERC-90 Sagaie vieillissants. Chypre viserait un financement via l'instrument européen SAFE, avec un prêt de 1,8 Md€. L'information repose sur des sources militaires non nommées.",
+      "src": "Army Recognition",
+      "url": "https://www.armyrecognition.com/news/army-news/2026/cyprus-national-guard-ebrc-jaguar-merkava-tank-acquisition"
+     }
+    ],
+    "france": [
+     {
+      "titre": "17 octobre : 272 interpellations et des violences dans plusieurs villes",
+      "resume": "La journée de mobilisation contre la vie chère, avec lycéens et gilets jaunes, a donné lieu à 272 interpellations à 15h et à des dégradations.",
+      "details": "La CGT revendique plus de 500 000 manifestants, sans chiffre officiel à ce stade. Un commissariat de police municipale a été dégradé à Marseille et Lille, une antenne d'office du tourisme incendiée à Lyon et une portion de l'A10 envahie près de Tours. Matignon avait convoqué une cellule interministérielle de crise.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-lyceens-etudiants-gilets-jaunes-des-milliers-de-manifestants-attendus-dans-toute-la-france_8241022.html",
+      "une": true
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Metz et Nancy : milliers de manifestants, fin de cortège tendue à Nancy",
+      "resume": "Samedi après-midi, 5 200 personnes ont défilé à Metz selon la préfecture et environ 4 000 à Nancy, où des heurts ont éclaté.",
+      "details": "À Metz, le cortège parti de la place de la République est resté calme. À Nancy, lycéens, étudiants et syndicats ont défilé avant des tensions : gaz lacrymogènes, mobilier urbain cassé et feux. À Strasbourg, la préfecture a interdit la Grande Île aux manifestants d'un rassemblement non déclaré.",
+      "src": "ICI",
+      "url": "https://www.ici.fr/grand-est/meurthe-et-moselle-54/mobilisation-du-17-octobre-en-meurthe-et-moselle-et-dans-les-vosges-matinee-calme-avant-les-manifestations-6395265"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Montpellier : entre 12 000 et 17 000 manifestants selon la préfecture",
+      "resume": "Le cortège parti à 14h de la place de la Comédie a rassemblé des milliers de personnes contre la vie chère.",
+      "details": "Des blocages étaient annoncés au port de Sète, au dépôt de Frontignan et sur des péages de l'A9 et de l'A709. Les chiffres varient selon les sources de direct.",
+      "src": "ICI",
+      "url": "https://www.ici.fr/occitanie/herault-34/montpellier/en-direct-les-manifestations-du-17-octobre-dans-l-herault-des-milliers-de-manifestants-deja-rassembles-a-montpellier-6836492"
+     },
+     {
+      "titre": "Toulouse : ronds-points, défilés et blocages, forte mobilisation",
+      "resume": "À Toulouse, de nombreuses actions étaient déjà en cours samedi et la mobilisation semblait importante.",
+      "details": "Plus de 10 000 manifestants étaient attendus l'après-midi. La préfecture avait interdit les manifestations non déclarées dans le centre de 7h à 22h, et le pont Saint-Michel a été bloqué dès la matinée.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/manifestations-du-17-octobre-a-toulouse-ronds-points-defiles-et-blocages-de-nombreuses-actions-deja-en-cours-la-mobilisation-semble-importante-3435021.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Les cloches de bronze du marquis Yi de Zeng",
+    "texte": "Une seule cloche chinoise de 433 av. J.-C. pouvait sonner deux notes différentes selon l'endroit où on la frappait. Découvert en 1978 à Suizhou (Hubei), le tombeau du marquis Yi de Zeng contenait un carillon de 65 cloches de bronze, accroché sur trois niveaux. Leur forme aplatie en amande permet à chacune de produire deux notes séparées par une tierce. L'ensemble couvre plus de cinq octaves et pèse environ 2,5 tonnes. Les musiciens des premiers essais ont pu rejouer des mélodies, preuve d'une théorie musicale très aboutie il y a près de 2 500 ans."
+   }
+  },
   {
    "id": "2026-10-17-12",
    "label": "Point de 12h",
@@ -1726,55 +1784,6 @@
    "culture": {
     "sujet": "Le plus grand essaim d'insectes jamais observé",
     "texte": "En 1875, un essaim de criquets des Montagnes Rocheuses a couvert une zone estimée à près de 513 000 km² au-dessus du Nebraska, soit plus que la France. L'entomologiste Albert Child l'a observé et son nom est resté à cet essaim, dit « Albert's Swarm ». Les estimations évoquent environ 12 500 milliards d'insectes, pour une masse de l'ordre de 27 millions de tonnes. Pourtant, l'espèce, Melanoplus spretus, a disparu en quelques décennies : le dernier spécimen vivant connu a été vu au Canada en 1902. L'une des hypothèses est que les colons ont labouré les zones de ponte, détruisant les œufs."
-   }
-  },
-  {
-   "id": "2026-10-05-12",
-   "label": "Point de 12h",
-   "date": "2026-10-05",
-   "hour": 12,
-   "tz": "+2",
-   "publishedAt": "2026-10-05T10:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "titre": "Blocus des lycées : Geffray lance une consultation, les syndicats insistent",
-      "resume": "Le ministre de l'Éducation Édouard Geffray ouvre ce lundi 5 octobre une plateforme de consultation des lycéens, mais l'Union syndicale lycéenne appelle à poursuivre la mobilisation dès mardi.",
-      "details": "La plateforme, prévue pour trois semaines, doit recueillir les difficultés et les attentes des élèves. Le mouvement, parti le 29 septembre contre le manque de professeurs et la vétusté des locaux, a gagné des universités. L'USL juge ces annonces insuffisantes, faute de mesures concrètes.",
-      "src": "Europe 1",
-      "url": "https://www.europe1.fr/politique/blocus-des-lycees-edouard-geffray-multiplie-les-concertations-mais-les-syndicats-restent-sur-leur-faim-1119149",
-      "une": true
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Blocus lycéen : établissements fermés à Strasbourg et dans le Haut-Rhin",
-      "resume": "Ce lundi 5 octobre, les lycées de Strasbourg et huit établissements du Haut-Rhin sont fermés en raison de la mobilisation lycéenne.",
-      "details": "Les blocages se poursuivent aussi dans plusieurs villes lorraines, dont Nancy, Metz et Val-de-Briey. À Reims, la mobilisation lycéenne et étudiante a privé la ville de tramway et réduit de moitié les bus. La mobilisation du matin est jugée faible par endroits en Alsace.",
-      "src": "Titres de presse (DNA)",
-      "url": "https://www.titrespresse.com/23937542603/alsace-patio-strasbourg"
-     }
-    ],
-    "jeuvideo": [
-     {
-      "titre": "Paramount et Warner Bros. Discovery fusionnent demain sous le nom Skydance",
-      "resume": "Le rachat à 110 milliards de dollars doit être finalisé mardi 6 octobre, après l'accord conclu avec des procureurs généraux d'États américains.",
-      "details": "Le nouvel ensemble s'appellera Skydance et regroupera Paramount, Warner Bros., HBO Max et CBS. Le sort de Warner Bros. Games, rattaché à WBD, n'est pas détaillé à ce stade ; une restructuration avec de nombreuses suppressions de postes est attendue dans les semaines à venir.",
-      "src": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html"
-     },
-     {
-      "titre": "Gears of War: E-Day sort demain sur Xbox Series et PC",
-      "resume": "Le préquel de la saga Gears of War est disponible dès mardi 6 octobre sur Xbox Series X|S et PC, et inclus dans le Game Pass dès le premier jour.",
-      "details": "C'est la sortie phare de la semaine du 5 octobre. Des employés de The Coalition s'inquiéteraient de possibles licenciements après le lancement, alors que Xbox mène une restructuration qui vise 3 200 postes sur l'exercice.",
-      "src": "ActuGaming",
-      "url": "https://actugaming.net/les-sorties-jeux-video-de-la-semaine-du-5-octobre-gears-of-war-e-day-star-wars-galactic-racer-hellraiser-aion-2-828423"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "L'os d'Ishango, plus vieille trace de calcul ?",
-    "texte": "Un os de babouin de 10 cm, gravé d'entailles regroupées en colonnes, intrigue les mathématiciens depuis 1950. Il a été trouvé à Ishango, sur les rives du lac Édouard (actuelle RD Congo), par le géologue belge Jean de Heinzelin de Braucourt. Daté d'environ 20 000 ans, il porte trois colonnes de marques dont l'une additionne 11, 13, 17 et 19, soit les nombres premiers entre 10 et 20. Une autre colonne aligne 11, 21, 19 et 9, des nombres proches de 10 ± 1 et 20 ± 1. Certains y voient un calendrier lunaire ou un outil de calcul, d'autres un simple décompte : le débat reste ouvert. L'objet est conservé à l'Institut royal des sciences naturelles de Belgique, à Bruxelles."
    }
   }
  ]
