@@ -1,6 +1,71 @@
 {
- "updatedAt": "2026-10-18T09:40:00Z",
+ "updatedAt": "2026-10-18T15:32:34Z",
  "points": [
+  {
+   "id": "2026-10-18-18",
+   "label": "Point de 18h",
+   "date": "2026-10-18",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-18T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Les drones Reaper français reçoivent enfin leur nacelle d'écoute électromagnétique",
+      "resume": "La nacelle de renseignement électromagnétique (ROEM) sort de sa phase d'expérimentation et devient opérationnelle sur les Reaper de l'armée de l'Air, selon Opex360 le 18 octobre.",
+      "details": "Les équipages du 33e escadron de reconnaissance (ESRA) commencent à s'en servir. Elle doit combler le trou laissé depuis 2022 par le retrait anticipé des Transall C-160G, avions d'écoute électronique, alors que leurs successeurs Archange tardent à arriver. Un enjeu direct pour le renseignement d'origine électromagnétique au Sahel comme en Europe.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/18/la-nacelle-de-renseignement-electromagnetique-va-enfin-etre-operationnelle-sur-les-drones-reaper-de-larmee-de-lair/"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Violences du 17 octobre : plus de 2 000 interpellations, l'exécutif sous pression",
+      "resume": "Au lendemain des manifestations contre la vie chère, le ministre de l'Intérieur Laurent Nuñez annonce plus de 2 000 interpellations en France, dont environ 855 à Paris.",
+      "details": "Plus de 600 policiers, gendarmes et pompiers auraient été blessés, selon ce bilan provisoire ; un premier décompte du Premier ministre Sébastien Lecornu faisait état de 1 200 interpellations. Pillages et incendies ont touché Paris, Lille, Marseille, Lyon ou Limoges. Le gouvernement promet des poursuites tandis que des appels à la démission du ministre de l'Intérieur se font entendre.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/economie/greve/mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-sebastien-lecornu-qui-deplore-des-degres-de-violence-inacceptables_8242513.html",
+      "une": true
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Nancy : le maire dénonce des scènes de « guérilla » après la manifestation",
+      "resume": "Le maire de Nancy réagit aux violences urbaines survenues en marge du défilé du 17 octobre.",
+      "details": "Selon la préfecture, 4 000 manifestants ont défilé et 500 à 1 000 individus violents ont été identifiés ; 25 interpellations et 23 blessés pris en charge par les pompiers, dont deux grièvement.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/nous-avons-assiste-a-des-scenes-de-violences-urbaines-de-guerilla-le-maire-de-nancy-reagit-aux-actes-de-vandalisme-au-lendemain-de-la-manifestation-du-17-octobre-3435357.html"
+     },
+     {
+      "titre": "Strasbourg : bilan alourdi après la mobilisation, 27 interpellations et 27 policiers blessés",
+      "resume": "La préfecture du Bas-Rhin dresse un bilan plus lourd de la journée du 17 octobre en Alsace.",
+      "details": "15 000 manifestants selon la préfecture (20 000 selon la CGT) ont défilé à Strasbourg malgré l'interdiction d'accès à la Grande Île. Les chiffres de blessés et d'interpellations varient selon les bilans successifs. À Metz, près de 5 200 personnes ont défilé.",
+      "src": "ICI Alsace",
+      "url": "https://www.ici.fr/grand-est/alsace-cea/mobilisation-du-17-octobre-16-interpellations-a-strasbourg-et-11-blesses-selon-un-premier-bilan-5327220"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Montpellier : 50 commerces touchés, 14 pillés, des millions d'euros de dégâts",
+      "resume": "Selon la CCI, le centre-ville de Montpellier est sous le choc après la manifestation du 17 octobre.",
+      "details": "Monoprix, Foot Locker et Bouygues Telecom figurent parmi les enseignes visées. Environ 70 personnes ont été interpellées selon la police et 36 policiers blessés dans l'Écusson.",
+      "src": "L'Écho des Tribunes",
+      "url": "https://echo-des-tribunes.com/herault-tribune/articles/montpellier-50-commerces-degrades-14-pilles-des-millions-deuros-de-degats-le-centreville-sous-le-choc"
+     },
+     {
+      "titre": "Toulouse : scènes de chaos, magasins pillés et 94 interpellations",
+      "resume": "Jusqu'à 32 000 personnes ont manifesté à Toulouse avant des violences dans l'hypercentre.",
+      "details": "La préfecture comptait 94 interpellations à 23 h 30 samedi, chiffre provisoire, et plus d'une dizaine d'agents blessés. France 3 Occitanie évoque des dizaines de boutiques pillées ou saccagées.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/manifestations-du-17-octobre-scenes-de-chaos-magasins-pilles-et-une-centaine-d-interpellations-le-bilan-est-lourd-dans-la-troisieme-ville-de-france-3435330.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "98 mots, 16 heures : le premier télégramme transatlantique",
+    "texte": "Le 16 août 1858, la reine Victoria envoie au président américain James Buchanan un message de 98 mots par le tout premier câble télégraphique transatlantique. La transmission dure environ 16 heures, tant le signal est faible et lent après plus de 3 000 km d'immersion. Le câble, posé par les navires de l'Atlantic Telegraph Company, cesse de fonctionner début septembre 1858, soit quelques semaines seulement après son inauguration. Une tension excessive appliquée par l'électricien Wildman Whitehouse est la cause généralement avancée de sa destruction. Il faudra attendre 1866 pour qu'un câble durable relie durablement l'Europe à l'Amérique."
+   }
+  },
   {
    "id": "2026-10-18-12",
    "label": "Point de 12h",
@@ -1738,71 +1803,6 @@
      "src": "Naval News",
      "url": "https://www.navalnews.com/?p=91680"
     }
-   }
-  },
-  {
-   "id": "2026-10-08-18",
-   "label": "Point de 18h",
-   "date": "2026-10-08",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-08T16:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Vautrin alerte : sans budget 2027, les commandes d'armement seraient gelées",
-      "resume": "Le 8 octobre, la ministre des Armées Catherine Vautrin a averti que l'absence de budget 2027 voté avant fin décembre bloquerait des programmes d'armement.",
-      "details": "Sans loi de finances, les crédits de la mission Défense resteraient plafonnés au niveau de 2026, soit environ 6,5 Md€ de moins que les 63,4 Md€ prévus pour 2027. Aucune nouvelle commande ne pourrait être passée en attendant. L'alerte tombe alors que la LPM actualisée, promulguée en août, ajoute 36 Md€ d'ici 2030.",
-      "src": "Boursorama (AFP)",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/programmes-d-armement-bloques-la-ministre-des-armees-met-en-garde-contre-les-consequences-sur-la-defense-si-le-budget-2027-n-est-pas-adopte-avant-la-fin-de-l-annee-1462f1cb34364b2b4861e25999106b0b",
-      "une": true
-     }
-    ],
-    "france": [
-     {
-      "titre": "Lycées : l'intersyndicale appelle à une nouvelle journée d'action le 13 octobre",
-      "resume": "Après l'« acte IV » de jeudi, intersyndicale étudiante et professionnelle donne rendez-vous mardi 13 octobre.",
-      "details": "Le ministère de l'Éducation affirme qu'environ 96 % des établissements sont ouverts, alors que le syndicat lycéen évoque près de 2 000 lycées à l'arrêt. Les cours ont repris le matin dans plusieurs villes, mais des blocages subsistent. Le gouvernement promet des premières décisions chiffrées avant fin octobre.",
-      "src": "Boursorama",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/lycees-nouvel-appel-a-la-mobilisation-le-13-octobre-830315b93ddee6ff9015695b0b5697f0"
-     },
-     {
-      "titre": "Banque de France : pas d'« effet de second tour » sur l'inflation",
-      "resume": "Le gouverneur estime que le choc inflationniste lié à la guerre au Moyen-Orient ne s'étend pas, pour l'instant, à toute l'économie.",
-      "details": "Il ne voit pas de spirale entre prix et salaires à ce stade. Le diagnostic reste conditionné à l'évolution de l'énergie, dont les prix du diesel viennent de refluer dans l'UE après des records.",
-      "src": "Boursorama",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/pas-d-effet-de-second-tour-que-signifie-le-commentaire-du-gouverneur-de-la-banque-de-france-sur-l-inflation-actuelle-942e537d52eae35820d400d57fd6dde9"
-     },
-     {
-      "titre": "Cyberattaques : un coup de pouce fiscal pour protéger les usines",
-      "resume": "Les députés de la commission des finances ont adopté un amendement incitant les industriels à investir dans la cybersécurité.",
-      "details": "L'objectif est d'éviter la paralysie de sites de production par des rançongiciels. Le dispositif, encore au stade de l'amendement budgétaire, devra survivre aux débats sur le projet de loi de finances.",
-      "src": "Boursorama",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/cyberattaques-vers-un-coup-de-pouce-fiscal-pour-aider-a-proteger-les-usines-de-la-paralysie-7890204daf1661ab08ac3a9927952c46"
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Lycéens à Metz : un cortège calme malgré la colère",
-      "resume": "Plusieurs centaines de personnes ont défilé jeudi à Metz, au lendemain de la prise de parole de Sébastien Lecornu.",
-      "details": "Le plan annoncé par le Premier ministre ne sera détaillé que fin octobre, ce qui n'a pas apaisé la mobilisation. Le mouvement reprenait aussi à Nancy.",
-      "src": "ICI Lorraine",
-      "url": "https://www.ici.fr/grand-est/moselle-57/metz/blocage-des-lycees-en-moselle-la-mobilisation-reprend-ce-jeudi-les-professeurs-appeles-a-manifester-a-metz-3059326"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "Toulouse et Montpellier : l'« acte IV » lycéen sous tension juridique",
-      "resume": "Jeudi 8 octobre, grève et cortèges à Toulouse et Montpellier, avec deux décisions opposées sur les interdictions de rassemblement.",
-      "details": "À Toulouse, le juge des référés a suspendu l'arrêté interdisant les rassemblements près des établissements. À Montpellier, la préfète a interdit les cortèges dans l'Écusson ; la manifestation était fixée à 13h au Peyrou.",
-      "src": "ICI Occitanie",
-      "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/blocage-des-lycees-une-nouvelle-journee-de-greve-et-de-manifestations-ce-jeudi-8-octobre-4098788"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Mondino et la dissection publique de Bologne",
-    "texte": "En 1316, un anatomiste de Bologne a achevé un manuel de dissection qui allait régner sur l'Europe pendant plus de deux siècles. Mondino de Luzzi, professeur de médecine, y décrit l'ouverture du corps dans l'ordre de putréfaction : abdomen d'abord, puis thorax, puis crâne. Son Anathomia s'appuyait sur des dissections de cadavres humains pratiquées à Bologne vers 1315, parmi les premières documentées en Occident chrétien. L'ouvrage resta un texte de référence dans les universités jusqu'au XVIe siècle. Il fut supplanté en 1543 par le De humani corporis fabrica d'André Vésale, qui corrigea de nombreuses erreurs héritées de Galien."
    }
   }
  ]
