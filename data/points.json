@@ -1,6 +1,94 @@
 {
- "updatedAt": "2026-10-17T15:33:14Z",
+ "updatedAt": "2026-10-18T03:33:37Z",
  "points": [
+  {
+   "id": "2026-10-18-06",
+   "label": "Point de 6h",
+   "date": "2026-10-18",
+   "hour": 6,
+   "tz": "+2",
+   "publishedAt": "2026-10-18T04:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Frégate Amiral Louzeau : le premier équipage est officiellement constitué",
+      "resume": "La Marine a formé le 17 octobre le premier équipage de la deuxième frégate de défense et d'intervention (FDI).",
+      "details": "Mise à l'eau par Naval Group, la frégate doit commencer ses essais en mer début 2027 puis entrer en service la même année. Opex360 souligne que la Marine compte officiellement quinze bâtiments de surface de premier rang, mais seulement dix en écartant une frégate dotée d'un sonar, un format jugé insuffisant au regard du contexte sécuritaire.",
+      "src": "Zone Militaire (Opex360)",
+      "url": "https://www.opex360.com/2026/10/17/le-premier-equipage-de-la-fregate-de-defense-et-dintervention-amiral-louzeau-a-ete-officiellement-constitue/"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Mobilisation du 17 octobre : 550 000 manifestants selon l'Intérieur, 800 000 selon les organisateurs",
+      "resume": "La journée de mobilisation de samedi a rassemblé des centaines de milliers de personnes, avec des violences ici et là.",
+      "details": "Le ministre de l'Intérieur Laurent Nuñez évoque environ 400 interpellations et 60 blessés parmi les forces de l'ordre, dont 110 000 manifestants à Paris selon le ministère. À Limoges, l'intérieur de l'hôtel de ville a été incendié. Les cortèges sont restés majoritairement calmes ailleurs, mais les chiffres de participation divergent fortement : à Toulouse, 32 000 selon la préfecture contre près de 80 000 selon les syndicats.",
+      "src": "ICI",
+      "url": "https://www.ici.fr/infos/societe/direct-mobilisation-du-17-octobre-150000-personnes-attendues-dans-les-rues-ce-samedi-hors-agglomeration-parisienne-4822424",
+      "une": true
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le papier-monnaie né à Chengdu en 1024",
+    "texte": "En 1024, la dynastie Song crée à Chengdu, dans le Sichuan, le premier papier-monnaie émis par un État : le jiaozi. Il prolonge des reçus de dépôt que des marchands locaux utilisaient depuis le Xe siècle pour éviter de transporter des chaînes de lourdes pièces de fer. Le gouvernement ouvre alors un bureau officiel chargé d'imprimer et de contrôler ces billets. Les émissions étaient limitées par périodes et adossées à une réserve en monnaie métallique, environ 360 000 ligatures de pièces pour plus d'un million de ligatures de billets. Cette réserve fut ensuite rognée, et l'inflation des billets sous les Song a nourri les premières crises du papier-monnaie de l'histoire."
+   },
+   "lecture": {
+    "en": {
+     "titre": "France's new frigate gets its first crew",
+     "texte": "The French Navy has officially formed the first crew of the Amiral Louzeau, the second air-defence frigate of the FDI class. The ship was launched earlier by Naval Group and is meant to counter air, surface and underwater threats. It can also be used to deliver or recover special forces.\nSea trials are expected to begin in early 2027, and the frigate should enter service later the same year. Forming the crew now lets sailors train and prepare long before the ship leaves port.\nThe news comes with a warning about numbers. The Navy officially counts fifteen first-rank surface ships, but only ten really meet that standard once a sonar-equipped frigate is set aside. According to the report, this force level is not enough for the current security situation.",
+     "vocab": [
+      {
+       "cible": "launched",
+       "fr": "mis à l'eau",
+       "ex": "The ship was launched earlier by Naval Group"
+      },
+      {
+       "cible": "counter",
+       "fr": "contrer, faire face à",
+       "ex": "is meant to counter air, surface and underwater threats"
+      },
+      {
+       "cible": "sea trials",
+       "fr": "essais en mer",
+       "ex": "Sea trials are expected to begin in early 2027"
+      },
+      {
+       "cible": "enter service",
+       "fr": "entrer en service",
+       "ex": "the frigate should enter service later the same year"
+      },
+      {
+       "cible": "set aside",
+       "fr": "mettre de côté, écarter",
+       "ex": "once a sonar-equipped frigate is set aside"
+      },
+      {
+       "cible": "meet that standard",
+       "fr": "répondre à ce critère",
+       "ex": "only ten really meet that standard"
+      },
+      {
+       "cible": "not enough for",
+       "fr": "insuffisant pour",
+       "ex": "this force level is not enough for the current security situation"
+      }
+     ],
+     "questions": [
+      {
+       "q": "When are the sea trials of the frigate expected to start?",
+       "r": "In early 2027."
+      },
+      {
+       "q": "How many first-rank surface ships does the Navy officially count, and how many really qualify?",
+       "r": "Fifteen officially, but only ten really qualify."
+      }
+     ],
+     "src": "Zone Militaire (Opex360)",
+     "url": "https://www.opex360.com/2026/10/17/le-premier-equipage-de-la-fregate-de-defense-et-dintervention-amiral-louzeau-a-ete-officiellement-constitue/"
+    }
+   }
+  },
   {
    "id": "2026-10-17-18",
    "label": "Point de 18h",
@@ -1733,57 +1821,6 @@
    "culture": {
     "sujet": "Le cornique, langue déclarée morte puis ressuscitée",
     "texte": "En 2009, l'UNESCO classait le cornique parmi les langues éteintes, alors que des centaines de personnes le parlaient déjà. La tradition fait de Dolly Pentreath, morte en 1777 à Mousehole, la dernière locutrice native, même si ce statut est discuté. La renaissance débute avec Henry Jenner, qui publie en 1904 son Handbook of the Cornish Language. Le Royaume-Uni reconnaît le cornique en 2002 au titre de la Charte européenne des langues régionales. En 2010, l'UNESCO révise son verdict et le range parmi les langues « en danger critique »."
-   }
-  },
-  {
-   "id": "2026-10-05-18",
-   "label": "Point de 18h",
-   "date": "2026-10-05",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-05T16:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Paris et Ankara s'accordent sur une feuille de route de défense",
-      "resume": "La France et la Turquie ont convenu le 5 octobre d'une feuille de route pour renforcer leur coopération militaire, selon Zone Militaire.",
-      "details": "L'accord intervient après des années de tensions, dont l'épisode de 2020 autour d'un navire de recherche turc escorté près de l'île grecque de Kastellorizo. Ankara s'intéresse de longue date au système sol-air SAMP/T, dont la vente est restée suspendue au dialogue politique.",
-      "src": "Zone Militaire (Opex360)",
-      "url": "https://www.opex360.com/2026/10/05/la-france-et-la-turquie-saccordent-sur-une-feuille-de-route-pour-renforcer-leur-cooperation-en-matiere-de-defense/",
-      "une": true
-     }
-    ],
-    "france": [
-     {
-      "titre": "Blocus lycéen : tension à la veille de la journée du 6 octobre",
-      "resume": "Après un lundi de cours suspendus dans plusieurs centaines de lycées, l'USL et l'Union étudiante appellent à une nouvelle journée de mobilisation mardi.",
-      "details": "Selon les informations relayées, 400 à 500 lycées étaient totalement ou partiellement paralysés lundi, dont plus de 160 en Île-de-France. Les organisations syndicales doivent rejoindre les jeunes mardi, avec un rassemblement attendu à Paris place de la République à 14h. Les revendications portent sur les moyens, les effectifs par classe et Parcoursup.",
-      "src": "Le Bonbon",
-      "url": "https://www.lebonbon.fr/paris/news/greve-nationale-blocus-lycees-quoi-attendre-mardi-6-octobre-2026/"
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Reims sans tramway, lycées bloqués à Nancy et Metz",
-      "resume": "La mobilisation lycéenne a reparu lundi en Grand Est, avec des perturbations de transport à Reims et des tensions à Metz.",
-      "details": "À Reims, le tramway n'a pas circulé et les bus ont tourné à moitié. À Nancy, plusieurs établissements de l'agglomération sont restés bloqués, quelques centaines de jeunes convergeant vers le centre-ville. En Alsace, de nombreux lycées sont restés fermés après la pause du week-end.",
-      "src": "France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "Toulouse : alerte intrusion, interpellations et lycée évacué",
-      "resume": "Nouvelle journée sous tension à Toulouse avec des heurts devant le lycée Raymond Naves, à Borderouge, et plusieurs établissements fermés.",
-      "details": "Une bouteille de gaz a été découverte près du lycée puis sécurisée. À Montpellier, le lycée Clemenceau a été bloqué lundi matin. Les fermetures sont décidées pour raisons de sécurité.",
-      "src": "France 3 Occitanie",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/blocage-des-lycees-alerte-intrusion-interpellations-et-lycee-evacue-nouvelle-journee-sous-tension-a-toulouse-3428148.html"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le plus grand essaim d'insectes jamais observé",
-    "texte": "En 1875, un essaim de criquets des Montagnes Rocheuses a couvert une zone estimée à près de 513 000 km² au-dessus du Nebraska, soit plus que la France. L'entomologiste Albert Child l'a observé et son nom est resté à cet essaim, dit « Albert's Swarm ». Les estimations évoquent environ 12 500 milliards d'insectes, pour une masse de l'ordre de 27 millions de tonnes. Pourtant, l'espèce, Melanoplus spretus, a disparu en quelques décennies : le dernier spécimen vivant connu a été vu au Canada en 1902. L'une des hypothèses est que les colons ont labouré les zones de ponte, détruisant les œufs."
    }
   }
  ]
