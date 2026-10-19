@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-10-19T09:33:07Z",
+ "updatedAt": "2026-10-19T15:45:00Z",
  "points": [
+  {
+   "id": "2026-10-19-18",
+   "label": "Point de 18h",
+   "date": "2026-10-19",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-19T16:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Couvre-feux locaux et aide aux commerçants après les violences du 17 octobre",
+      "resume": "Le Premier ministre Sébastien Lecornu a annoncé lundi une série de mesures après les pillages et violences de samedi.",
+      "details": "Il a demandé aux préfets de déclencher dès ce soir des couvre-feux « partiels » et localisés, surtout pour protéger les commerces, et n'exclut pas l'état d'urgence « si c'est utile ». Il promet une réponse pénale « massive » et presse les assureurs d'accélérer les indemnisations ; au moins 3 000 commerces seraient concernés. Laurent Nuñez annonce des renforts de police et de gendarmerie avant une nouvelle mobilisation prévue samedi.",
+      "src": "ICI",
+      "url": "https://www.ici.fr/infos/politique/couvre-feux-soutien-aux-commerces-sebastien-lecornu-annonce-une-serie-de-mesures-apres-les-violences-du-17-octobre-9397840",
+      "une": true
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Gard et Hérault en vigilance orange orages et pluie-inondation",
+      "resume": "Météo-France a placé lundi les deux départements en vigilance orange à partir de l'après-midi.",
+      "details": "L'épisode méditerranéen doit s'intensifier dans l'après-midi puis pendant la soirée et la nuit, autour de Montpellier et Nîmes. Des cumuls de 40 à 70 mm en moins d'une heure sont possibles, avec risque marqué de foudre et de rafales.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/environnement/meteo/alertes-meteo-et-vigilances/vigilance-orange-orages-risque-marque-de-foudre-et-de-rafales-dans-le-gard-et-dans-l-herault-ce-19-octobre-2026_8243548.html"
+     },
+     {
+      "titre": "Perpignan : élus et commerçants rassemblés après les pillages de samedi",
+      "resume": "Élus, commerçants et habitants se sont retrouvés à midi devant l'hôtel de ville de Perpignan, lundi.",
+      "details": "Six magasins ont été dégradés et pillés lors des incidents de samedi. Le maire Louis Aliot réclame des sanctions et une réponse durable, tandis que la colère reste vive dans la ville.",
+      "src": "Le Journal Toulousain",
+      "url": "https://www.lejournaltoulousain.fr/occitanie/faudra-plus-simples-prises-paroles-perpignan-colere-apres-violences-week-end-401450/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Domesday Book : l'inventaire d'un royaume en un an",
+    "texte": "En 1086, Guillaume le Conquérant fit recenser presque toute l'Angleterre en moins d'un an, une prouesse administrative sans équivalent en Europe à l'époque. L'enquête fut décidée à Noël 1085 à Gloucester, et des commissaires parcoururent le royaume par circuits pour interroger les habitants, sous serment, sur les terres, les bêtes et les revenus de chaque domaine. Le 1er août 1086, les grands propriétaires prêtèrent serment de fidélité au roi à Salisbury. Le résultat, le Domesday Book, décrit environ 13 000 localités ; son nom évoque le Jugement dernier, car ses données ne pouvaient être contestées. Le Great Domesday compte 413 feuillets, et un second volume, le Little Domesday, détaille à part l'Essex, le Norfolk et le Suffolk."
+   }
+  },
   {
    "id": "2026-10-19-12",
    "label": "Point de 12h",
@@ -1789,48 +1829,6 @@
      "src": "Zone Militaire",
      "url": "https://www.opex360.com/2026/10/09/la-direction-generale-de-larmement-selectionne-trois-drones-de-surface-pour-la-protection-des-bases-et-des-navires-de-la-marine/"
     }
-   }
-  },
-  {
-   "id": "2026-10-09-18",
-   "label": "Point de 18h",
-   "date": "2026-10-09",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-09T16:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Char du futur : Paris assure que le MGCS franco-allemand continue",
-      "resume": "Le ministère des Armées a précisé le 9 octobre que le MGCS se poursuit, après les propos du chef d'état-major des armées devant les députés la veille.",
-      "details": "Le général Fabien Mandon avait évoqué le programme lors d'une audition à l'Assemblée le 8 octobre, ce qui avait nourri les doutes sur l'avenir du projet. Le ministère insiste sur l'intérêt du MGCS, recentré sur une nouvelle capacité. En parallèle, la France prépare une « capacité intermédiaire » pour remplacer le Leclerc à l'horizon 2038, côté allemand, KNDS et Rheinmetall développent le Leopard 3 comme solution de transition.",
-      "src": "Zone Militaire",
-      "url": "https://www.opex360.com/2026/10/09/le-projet-franco-allemand-de-systeme-principal-de-combat-terrestre-se-poursuit-assure-le-ministere-des-armees/",
-      "une": true
-     }
-    ],
-    "france": [
-     {
-      "titre": "Lycéens : troisième manifestation en une semaine annoncée à Nantes",
-      "resume": "Les lycéens nantais sont rappelés dans la rue ce vendredi 9 octobre, avec un départ au Miroir d'eau.",
-      "details": "Le mouvement lancé le 21 septembre se poursuit après la journée du 6 octobre, qui avait fait perturber 891 lycées selon l'Intérieur. Le Premier ministre a promis de premières décisions à la fin du mois d'octobre sur cinq chantiers : conditions d'enseignement, temps scolaire, bâti, Parcoursup et démocratie lycéenne.",
-      "src": "Titres de presse (Nantes Miroir)",
-      "url": "https://www.titrespresse.com/24412652603/nantes-miroir-mobilisation"
-     }
-    ],
-    "jeuvideo": [
-     {
-      "titre": "Dragon's Dogma 2 : l'extension Dark Arisen sort sur toutes les plateformes",
-      "resume": "Capcom lance ce 9 octobre l'extension Dark Arisen de Dragon's Dogma 2 sur PC, PS5, Xbox et Switch 2.",
-      "details": "L'extension offre environ 15 à 20 heures de jeu, avec 12 donjons de défis « Lost Rites » et davantage d'exploration verticale. Elle sort le jour même où sept jeux arrivent sur Xbox, selon PureXbox.",
-      "src": "PureXbox",
-      "url": "https://www.purexbox.com/news/2026/10/seven-xbox-games-are-out-today-including-a-major-expansion-to-capcoms-brilliant-rpg-october-9"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "0-0 : le premier match international de football",
-    "texte": "Le tout premier match international de l'histoire du football s'est terminé sur un 0-0. Il a eu lieu le 30 novembre 1872 à Glasgow, au terrain de cricket de Hamilton Crescent, entre l'Écosse et l'Angleterre. Environ 4 000 spectateurs ont payé un shilling pour y assister. Les Écossais alignaient deux défenseurs, deux demis et six attaquants, tandis que les Anglais jouaient avec huit attaquants, une tactique très offensive, mais sans but marqué. Le jeu reposait alors surtout sur le dribble, car la passe était encore peu pratiquée."
    }
   }
  ]
