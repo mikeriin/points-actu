@@ -1,6 +1,49 @@
 {
- "updatedAt": "2026-10-19T03:32:27Z",
+ "updatedAt": "2026-10-19T09:33:07Z",
  "points": [
+  {
+   "id": "2026-10-19-12",
+   "label": "Point de 12h",
+   "date": "2026-10-19",
+   "hour": 12,
+   "tz": "+2",
+   "publishedAt": "2026-10-19T10:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Pégase 26 : les Rafale bouclent un tour du monde aérien",
+      "resume": "L'armée de l'Air et de l'Espace a mené du 8 au 15 octobre la 7e édition de Pégase, projection longue distance de l'Arctique à l'Indopacifique puis au Moyen-Orient.",
+      "details": "Le ministère des Armées détaille la mission dans de nouveaux contenus publiés ce 19 octobre, dont un Defcast avec son chef, le général Julien Sabéné. Les escales ont inclus le Japon et l'Indonésie, avec des vols communs Rafale et A400M avec les forces locales. L'enjeu : prouver la capacité française à déployer vite et loin des chasseurs soutenus par des ravitailleurs et du fret.",
+      "src": "Ministère des Armées",
+      "url": "https://www.defense.gouv.fr/actualites/defcast-coulisses-mission-pegase-26",
+      "une": false
+     }
+    ],
+    "france": [
+     {
+      "titre": "Violences du 17 octobre : plus de 2 300 gardes à vue",
+      "resume": "Gérald Darmanin a fait état lundi d'un dernier bilan de 2 331 gardes à vue après la journée de mobilisation contre la vie chère.",
+      "details": "Les parquets ont reçu la consigne de requérir la détention provisoire contre les auteurs de violences. Le ministre de l'Intérieur Laurent Nuñez a reconnu un manque d'anticipation du dispositif policier. Le gouvernement pousse une loi « casseurs-payeurs », attendue au Sénat le 27 octobre.",
+      "src": "ICI",
+      "url": "https://www.ici.fr/infos/faits-divers-justice/violences-du-17-octobre-laurent-nunez-admet-un-manque-d-anticipation-sebastien-lecornu-reunit-une-cellule-de-crise-1550904?at_locale=31",
+      "une": true
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Final Fantasy Resonance et Call of Duty MW4 attendus cette semaine",
+      "resume": "Final Fantasy Resonance sort le 22 octobre en HD-2D et Call of Duty: Modern Warfare 4 le 23 octobre sur PC, PS5, Xbox Series et Switch 2.",
+      "details": "La semaine du 19 octobre compte 26 sorties au total, dont Big Dig, Coin Harvest et Eletta dès lundi. Deux gros calibres, un RPG de Square Enix et le shooter d'Activision, se télescopent à quelques heures d'écart.",
+      "src": "ActuGaming",
+      "url": "https://www.actugaming.net/les-sorties-jeux-video-de-la-semaine-du-19-octobre-final-fantasy-resonance-call-of-duty-modern-warfare-4-829843/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "1747 : le premier essai clinique contre le scorbut",
+    "texte": "Le 20 mai 1747, à bord du HMS Salisbury, le chirurgien écossais James Lind lance l'un des premiers essais cliniques comparatifs de l'histoire. Il choisit douze marins atteints de scorbut et les répartit en six paires, chacune recevant un traitement différent : cidre, vinaigre, eau de mer, élixir de vitriol, une pâte épicée, ou deux oranges et un citron par jour. Au bout d'environ six jours, les deux marins aux agrumes étaient presque rétablis, l'un reprenant même du service pour soigner les autres. Lind publie ses résultats dans son Treatise of the Scurvy en 1753, mais la Royal Navy n'impose le jus de citron qu'en 1795, près d'un demi-siècle plus tard."
+   }
+  },
   {
    "id": "2026-10-19-06",
    "label": "Point de 6h",
@@ -1788,48 +1831,6 @@
    "culture": {
     "sujet": "0-0 : le premier match international de football",
     "texte": "Le tout premier match international de l'histoire du football s'est terminé sur un 0-0. Il a eu lieu le 30 novembre 1872 à Glasgow, au terrain de cricket de Hamilton Crescent, entre l'Écosse et l'Angleterre. Environ 4 000 spectateurs ont payé un shilling pour y assister. Les Écossais alignaient deux défenseurs, deux demis et six attaquants, tandis que les Anglais jouaient avec huit attaquants, une tactique très offensive, mais sans but marqué. Le jeu reposait alors surtout sur le dribble, car la passe était encore peu pratiquée."
-   }
-  },
-  {
-   "id": "2026-10-09-12",
-   "label": "Point de 12h",
-   "date": "2026-10-09",
-   "hour": 12,
-   "tz": "+2",
-   "publishedAt": "2026-10-09T10:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "titre": "Lycées bloqués : 3 000 enseignants promis, 141 établissements encore fermés",
-      "resume": "Le ministre de l'Éducation Édouard Geffray a annoncé jeudi soir 3 000 enseignants supplémentaires, alors que 141 lycées restaient fermés vendredi 9 octobre.",
-      "details": "Le gouvernement cherche une sortie de crise face à un mouvement parti de revendications locales (manque de professeurs, classes surchargées). Des remplaçants sont promis dès la semaine prochaine dans les lycées les plus touchés. Le mouvement coïncide avec l'examen du budget 2027, qui prévoit une hausse des crédits de l'Éducation mais la perte de 1 588 postes d'enseignants selon la presse spécialisée.",
-      "src": "Titres Presse / La Croix",
-      "url": "https://www.titrespresse.com/24468482603/edouard-geffray-blocage",
-      "une": true
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Grève chez DNA et L'Alsace contre 400 suppressions de postes au groupe Ebra",
-      "resume": "Les syndicats du groupe de presse Ebra (Crédit Mutuel) appellent à la grève vendredi 9 octobre, avec un rassemblement devant le siège de la banque.",
-      "details": "Le plan prévoit de supprimer 400 postes sur environ 3 200 dans neuf titres, dont une cinquantaine aux DNA et 12 à L'Alsace, surtout via des départs volontaires. Les salariés contestent aussi le recours à l'IA pour la mise en page et l'arrêt d'une rotative. Le plan avait été annoncé aux syndicats le 22 juin.",
-      "src": "Rue89 Strasbourg",
-      "url": "https://www.rue89strasbourg.com/greve-lalsace-dna-398612"
-     }
-    ],
-    "defense": [
-     {
-      "titre": "L'A400M va recevoir un kit de bombardier d'eau après le mégafeu girondin",
-      "resume": "La ministre des Armées Catherine Vautrin a annoncé l'achat d'un kit de lutte contre les incendies pour l'A400M, rapporte La Dépêche.",
-      "details": "L'A400M avait été déployé cet été avec un prototype lors du mégafeu en Gironde. Le dispositif est un réservoir amovible installé en soute, capable de larguer jusqu'à 20 000 litres d'eau ou de retardant par la rampe arrière. Airbus indique que le kit reste en développement et en certification, et la Sécurité civile doute de sa viabilité.",
-      "src": "La Dépêche / Titres Presse",
-      "url": "https://www.titrespresse.com/24481582603/airbus-defence-space"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Borobudur et ses reliefs enfouis",
-    "texte": "Sous le temple bouddhique de Borobudur, à Java, se cachent 160 panneaux sculptés que personne ne voit. Construit vers l'an 800 sous la dynastie Sailendra, le monument compte 2 672 reliefs et 504 statues de Bouddha. Peu après sa construction, on a ajouté une base de pierre qui a recouvert le soubassement d'origine, le « Karmawibhangga », consacré aux conséquences des actes. Ces reliefs cachés ont été redécouverts en 1885 par l'ingénieur Yzerman. Seule une petite partie reste dégagée aujourd'hui, le reste demeurant masqué pour ne pas fragiliser l'édifice."
    }
   }
  ]
