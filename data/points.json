@@ -1,6 +1,55 @@
 {
- "updatedAt": "2026-10-20T09:33:01Z",
+ "updatedAt": "2026-10-20T15:32:52Z",
  "points": [
+  {
+   "id": "2026-10-20-18",
+   "label": "Point de 18h",
+   "date": "2026-10-20",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-20T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Sentinelle appelée en renfort pour la manifestation du 24 octobre",
+      "resume": "Laurent Nuñez a annoncé mardi 20 octobre à l'Assemblée le recours aux militaires de l'opération Sentinelle pour la mobilisation de samedi.",
+      "details": "Les soldats ne feront pas de maintien de l'ordre : ils reprendront des gardes statiques de sites sensibles afin de libérer policiers et gendarmes. Le dispositif inclurait aussi GIGN, RAID et BRI, et plus de 60 000 policiers ont été promis. Cette annonce suit les violences et pillages du 17 octobre.",
+      "src": "Époch Times / Police & Réalités",
+      "url": "https://www.epochtimes.fr/manifestations-du-24-octobre-laurent-nunez-va-deployer-les-militaires-de-sentinelle-pour-liberer-des-policiers-des-gardes-statiques-3374622.html",
+      "une": true
+     }
+    ],
+    "france": [
+     {
+      "titre": "Couvre-feux partiels à Paris, Lyon, Lille, Marseille, Nice et Bordeaux",
+      "resume": "Après les violences des 17 et 18 octobre contre la vie chère, des couvre-feux nocturnes ont été instaurés dans six grandes agglomérations dès le lundi 19 octobre.",
+      "details": "À Lille, la mesure court de 20h à 6h sur un périmètre précis de rues. Sébastien Lecornu a indiqué que de nouveaux couvre-feux pourraient être décidés mardi soir là où la situation l'exige.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/qui-est-concerne-pour-combien-de-temps-cinq-questions-sur-les-couvre-feux-partiels-mis-en-place-a-paris-bordeaux-lyon-lille-nice-et-marseille_8245186.html"
+     },
+     {
+      "titre": "Nuñez ordonne aux préfets d'interdire les manifestations à risque samedi",
+      "resume": "Dans une note du 19 octobre, le ministre de l'Intérieur demande d'interdire les rassemblements susceptibles de troubler l'ordre public le 24 octobre.",
+      "details": "Les préfets doivent d'abord privilégier le dialogue avec les organisateurs et n'interdire que si les conditions de sécurité ne peuvent être réunies. Un « acte II » est appelé notamment par une coordination de Gilets jaunes et des organisations étudiantes.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/laurent-nunez-demande-aux-prefets-d-interdire-les-manifestations-prevues-samedi-lorsque-le-dialogue-avec-les-organisateurs-n-aura-pas-permis-de-creer-les-conditions-de-securite-necessaires_8245669.html"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Crues dans le Gard et l'Hérault : A9 coupée, jusqu'à 50 routes fermées",
+      "resume": "Le Gard et l'Hérault restent en vigilance orange crues ce mardi 20 octobre après les pluies cévenoles commencées lundi.",
+      "details": "L'autoroute A9, coupée dans la nuit, a rouvert dans un sens ; des rues sont sous l'eau et plusieurs secteurs sont paralysés. La vigilance orange pluie-orages a été levée mardi, mais les cours d'eau comme le Gardon, la Cèze, le Vidourle et le Vistre restent surveillés.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/intemperies-autoroute-a9-coupee-30-routes-fermees-rues-sous-l-eau-plusieurs-secteurs-du-gard-et-de-l-herault-paralyses-par-des-inondations-et-des-crues-majeures-3436128.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Onésime, l'esclave qui enseigna la variolation à Boston",
+    "texte": "En 1716, le pasteur Cotton Mather écrit à la Royal Society de Londres qu'un homme qu'il possède, Onésime, lui a décrit une pratique de son pays d'origine en Afrique : inoculer du pus de variole pour protéger contre la maladie. Mather avait acquis Onésime en 1706 et l'avait interrogé sur d'éventuelles cicatrices de vaccination. Lors de l'épidémie de 1721 à Boston, le médecin Zabdiel Boylston inocula environ 280 personnes. Environ 2 % d'entre elles moururent, contre près de 14 % des quelque 5 900 malades touchés naturellement. La méthode, vivement contestée par une partie des médecins, fut l'un des premiers essais statistiques de l'histoire médicale américaine."
+   }
+  },
   {
    "id": "2026-10-20-12",
    "label": "Point de 12h",
@@ -1837,30 +1886,6 @@
      "src": "Opex360 (Zone Militaire)",
      "url": "https://www.opex360.com/2026/10/06/dissuasion-le-sous-marin-nucleaire-lanceur-dengins-le-vigilant-a-tire-un-missile-strategique-m51-3-avec-succes/"
     }
-   }
-  },
-  {
-   "id": "2026-10-10-18",
-   "label": "Point de 18h",
-   "date": "2026-10-10",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-10T16:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "titre": "Blocus des lycées : 3 000 professeurs remplaçants annoncés par le gouvernement",
-      "resume": "Face à la mobilisation lycéenne, le gouvernement a annoncé ce samedi 10 octobre quelque 3 000 professeurs remplaçants (TZR) pour couvrir les absences.",
-      "details": "Le mouvement, lancé fin septembre, dénonce notamment le manque d'enseignants et les classes surchargées. Franceinfo consacre ce samedi plusieurs sujets à la question de savoir où en est le blocus. L'exécutif tente ainsi de répondre à l'une des revendications centrales des lycéens.",
-      "src": "franceinfo",
-      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/le-fil-info/le-fil-info-du-samedi-10-octobre-2026_8203898.html",
-      "une": true
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le sismoscope chinois qui « sentait » les séismes lointains",
-    "texte": "En 132, l'astronome Zhang Heng présente à la cour des Han de l'Est un étrange vase de bronze pour détecter les tremblements de terre. D'après l'Histoire des Han postérieurs, l'appareil mesurait environ 2 mètres de diamètre et portait huit dragons, chacun tenant une bille dans la gueule au-dessus d'un crapaud. Lors d'un séisme, une bille tombait dans la gueule du crapaud situé dans la direction de la secousse. En 138, une bille serait tombée alors qu'aucune secousse n'était ressentie à Luoyang ; quelques jours plus tard, la nouvelle d'un séisme dans le Longxi, à plusieurs centaines de kilomètres, aurait confirmé l'indication. L'appareil original a disparu et son mécanisme interne, probablement un pendule inversé, reste débattu par les historiens."
    }
   }
  ]
