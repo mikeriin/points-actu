@@ -1,6 +1,55 @@
 {
- "updatedAt": "2026-10-21T03:45:00Z",
+ "updatedAt": "2026-10-21T09:33:30Z",
  "points": [
+  {
+   "id": "2026-10-21-12",
+   "label": "Point de 12h",
+   "date": "2026-10-21",
+   "hour": 12,
+   "tz": "+2",
+   "publishedAt": "2026-10-21T10:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Lecornu reçoit les syndicats à Matignon, sans les lycéens",
+      "resume": "Le Premier ministre a réuni ce mercredi matin les cinq confédérations représentatives, avant la journée de mobilisation de samedi.",
+      "details": "Laurent Nuñez assistait à la réunion, consacrée notamment à la liberté de manifester. La CFDT et la CGT ont déploré l'absence des organisations lycéennes et étudiantes, mobilisées depuis le 18 septembre. Lecornu a chargé le ministre du Travail, Jean-Pierre Farandou, de travailler avec les syndicats sur des mesures, dont le pouvoir d'achat, et une journée syndicale est prévue le 5 novembre.",
+      "src": "LCP",
+      "url": "https://lcp.fr/actualites/apres-le-17-octobre-et-avant-de-nouvelles-manifestations-sebastien-lecornu-recoit-les",
+      "une": true
+     }
+    ],
+    "defense": [
+     {
+      "titre": "Présentation de l'armée de Terre 2026 : la division au combat",
+      "resume": "Les 14 et 15 octobre, l'École militaire a accueilli la présentation annuelle de l'armée de Terre, centrée sur la division engagée en haute intensité.",
+      "details": "Le ministère publie ce 21 octobre un retour sur le volet soutien, où le Commissariat des armées montre son rôle au sein d'une division au combat. L'événement illustre l'effort de préparation à un conflit de grande ampleur.",
+      "src": "defense.gouv.fr",
+      "url": "https://www.defense.gouv.fr/commissariat/actualites/presentation-armee-terre-2026-soutien-commissariat-au-coeur-dune-division-au-combat"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "ID@Xbox Showcase : plus de vingt jeux indépendants dévoilés",
+      "resume": "Microsoft a présenté le 21 octobre sa vitrine d'automne consacrée aux jeux indépendants sur Xbox et PC.",
+      "details": "Parmi les annonces, Mouthwashing sortira le 29 octobre sur PS5, PS4, Switch, Xbox Series, Xbox One et Game Pass. La vitrine confirme l'ouverture croissante de Xbox aux plateformes concurrentes.",
+      "src": "Big-N",
+      "url": "https://big-n.fr/actualites/44808-idxbox-showcase-tous-les-jeux-independants-annonces-microsoft/"
+     },
+     {
+      "titre": "Game Pass : Final Fantasy VII Remake Intergrade en tête des huit ajouts",
+      "resume": "Huit jeux rejoignent le catalogue Xbox Game Pass entre le 21 octobre et le 3 novembre.",
+      "details": "Final Fantasy VII Remake Intergrade est la figure de proue de cette fournée de fin octobre.",
+      "src": "Pure Xbox",
+      "url": "https://www.purexbox.com/news/2026/10/these-eight-games-are-coming-to-xbox-game-pass-october-21-november-3"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Kumara, la patate douce qui relie Polynésie et Andes",
+    "texte": "Un légume cultivé en Nouvelle-Zélande porte un nom proche de celui des Andes : le kumara polynésien rappelle le « cumal » ou « kumar » quechua. La patate douce est d'origine sud-américaine, pourtant elle était déjà cultivée dans le Pacifique central bien avant l'arrivée des Européens. Une étude génétique publiée dans Nature en 2020 a relevé de l'ADN amérindien chez des populations des Marquises et d'autres îles polynésiennes, avec un contact estimé vers 1200 de notre ère. Cette coïncidence nourrit l'hypothèse d'un voyage de navigateurs polynésiens jusqu'aux côtes d'Amérique du Sud, même si d'autres travaux défendent une dispersion naturelle de la plante. Le débat reste ouvert, mais le kumara demeure aujourd'hui un aliment central de la cuisine maorie."
+   }
+  },
   {
    "id": "2026-10-21-06",
    "label": "Point de 6h",
@@ -1875,55 +1924,6 @@
    "culture": {
     "sujet": "Le pad thaï, plat national fabriqué par décret",
     "texte": "Le plat considéré aujourd'hui comme l'emblème de la cuisine thaïlandaise doit beaucoup à la politique. Dans les années 1930-1940, le Premier ministre Plaek Phibunsongkhram mène une campagne nationaliste, qui voit le pays changer son nom de Siam en Thaïlande en 1939. Son gouvernement encourage alors la consommation de nouilles de riz sautées, présentées comme un plat national, pour renforcer l'identité du pays et ménager les ressources en riz. Les nouilles elles-mêmes viennent de la cuisine chinoise, ce qui rend l'histoire d'autant plus paradoxale. Le pad thaï est ainsi un plat à la fois ancien dans ses techniques et récent comme symbole national."
-   }
-  },
-  {
-   "id": "2026-10-11-12",
-   "label": "Point de 12h",
-   "date": "2026-10-11",
-   "hour": 12,
-   "tz": "+2",
-   "publishedAt": "2026-10-11T10:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "SCAF : revue de conception validée pour l'effecteur déporté de MBDA",
-      "resume": "La France, l'Allemagne et l'Espagne ont validé la revue de conception initiale d'un effecteur déporté développé par MBDA pour le SCAF, selon Zone Militaire le 10 octobre.",
-      "details": "Ce « remote carrier » doit accompagner l'avion de combat du futur système aérien. MBDA le présentait comme un engin furtif d'environ 400 kg, conçu pour opérer en essaim avec une charge utile modulaire. Cette validation franchit une étape technique dans un programme dont la gouvernance reste observée de près.",
-      "src": "Opex360 / Zone Militaire",
-      "url": "https://www.opex360.com/2026/10/10/scaf-la-france-lallemagne-et-lespagne-ont-valide-la-revue-de-conception-initiale-dun-effecteur-deporte-developpe-par-mbda/",
-      "une": true
-     },
-     {
-      "titre": "Exail dévoile un système de surveillance maritime à base de drones Oryx",
-      "resume": "Exail présente un dispositif de commandement et de contrôle reposant sur trois drones navals de la gamme Oryx, résistants au brouillage électronique (Zone Militaire, 9 octobre).",
-      "details": "Le système vise la surveillance maritime avec des drones de surface capables de continuer leur mission en environnement de guerre électronique. Il s'inscrit dans l'intérêt croissant des marines pour les drones navals, la DGA ayant par ailleurs retenu trois drones de surface pour protéger bases et navires.",
-      "src": "Opex360 / Zone Militaire",
-      "url": "https://www.opex360.com/2026/10/09/le-francais-exail-devoile-un-nouveau-systeme-de-surveillance-maritime-base-sur-les-drones-navals-de-la-gamme-oryx/"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "A69 : plus de 800 policiers et gendarmes face aux opposants ce week-end",
-      "resume": "Un millier d'opposants à l'autoroute A69 manifestent les 10 et 11 octobre dans le Tarn, sous la surveillance de plus de 800 forces de l'ordre.",
-      "details": "Selon la préfecture, 500 policiers et gendarmes étaient mobilisés dès vendredi soir, puis plus de 800 samedi. Les opposants ont installé leur camp de base près de Sémalens. Aucun bilan d'incidents n'était disponible à la mi-journée.",
-      "src": "ICI Occitanie",
-      "url": "https://www.ici.fr/occitanie/tarn-81/castres/autoroute-a69-800-policiers-et-gendarmes-mobilises-pour-la-manifestation-de-ce-week-end-4865149"
-     }
-    ],
-    "jeuvideo": [
-     {
-      "titre": "Ubisoft ferme Rainbow Six Mobile sept mois après son lancement",
-      "resume": "Ubisoft a annoncé le 8 octobre l'arrêt de Rainbow Six Mobile, jouable jusqu'au 15 janvier 2027.",
-      "details": "Lancé dans le monde en février 2026, le jeu disparaît après une courte vie. Ubisoft invoque seulement un alignement des ressources sur ses priorités stratégiques, dans le cadre de sa restructuration marquée par plusieurs annulations de projets. Plus de détails sont promis dans les prochaines semaines.",
-      "src": "Inven Global",
-      "url": "https://www.invenglobal.com/articles/26980/rainbow-six-mobile-to-end-service-on-january-15-2027"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Cahokia, la métropole oubliée du Mississippi",
-    "texte": "Vers l'an 1100, une ville plus peuplée que bien des cités européennes s'élevait près de l'actuelle Saint-Louis, sans écriture ni cheval. Cahokia, bâtie par la culture mississippienne à partir d'environ 1050, comptait probablement 10 000 à 20 000 habitants à son apogée. Son monument central, Monks Mound, atteint 30 mètres de haut sur une base d'environ 290 sur 315 mètres, érigé uniquement à la main avec des paniers de terre. Un cercle de poteaux de bois, surnommé « Woodhenge », servait sans doute de calendrier solaire. La ville fut abandonnée vers 1350, sans doute après des crues, des tensions sociales et des changements climatiques."
    }
   }
  ]
