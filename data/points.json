@@ -1,6 +1,73 @@
 {
- "updatedAt": "2026-10-21T09:33:30Z",
+ "updatedAt": "2026-10-21T15:33:40Z",
  "points": [
+  {
+   "id": "2026-10-21-18",
+   "label": "Point de 18h",
+   "date": "2026-10-21",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-21T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Mirage 2000D écrasé près de Nancy : un aviateur encore recherché",
+      "resume": "Un Mirage 2000D de l'escadron 2/3 Champagne s'est écrasé mardi vers 22h40 à Rogéville (Meurthe-et-Moselle) ; un corps a été retrouvé, le second occupant restait introuvable mercredi.",
+      "details": "L'appareil, un biplace de la base de Nancy-Ochey, revenait d'un vol d'entraînement avec à bord un jeune pilote en instruction et un officier système d'armes très expérimenté. L'armée de l'Air indique qu'au moins un des deux n'a pas pu s'éjecter. Le parquet de Metz a ouvert une enquête confiée à la gendarmerie de l'air, tandis que le BEA-É mène l'enquête de sécurité ; les causes ne sont pas établies.",
+      "src": "Ministère des Armées",
+      "url": "https://www.defense.gouv.fr/air/actualites/accident-dun-mirage-2000d-larmee-lair-lespace",
+      "une": true
+     },
+     {
+      "titre": "Drones non autorisés signalés au-dessus de sites militaires près de Toulon",
+      "resume": "Pendant l'exercice interarmées Typhon (5-16 octobre), des drones non autorisés ont été détectés aux abords et au-dessus de sites militaires du Var, selon Opex360.",
+      "details": "La base navale de Toulon, une emprise de la DGA Techniques navales et la caserne du 54e RA à Hyères sont concernées. Le nombre et le type d'appareils n'ont pas pu être déterminés. Des survols comparables avaient été signalés fin 2025 au Danemark, en Belgique, aux Pays-Bas et en France.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/21/des-drones-non-autorises-ont-ete-detectes-aux-abords-et-au-dessus-de-sites-militaires-de-la-region-de-toulon/"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Panne géante du réseau mobile Orange, des perturbations signalées chez d'autres opérateurs",
+      "resume": "Depuis environ 11h20 mercredi, le réseau mobile d'Orange et de Sosh est perturbé au niveau national : appels, SMS et internet touchés, sans retour à la normale annoncé en fin d'après-midi.",
+      "details": "Orange confirme un incident dont l'origine reste à identifier et poursuit les opérations de rétablissement, sans horaire. Des perturbations sont aussi remontées chez SFR et Bouygues, qui n'avaient pas communiqué à ce stade. En cas d'échec d'un appel d'urgence, des préfectures recommandent le 112 depuis un autre réseau ou une ligne fixe.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/panne-orange-ce-que-l-on-sait-des-perturbations-qui-touchent-le-reseau-mobile-ce-mercredi-3436962.html"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Crash du Mirage près de Nancy : recherches et enquête en cours",
+      "resume": "Les secours et les gendarmes poursuivent les recherches du second aviateur après le crash du Mirage 2000D de Nancy-Ochey, entre Nancy et Pont-à-Mousson.",
+      "details": "Le commandant de la base assure que l'appareil ne présentait pas de problème de fiabilité ; les conditions météo n'étaient pas optimales au retour d'entraînement. Un précédent Mirage 2000D de Nancy-Ochey s'était écrasé dans le Jura en janvier 2019, tuant ses deux occupants.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/meurthe-et-moselle-d-importantes-recherches-lancees-pour-retrouver-un-mirage-2000-de-nancy-ochey-3436698.html"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Toulouse : un bébé, sa mère et sa grand-mère retrouvés morts, le père suspecté",
+      "resume": "Dans la nuit de mardi à mercredi, quatre membres d'une même famille ont été trouvés morts à Toulouse ; un triple homicide suivi d'un suicide du père est envisagé.",
+      "details": "Les corps d'un enfant de deux ans, de sa mère et de sa grand-mère ont été découverts dans l'appartement familial, selon La Dépêche. Le père, principal suspect, est mort. Une enquête du parquet est ouverte pour établir les circonstances.",
+      "src": "Orange Actualités (La Dépêche)",
+      "url": "https://actu.orange.fr/societe-fait-divers/suspicion-d-un-triple-homicide-familial-a-toulouse-un-bebe-parmi-les-victimes-6medias-CNT000002tjJaK.html"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Don't Nod lance un plan de sauvegarde, trésorerie à sec dès janvier 2027",
+      "resume": "Le studio français (Life is Strange, Jusant) engage une procédure de sauvegarde ; ses liquidités pourraient manquer à partir de janvier 2027.",
+      "details": "Ses comptes signalent une incertitude significative sur la continuité d'exploitation au-delà du 31 janvier 2027. Le projet P14 est à l'arrêt faute de financement, et seul le jeu narratif lié à Netflix, développé à Montréal, reste en préparation.",
+      "src": "ActuGaming",
+      "url": "https://www.actugaming.net/dont-nod-lance-officiellement-son-plan-de-sauvegarde-et-pourrait-se-retrouver-a-court-de-fonds-des-janvier-2027-830422/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Teff : la plus petite céréale d'Éthiopie",
+    "texte": "Le grain de teff mesure environ un millimètre : c'est l'une des plus petites céréales cultivées au monde. Cette graminée (Eragrostis tef) est domestiquée depuis des millénaires dans les hauts plateaux d'Éthiopie et d'Érythrée. Sa farine, naturellement sans gluten, sert à préparer l'injera, la galette spongieuse et légèrement acide qui sert d'assiette et de couvert dans la cuisine éthiopienne. La pâte fermente pendant plusieurs jours, ce qui lui donne ses alvéoles caractéristiques et son goût aigre. Le teff est si riche en fer et en calcium que des cultivateurs de pays voisins ou d'Europe s'y intéressent depuis les années 2000."
+   }
+  },
   {
    "id": "2026-10-21-12",
    "label": "Point de 12h",
@@ -1893,37 +1960,6 @@
      "src": "Zone Militaire (Opex360)",
      "url": "https://www.opex360.com/2026/10/11/larmee-de-terre-veut-lancer-des-etudes-pour-se-doter-de-microreacteurs-nucleaires/"
     }
-   }
-  },
-  {
-   "id": "2026-10-11-18",
-   "label": "Point de 18h",
-   "date": "2026-10-11",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-11T16:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "L'armée de Terre étudie l'option des microréacteurs nucléaires",
-      "resume": "Le Commandement du combat futur évoque des petits réacteurs modulaires dans un document de prospective publié ce 11 octobre.",
-      "details": "Le sujet figure dans la « Déclinaison capacitaire d'action aéroterrestre future », rédigée par le CCF. L'idée est de lancer des études pour alimenter en énergie des unités déployées, sans dépendre des carburants fossiles. Il s'agit à ce stade d'une réflexion de prospective et non d'un programme financé.",
-      "src": "Zone Militaire",
-      "url": "https://www.opex360.com/2026/10/11/larmee-de-terre-veut-lancer-des-etudes-pour-se-doter-de-microreacteurs-nucleaires/",
-      "une": true
-     },
-     {
-      "titre": "Guerre électronique : un nouveau système de navigation testé pour les chuteurs opérationnels",
-      "resume": "L'armée de Terre évalue NAVDAC, un dispositif pensé pour les parachutistes et mis en œuvre par le 1er RPIMa.",
-      "details": "Le système vise à garder visible la position des unités amies là où les signaux GNSS sont brouillés. Le groupement aéroporté de la section technique de l'armée de Terre l'a évalué. NAVDAC n'est pas encore opérationnel.",
-      "src": "Zone Militaire",
-      "url": "https://www.opex360.com/2026/10/11/guerre-electronique-larmee-de-terre-evalue-un-nouveau-systeme-de-navigation-pour-les-chuteurs-operationnels/"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le pad thaï, plat national fabriqué par décret",
-    "texte": "Le plat considéré aujourd'hui comme l'emblème de la cuisine thaïlandaise doit beaucoup à la politique. Dans les années 1930-1940, le Premier ministre Plaek Phibunsongkhram mène une campagne nationaliste, qui voit le pays changer son nom de Siam en Thaïlande en 1939. Son gouvernement encourage alors la consommation de nouilles de riz sautées, présentées comme un plat national, pour renforcer l'identité du pays et ménager les ressources en riz. Les nouilles elles-mêmes viennent de la cuisine chinoise, ce qui rend l'histoire d'autant plus paradoxale. Le pad thaï est ainsi un plat à la fois ancien dans ses techniques et récent comme symbole national."
    }
   }
  ]
