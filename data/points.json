@@ -1,6 +1,140 @@
 {
- "updatedAt": "2026-10-21T15:33:40Z",
+ "updatedAt": "2026-10-22T03:32:59Z",
  "points": [
+  {
+   "id": "2026-10-22-06",
+   "label": "Point de 6h",
+   "date": "2026-10-22",
+   "hour": 6,
+   "tz": "+2",
+   "publishedAt": "2026-10-22T04:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Mirage 2000D écrasé près de Nancy, un corps retrouvé",
+      "resume": "Un Mirage 2000D de l'escadron 2/3 Champagne s'est écrasé le 20 octobre vers 22h30 à Rogéville (Meurthe-et-Moselle) ; un corps a été retrouvé, le second occupant est recherché.",
+      "details": "L'appareil, non armé, rentrait d'une mission d'entraînement vers la base de Nancy-Ochey quand le contact radar a été perdu. L'équipage comptait un pilote et un navigateur officier systèmes d'armes. Au moins un des deux n'a pas pu s'éjecter selon l'armée de l'Air et de l'Espace. Des enquêtes de sécurité et judiciaire sont ouvertes, les causes restent inconnues.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/meurthe-et-moselle-d-importantes-recherches-lancees-pour-retrouver-un-mirage-2000-de-nancy-ochey-3436698.html"
+     },
+     {
+      "titre": "Quatre SAMP/T NG de plus : douze systèmes attendus",
+      "resume": "La DGA a commandé le 21 octobre quatre systèmes sol-air SAMP/T NG supplémentaires auprès d'Eurosam (MBDA et Thales).",
+      "details": "La commande, passée via l'OCCAr, porte à douze le nombre de sections de nouvelle génération pour l'armée de l'Air et de l'Espace. Dix doivent être livrées d'ici fin 2030, alors que la LPM prévoyait huit systèmes à cet horizon. Le système associe le radar GF300 et le missile Aster B1NT contre les menaces balistiques et hypersoniques.",
+      "src": "Zone Militaire",
+      "url": "https://www.opex360.com/2026/10/21/la-direction-generale-de-larmement-a-commande-quatre-systemes-de-defense-aerienne-samp-t-ng-supplementaires/"
+     },
+     {
+      "titre": "Rafale F5 : Paris et Abou Dhabi signent un accord",
+      "resume": "La France et les Émirats arabes unis ont signé un accord intergouvernemental sur le développement du Rafale F5, lors de la visite de Macron à Abou Dhabi.",
+      "details": "Le texte porte sur le standard F5 dans les programmes Rafale français et émirati, avec des volets techniques et financiers de coopération industrielle. Un accord distinct vise l'interopérabilité et la résilience industrielle. Le niveau de la contribution financière émiratie, au cœur des discussions sur les 5 milliards d'euros de développement, n'est pas confirmé.",
+      "src": "Zone Militaire",
+      "url": "https://www.opex360.com/2026/10/21/la-france-et-les-emirats-arabes-unis-ont-signe-un-accord-intergouvernemental-sur-le-developpement-du-rafale-f5/"
+     },
+     {
+      "titre": "Drones non autorisés au-dessus de sites militaires à Toulon",
+      "resume": "Des drones ont survolé la base navale de Toulon et d'autres sites militaires pendant l'exercice Typhon, une enquête est ouverte.",
+      "details": "Les survols, entre le 9 et le 13 octobre, ont aussi visé un site de la DGA à Toulon et le 54e régiment d'artillerie à Hyères. Malgré des brouillages électromagnétiques, aucun appareil n'a été récupéré. Le parquet de Toulon enquête ; la Marine affirme qu'aucune infrastructure sensible n'a été menacée.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/armee-securite-defense/info-radio-france-plusieurs-sites-militaires-sensibles-dont-la-base-navale-de-toulon-ont-ete-survoles-par-des-drones-non-autorises_8246773.html"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Lecornu reçoit les syndicats sans les lycéens, nouvelles annonces lundi",
+      "resume": "Le Premier ministre a reçu les cinq confédérations à Matignon le 21 octobre après les violences du 17 octobre.",
+      "details": "Il s'agissait de garantir le droit de manifester, en présence du ministre de l'Intérieur Laurent Nuñez. Les discussions se poursuivront ces prochaines semaines, notamment sur le pouvoir d'achat avec Jean-Pierre Farandou. Sébastien Lecornu promet de premières annonces pour les lycées en début de semaine prochaine. Nouvelles manifestations le 24 octobre, puis le 5 novembre.",
+      "src": "LCP",
+      "url": "https://lcp.fr/actualites/apres-le-17-octobre-et-avant-de-nouvelles-manifestations-sebastien-lecornu-recoit-les",
+      "une": true
+     },
+     {
+      "titre": "Paris interdit la manifestation lycéenne et étudiante de jeudi",
+      "resume": "La préfecture de police a interdit le rassemblement des lycéens et étudiants franciliens prévu jeudi 22 octobre à Paris.",
+      "details": "Les manifestations sont interdites dans plusieurs secteurs de la capitale de 8h à 20h. Une assemblée générale étudiante a pourtant voté un départ groupé. Les organisations lycéennes dénoncent de n'avoir pas été reçues à Matignon, tandis que le ministre de l'Éducation reconnaît une très grande difficulté à remplacer les professeurs absents.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/mobilisation-du-17-octobre/la-prefecture-de-police-interdit-la-manifestation-des-lyceens-et-etudiants-franciliens-prevue-jeudi-a-paris_8247574.html"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Toulouse : couvre-feu nocturne dans l'hypercentre pendant trois nuits",
+      "resume": "La préfecture instaure un couvre-feu dans le centre de Toulouse à partir de jeudi soir, après les violences du 17 octobre.",
+      "details": "La mesure vise toute la population, mineurs comme majeurs, autour de la place du Capitole et des rues commerçantes les plus touchées, de minuit à 5h environ jusqu'à dimanche. Des exemptions existent pour les riverains, commerces et secours. La préfecture veut éviter pillages et dégradations ; l'interdiction de la manifestation de samedi est aussi envisagée.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/carte-le-chaos-ne-gagnera-pas-toulouse-apres-les-violences-et-les-menaces-sur-le-capitole-un-couvre-feu-instaure-pour-trois-nuits-et-pour-tout-le-monde-3435852.html"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "EA ferme BioWare et annule le prochain Mass Effect",
+      "resume": "Electronic Arts a annoncé le 21 octobre la fermeture du studio BioWare et l'abandon du prochain Mass Effect, dans un plan d'environ 400 suppressions de postes.",
+      "details": "Révélée par Bloomberg puis confirmée, la décision met fin à trente ans d'histoire du studio de Baldur's Gate, Mass Effect et Dragon Age. Le projet Mass Effect n'en était qu'à ses débuts et mobilisait une cinquantaine de personnes. EA parle de concentrer ses ressources sur moins de projets ; la licence n'est pas officiellement enterrée.",
+      "src": "ActuGaming",
+      "url": "https://www.actugaming.net/electronic-arts-ferme-bioware-mass-effect-annule-830469/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Hipparque et le glissement des étoiles",
+    "texte": "Vers 129 av. J.-C., l'astronome grec Hipparque découvre que le ciel « bouge » très lentement. En comparant la position de l'étoile Spica avec les mesures de Timocharis, vieilles d'un siècle et demi, il constate un décalage d'environ 2 degrés. Il en déduit la précession des équinoxes : l'axe de la Terre oscille, comme celui d'une toupie. Son estimation, au moins 1 degré par siècle, était un peu faible, la valeur réelle étant d'environ 1 degré tous les 72 ans. Cette découverte, faite sans télescope, repose sur un catalogue d'étoiles qu'il avait lui-même dressé."
+   },
+   "lecture": {
+    "en": {
+     "titre": "Unknown Drones Spotted Over French Military Sites",
+     "texte": "Several sensitive military sites around Toulon, in southern France, were flown over by unauthorised drones earlier this month, the French Navy has said. The incidents happened while the armed forces were taking part in a large joint exercise called Typhon.\n\nAccording to local reports, the flights took place between 9 and 13 October. The drones appeared near the naval base, a site run by the defence procurement agency and an artillery regiment in Hyères. Soldiers used electronic jamming against the devices, but none of them could be recovered, so nobody knows who was flying them.\n\nThe local prosecutor has opened an investigation. The Navy insists that no sensitive infrastructure was put at risk. However, the case adds to growing concerns in Europe about drones that appear near military bases and nuclear facilities. For many officials, it shows how difficult it is to protect important sites against small, cheap aircraft.",
+     "vocab": [
+      {
+       "cible": "unauthorised",
+       "fr": "non autorisé",
+       "ex": "...were flown over by unauthorised drones earlier this month."
+      },
+      {
+       "cible": "sensitive",
+       "fr": "sensible, stratégique",
+       "ex": "Several sensitive military sites around Toulon..."
+      },
+      {
+       "cible": "jamming",
+       "fr": "brouillage",
+       "ex": "Soldiers used electronic jamming against the devices."
+      },
+      {
+       "cible": "recovered",
+       "fr": "récupéré",
+       "ex": "...none of them could be recovered."
+      },
+      {
+       "cible": "to open an investigation",
+       "fr": "ouvrir une enquête",
+       "ex": "The local prosecutor has opened an investigation."
+      },
+      {
+       "cible": "to put at risk",
+       "fr": "mettre en danger",
+       "ex": "...no sensitive infrastructure was put at risk."
+      },
+      {
+       "cible": "growing concerns",
+       "fr": "inquiétudes croissantes",
+       "ex": "...growing concerns in Europe about drones."
+      }
+     ],
+     "questions": [
+      {
+       "q": "When did the drone flights take place?",
+       "r": "Between 9 and 13 October, during the Typhon exercise."
+      },
+      {
+       "q": "Why is the case worrying for officials?",
+       "r": "Small, cheap drones are hard to defend important sites against."
+      }
+     ],
+     "src": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/armee-securite-defense/info-radio-france-plusieurs-sites-militaires-sensibles-dont-la-base-navale-de-toulon-ont-ete-survoles-par-des-drones-non-autorises_8246773.html"
+    }
+   }
+  },
   {
    "id": "2026-10-21-18",
    "label": "Point de 18h",
@@ -1881,85 +2015,6 @@
    "culture": {
     "sujet": "La patate douce, voyageuse du Pacifique avant Colomb",
     "texte": "Bien avant les caravelles, une plante sud-américaine a traversé le Pacifique : la patate douce, cultivée en Polynésie dès le Moyen Âge. Elle y porte le nom de « kumara », proche du quechua « kumar » des Andes. En 2020, une étude génétique publiée dans Nature a trouvé des traces d'ascendance amérindienne chez des habitants de plusieurs îles polynésiennes, dont les Marquises, avec un métissage daté d'environ 1150-1230. Ces marins auraient donc rencontré des peuples d'Amérique du Sud, plus de 250 ans avant Colomb. Le tubercule, devenu base de l'alimentation en Nouvelle-Zélande, y est resté la culture phare des Maoris."
-   }
-  },
-  {
-   "id": "2026-10-12-06",
-   "label": "Point de 6h",
-   "date": "2026-10-12",
-   "hour": 6,
-   "tz": "+2",
-   "publishedAt": "2026-10-12T04:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "L'armée de Terre veut étudier des microréacteurs nucléaires",
-      "resume": "Selon Zone Militaire du 11 octobre 2026, l'armée de Terre prévoit de lancer des études pour se doter de petits réacteurs nucléaires modulaires.",
-      "details": "Ce type de réacteur de faible puissance viserait à alimenter des installations ou des emprises isolées sans dépendre de convois de carburant. L'armée de Terre structure cette priorité en trois axes d'effort. L'US Army a de son côté attribué en août 2026 des contrats pouvant atteindre 2,2 milliards de dollars pour équiper cinq de ses bases. Côté français, on en reste à la phase d'étude.",
-      "src": "Zone Militaire (Opex360)",
-      "url": "https://www.opex360.com/2026/10/11/larmee-de-terre-veut-lancer-des-etudes-pour-se-doter-de-microreacteurs-nucleaires/",
-      "une": true
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le papyrus qui nomme le cerveau pour la première fois",
-    "texte": "Le plus ancien texte connu à employer le mot « cerveau » est un manuel de chirurgie égyptien vieux de près de 3 600 ans. Le papyrus Edwin Smith, copié vers 1600 av. J.-C. d'après un original plus ancien, décrit 48 cas de blessures, classés avec une méthode étonnamment moderne : examen, diagnostic, puis pronostic (« une maladie que l'on traitera », « que l'on ne peut pas traiter »). Il décrit les sutures du crâne, les méninges et le liquide cérébral, et relie une lésion à un côté du cerveau à des troubles de l'autre côté du corps. L'antiquaire américain Edwin Smith l'a acheté à Louxor en 1862 ; il n'a été traduit qu'en 1930, par l'égyptologue James Henry Breasted. Il contient très peu de magie, à la différence de la plupart des textes médicaux de l'époque."
-   },
-   "lecture": {
-    "en": {
-     "titre": "The French Army Looks at Nuclear Microreactors",
-     "texte": "The French Army is preparing to launch studies on small nuclear reactors to power its operations. Microreactors are compact units that can produce electricity for years without refuelling, so they could reduce the need to transport fuel to remote bases.\nThe idea is not new elsewhere. In August 2026, the US Army selected five companies to build microreactors on five of its bases, in contracts worth up to 2.2 billion dollars. Supporters argue that such systems make forces less dependent on diesel convoys, which are easy targets in a war.\nHowever, the French plan is still at a very early stage. For now, the Army only wants to study the question, and no reactor has been ordered.",
-     "vocab": [
-      {
-       "cible": "to power",
-       "fr": "alimenter en énergie",
-       "ex": "The French Army is preparing to launch studies on small nuclear reactors to power its operations."
-      },
-      {
-       "cible": "refuelling",
-       "fr": "ravitaillement en carburant",
-       "ex": "Microreactors are compact units that can produce electricity for years without refuelling."
-      },
-      {
-       "cible": "remote",
-       "fr": "isolé, éloigné",
-       "ex": "They could reduce the need to transport fuel to remote bases."
-      },
-      {
-       "cible": "to select",
-       "fr": "choisir, retenir",
-       "ex": "In August 2026, the US Army selected five companies to build microreactors."
-      },
-      {
-       "cible": "worth up to",
-       "fr": "d'une valeur pouvant atteindre",
-       "ex": "...in contracts worth up to 2.2 billion dollars."
-      },
-      {
-       "cible": "dependent on",
-       "fr": "dépendant de",
-       "ex": "Such systems make forces less dependent on diesel convoys."
-      },
-      {
-       "cible": "at a very early stage",
-       "fr": "à un stade très précoce",
-       "ex": "The French plan is still at a very early stage."
-      }
-     ],
-     "questions": [
-      {
-       "q": "What is the French Army planning to do for now?",
-       "r": "Launch studies on small nuclear reactors."
-      },
-      {
-       "q": "Why could microreactors be useful for armed forces?",
-       "r": "They make forces less dependent on fuel convoys."
-      }
-     ],
-     "src": "Zone Militaire (Opex360)",
-     "url": "https://www.opex360.com/2026/10/11/larmee-de-terre-veut-lancer-des-etudes-pour-se-doter-de-microreacteurs-nucleaires/"
-    }
    }
   }
  ]
