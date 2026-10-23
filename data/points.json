@@ -1,6 +1,71 @@
 {
- "updatedAt": "2026-10-23T09:35:00Z",
+ "updatedAt": "2026-10-23T15:33:20Z",
  "points": [
+  {
+   "id": "2026-10-23-18",
+   "label": "Point de 18h",
+   "date": "2026-10-23",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-23T16:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Mirage 2000D : le jet a disparu des radars sans éjection",
+      "resume": "Le lieutenant-colonel Antranig Sarkissian (44 ans) et le lieutenant Quentin Klysz (27 ans), morts dans le crash du Mirage 2000D de Nancy-Ochey, ont été identifiés.",
+      "details": "L'appareil effectuait un vol d'entraînement de nuit lorsqu'il a disparu des écrans radar, dans la nuit du 20 octobre près de Rogéville. Selon le parquet, ni le pilote ni le navigateur n'ont eu le temps de s'éjecter. Le lieutenant Klysz, arrivé à Nancy-Ochey en août 2025, préparait sa qualification de pilote de chasse opérationnel. Le parquet de Metz et une enquête de sécurité aérienne cherchent les causes.",
+      "src": "CNews",
+      "url": "https://www.cnews.fr/france/2026-10-23/crash-dun-mirage-2000d-qui-etaient-les-deux-militaires-morts-en-meurthe-et"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Lycéens : Macron les reçoit à l'Élysée avant la manifestation de samedi",
+      "resume": "Le chef de l'État reçoit ce vendredi à 15h des lycéens et des représentants d'organisations lycéennes, au lendemain de l'allocution de Sébastien Lecornu.",
+      "details": "Les Lycéens ! disent n'attendre « pas grand-chose » de ce rendez-vous et réclament notamment l'abrogation de Parcoursup. Plusieurs préfectures ont interdit les cortèges de samedi, alors que celui de Paris est autorisé entre Bastille et Nation. Le Premier ministre doit recevoir les organisations lundi.",
+      "src": "franceinfo",
+      "url": "https://franceinfo.fr/societe/education/blocage-des-lycees/organisations-lyceennes-recues-vendredi-a-l-elysee-on-n-attend-pas-grand-chose-de-la-part-d-emmanuel-macron-selon-les-lyceens_8249710.html",
+      "une": true
+     },
+     {
+      "titre": "Austen : près de 290 000 foyers privés d'électricité dans le Nord-Ouest",
+      "resume": "La tempête Austen a coupé le courant à 288 600 clients, dont 148 500 en Bretagne, selon Enedis à 12h45.",
+      "details": "Le bilan a presque doublé depuis le matin (161 000 à 7h). La Normandie compte 88 800 foyers touchés, les Pays de la Loire 49 600. Des rafales de 161 km/h ont été relevées à la Pointe du Raz. Plus de 2 000 agents attendent la fin du vent pour intervenir.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tempetes/direct-tempete-austen-161-000-foyers-prives-d-electricite-dans-le-nord-ouest-de-la-france_8250151.html"
+     },
+     {
+      "titre": "Budget de la Sécu 2027 : l'Assemblée rejette les recettes par 115 voix contre 1",
+      "resume": "Les députés ont repoussé en première lecture la partie recettes du projet de loi de financement de la Sécurité sociale.",
+      "details": "Ce rejet écarte le texte sans examen de la partie dépenses, qui est transmis au Sénat. Le budget de l'État reste, lui, en discussion : reprise des débats le 27 octobre, vote solennel sur les recettes le 3 novembre. Le gouvernement vise un déficit de 5 % du PIB en 2027.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/economie/budget/les-deputes-rejettent-a-la-quasi-unanimite-le-volet-recettes-du-projet-de-loi-de-financement-de-la-securite-sociale-le-texte-transmis-au-senat_8250760.html"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Mulhouse : manifestations interdites samedi, couvre-feu pour les mineurs dès ce soir",
+      "resume": "Le préfet du Haut-Rhin interdit les rassemblements dans le centre-ville de Mulhouse le 24 octobre.",
+      "details": "Un couvre-feu pour les mineurs entre en vigueur ce vendredi 23 octobre à 21h. Ces mesures répondent aux débordements qui ont suivi les cortèges lycéens du 17 octobre.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/mulhouse/les-manifestations-interdites-dans-le-centre-ville-de-mulhouse-ce-24-octobre-3437985.html"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Montpellier et Béziers : manifestation interdite, couvre-feu mineurs, trams à l'arrêt",
+      "resume": "La préfète de l'Hérault impose des mesures d'exception pour le week-end du 24 octobre.",
+      "details": "Les rassemblements sont interdits samedi de 8h à 22h dans un périmètre de Montpellier. Un couvre-feu vise les mineurs non accompagnés dans les centres-villes de Montpellier et Béziers, vendredi dès 22h et samedi dès 20h, jusqu'à 6h. La préfecture invoque les pillages commis après la manifestation du 17 octobre.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/24-octobre-manifestation-interdite-couvre-feu-pour-les-mineurs-et-tramways-a-l-arret-la-prefete-de-l-herault-impose-des-mesures-d-exception-a-montpellier-et-beziers-3437922.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Hōkūleʻa, 4 000 km sans boussole ni carte",
+    "texte": "En 1976, une pirogue double hawaïenne a relié Hawaï à Tahiti sans aucun instrument de navigation. La Hōkūleʻa, réplique d'une pirogue polynésienne mise à l'eau en 1975, a quitté Maui le 1er mai 1976 et touché Tahiti environ 34 jours plus tard. Son navigateur, Mau Piailug (né en 1932 sur l'atoll de Satawal, en Micronésie), se repérait aux levers et couchers d'étoiles, à la houle et au vol des oiseaux. Il a ainsi parcouru environ 4 000 km de Pacifique, prouvant que les Polynésiens avaient pu coloniser les îles par la navigation volontaire plutôt que par la dérive."
+   }
+  },
   {
    "id": "2026-10-23-12",
    "label": "Point de 12h",
@@ -2034,46 +2099,6 @@
      "src": "Mer et Marine",
      "url": "https://www.meretmarine.com/fr/marine-marchande/la-reunion-la-marine-nationale-deroute-un-petrolier-soupconne-d-appartenir-a-la-flotte-fantome"
     }
-   }
-  },
-  {
-   "id": "2026-10-13-18",
-   "label": "Point de 18h",
-   "date": "2026-10-13",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-13T16:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "titre": "Lycéens : 480 000 manifestants selon eux, 161 500 selon l'Intérieur",
-      "resume": "La cinquième journée d'action des lycéens et étudiants a donné lieu à deux bilans très éloignés ce mardi 13 octobre.",
-      "details": "L'intersyndicale de la jeunesse revendique 480 000 participants, dont 41 500 à Paris selon le ministère de l'Intérieur. Le ministère de l'Éducation compte 147 personnels blessés depuis le début du mouvement. Le 13 octobre est la deuxième journée la plus lourde pour eux après le 1er octobre. Les jeunes réclament la fin de Parcoursup et 250 000 places supplémentaires à l'université.",
-      "src": "franceinfo",
-      "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-lyceenne-les-lyceens-de-nouveau-dans-la-rue-pour-un-acte-5-du-mouvement_8234260.html",
-      "une": true
-     },
-     {
-      "titre": "Budget 2027 : le RN ne votera pas la motion de rejet du PS",
-      "resume": "Les débats sur le projet de loi de finances 2027 s'ouvrent à l'Assemblée avec un gouvernement sans majorité.",
-      "details": "Le groupe RN a annoncé qu'il voterait contre la motion de rejet déposée par les socialistes, ce qui écarte son adoption. En commission des Finances, les députés avaient déjà supprimé les premières mesures d'économie, dont l'article liminaire. Le texte initial, déposé le 1er octobre, vise 43 milliards d'économies et un déficit de 5,0 % du PIB.",
-      "src": "LCP",
-      "url": "https://lcp.fr/actualites/budget-2027-les-deputes-du-rassemblement-national-voteront-contre-la-motion-de-rejet-des"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "Nîmes : un homme criblé de balles, enquête pour meurtre en bande organisée",
-      "resume": "Un homme de 47 ans a été tué par balles dimanche 11 octobre route de Courbessac, à Nîmes.",
-      "details": "Le parquet a ouvert une enquête pour meurtre en bande organisée. Les enquêteurs privilégient la piste d'un règlement de comptes. Aucune interpellation n'a eu lieu à ce stade.",
-      "src": "France 3 Occitanie",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/gard/nimes/un-homme-crible-de-balles-retrouve-mort-a-nimes-une-enquete-ouverte-pour-meurtre-en-bande-organisee-3432114.html"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Caral, la cité qui avait 5 000 ans avant les Incas",
-    "texte": "Au Pérou, la cité de Caral, dans la vallée de Supe, est l'une des plus anciennes villes connues des Amériques. Des datations au radiocarbone publiées dans la revue Science en 2001 ont fait remonter ses premiers édifices vers 2627 av. J.-C., soit à l'époque des pyramides d'Égypte. Elle compte six grandes pyramides à degrés, dont la plus haute dépasse 18 mètres. Les fouilles menées dès 1994 par l'archéologue Ruth Shady n'y ont révélé aucune trace de céramique ni de fortification. Le site a été inscrit au patrimoine mondial de l'UNESCO en 2009."
    }
   }
  ]
