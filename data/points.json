@@ -1,6 +1,133 @@
 {
- "updatedAt": "2026-10-23T15:33:20Z",
+ "updatedAt": "2026-10-24T03:33:23Z",
  "points": [
+  {
+   "id": "2026-10-24-06",
+   "label": "Point de 6h",
+   "date": "2026-10-24",
+   "hour": 6,
+   "tz": "+2",
+   "publishedAt": "2026-10-24T04:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Rafale et Typhoon britanniques simulent ensemble une frappe nucléaire",
+      "resume": "Les 20 et 21 octobre, des Rafale français et des Typhoon de la RAF ont mené l'exercice inédit « Rummy », révélé le 23 octobre.",
+      "details": "Les Rafale des Forces aériennes stratégiques ont décollé de Saint-Dizier pour une frappe simulée au-dessus de la Méditerranée, escortés par des Typhoon britanniques. C'est la première fois que la RAF participe à un exercice de la composante nucléaire aéroportée française. Le ministère des Armées y voit une nouvelle étape de la coopération franco-britannique, dans le prolongement de la déclaration de Northwood. Distinct de l'exercice Poker, mené quatre fois par an, Rummy est un événement unique.",
+      "src": "Zone Militaire",
+      "url": "https://www.opex360.com/2026/10/23/les-forces-aeriennes-francaises-et-britanniques-ont-simule-une-frappe-nucleaire-lors-de-lexercice-inedit-rummy/",
+      "une": true
+     },
+     {
+      "titre": "Crash du Mirage 2000D : les deux aviateurs morts identifiés",
+      "resume": "Le ministère des Armées a nommé le 23 octobre le lieutenant-colonel Antranig Sarkissian et le lieutenant Quentin Klysz, tués dans l'accident du Mirage 2000D.",
+      "details": "L'appareil s'est écrasé vers 22h40 le 20 octobre, près de Rogéville (Meurthe-et-Moselle), lors d'un vol d'entraînement de nuit. Selon le parquet, l'équipage n'a pas eu le temps de s'éjecter. Le navigateur, 44 ans, comptait 2 200 heures de vol et 55 missions de guerre ; le pilote, 27 ans, 450 heures. Les causes restent à établir.",
+      "src": "CNews",
+      "url": "https://www.cnews.fr/france/2026-10-23/crash-dun-mirage-2000d-qui-etaient-les-deux-militaires-morts-en-meurthe-et"
+     },
+     {
+      "titre": "Sentinelle déployée samedi lors de la mobilisation sociale du 24 octobre",
+      "resume": "Le ministre de l'Intérieur a annoncé que des soldats de Sentinelle seront engagés ce samedi, en soutien des forces de l'ordre.",
+      "details": "Ils assureront des gardes statiques de sites sensibles, afin de libérer policiers et gendarmes pour le maintien de l'ordre, qui ne relève pas de leurs missions. Cet emploi de l'armée lors d'une mobilisation sociale a peu de précédents sous la Ve République, souligne France 24. La proposition avait d'abord été écartée par la porte-parole du gouvernement.",
+      "src": "France 24",
+      "url": "https://www.france24.com/fr/france/20261021-armee-deployee-samedi-24-octobre-precedents-rarissimes-france"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Mobilisation du 24 octobre : 70 000 policiers et manifestations interdites",
+      "resume": "Laurent Nuñez a demandé aux préfets d'interdire les manifestations à risque et mobilise 70 000 policiers et gendarmes pour samedi.",
+      "details": "Dans une note du 20 octobre, le ministre a demandé d'interdire les rassemblements susceptibles de troubler l'ordre public quand le dialogue avec les organisateurs n'a pas permis de garantir la sécurité. Rennes, Lyon, Montpellier, Perpignan, Toulon ou Nice sont concernées, alors qu'une marche est autorisée à Marseille après discussion avec les syndicats. Le gouvernement promet d'être « intraitable » avec casseurs et pilleurs, après les violences du 17 octobre.",
+      "src": "Europe 1",
+      "url": "https://www.europe1.fr/politique/en-direct-manifestation-du-24-octobre-on-sera-intraitable-avec-les-casseurs-et-les-pilleurs-previent-laurent-nunez-1175286"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Manifestations interdites à Mulhouse et Nancy, autorisée à Strasbourg",
+      "resume": "Les préfectures ont banni les rassemblements samedi dans les centres de Mulhouse, Nancy et Besançon ; Strasbourg a obtenu le feu vert.",
+      "details": "À Mulhouse, la précédente manifestation, d'environ un millier de personnes, avait dégénéré ; le parquet a saisi l'IGPN après qu'un adolescent a perdu un œil. À Strasbourg, le cortège déclaré par les syndicats est autorisé.",
+      "src": "Le Courrier",
+      "url": "https://lecourrier.ch/2026/10/23/manifestations-interdites-samedi-a-mulhouse-nancy-et-besancon/"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Montpellier : bras de fer judiciaire sur l'interdiction de manifester samedi",
+      "resume": "Le tribunal administratif examinait le 23 octobre les recours, dont celui de FO, contre l'interdiction et le couvre-feu des mineurs.",
+      "details": "Le syndicat FO estime que la mesure porte atteinte aux libertés fondamentales. À Perpignan, la même juridiction a jugé l'interdiction de manifester et le couvre-feu « ni inadaptés ni disproportionnés ». Un couvre-feu de minuit à 5h est aussi instauré dans l'hypercentre de Toulouse du 22 au 25 octobre.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/24-octobre-on-ne-comprend-pas-a-quoi-joue-la-prefecture-bras-de-fer-judiciaire-apres-l-interdiction-de-la-manifestation-declaree-a-montpellier-3438447.html"
+     },
+     {
+      "titre": "Perpignan : la justice valide interdiction de manifester et couvre-feu des mineurs",
+      "resume": "Le tribunal administratif a confirmé les mesures du préfet prises après les violences urbaines du 17 octobre.",
+      "details": "Le juge les estime proportionnées. Un second recours contre l'interdiction des rassemblements dans le centre-ville du 22 au 25 octobre a aussi été traité dans la décision.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/pyrenees-orientales/perpignan/une-mesure-ni-inadaptee-ni-disproportionnee-le-tribunal-confirme-l-interdiction-de-manifester-et-le-couvre-feu-pour-les-mineurs-decides-par-le-prefet-a-perpignan-3438495.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le Fram, navire fait pour être pris par les glaces",
+    "texte": "En septembre 1893, l'explorateur norvégien Fridtjof Nansen laisse volontairement son navire se faire emprisonner par la banquise. Son idée venait des débris du Jeannette, navire américain broyé par les glaces en 1881 près de la Sibérie, retrouvés en 1884 au large du Groenland : un courant devait donc traverser l'océan Arctique. Le Fram, à la coque ronde conçue pour être soulevée par la glace plutôt qu'écrasée, dérive ainsi près de trois ans. En mars 1895, Nansen et Hjalmar Johansen le quittent à skis et atteignent le 8 avril 86°13′ N, record de latitude de l'époque. Le Fram, libéré, regagne la Norvège en août 1896, avec tout son équipage vivant."
+   },
+   "lecture": {
+    "en": {
+     "titre": "British jets join France in a nuclear strike drill",
+     "texte": "For the first time, British fighter jets have taken part in a French exercise simulating a nuclear strike. Code-named \"Rummy\", the drill took place on 20 and 21 October. French Rafale aircraft from the Strategic Air Forces took off from Saint-Dizier air base and flew a simulated attack over the Mediterranean, while Royal Air Force Typhoons escorted them.\nThe French defence ministry said the exercise marks a new step in nuclear cooperation between the two countries. It follows the Northwood Declaration, in which Paris and London agreed to coordinate more closely on deterrence. Both governments stress that nuclear weapons would only be considered in extreme circumstances of self-defence.\nFrance already runs a similar exercise, called \"Poker\", four times a year, but this one is different: it is a one-off event involving a close ally. Analysts see it as a message of unity to Russia at a time of growing tension in Europe.",
+     "vocab": [
+      {
+       "cible": "take part in",
+       "fr": "participer à",
+       "ex": "British fighter jets have taken part in a French exercise simulating a nuclear strike."
+      },
+      {
+       "cible": "escort",
+       "fr": "escorter",
+       "ex": "Royal Air Force Typhoons escorted them."
+      },
+      {
+       "cible": "step",
+       "fr": "étape",
+       "ex": "The exercise marks a new step in nuclear cooperation between the two countries."
+      },
+      {
+       "cible": "deterrence",
+       "fr": "dissuasion",
+       "ex": "Paris and London agreed to coordinate more closely on deterrence."
+      },
+      {
+       "cible": "stress",
+       "fr": "souligner",
+       "ex": "Both governments stress that nuclear weapons would only be considered in extreme circumstances of self-defence."
+      },
+      {
+       "cible": "one-off",
+       "fr": "unique, exceptionnel",
+       "ex": "It is a one-off event involving a close ally."
+      },
+      {
+       "cible": "growing tension",
+       "fr": "tension croissante",
+       "ex": "Analysts see it as a message of unity to Russia at a time of growing tension in Europe."
+      }
+     ],
+     "questions": [
+      {
+       "q": "Where did the French Rafale aircraft take off from?",
+       "r": "From Saint-Dizier air base."
+      },
+      {
+       "q": "Why is the exercise called Rummy different from Poker?",
+       "r": "It is a one-off event involving a close ally, while Poker is run four times a year."
+      }
+     ],
+     "src": "Zone Militaire",
+     "url": "https://www.opex360.com/2026/10/23/les-forces-aeriennes-francaises-et-britanniques-ont-simule-une-frappe-nucleaire-lors-de-lexercice-inedit-rummy/"
+    }
+   }
+  },
   {
    "id": "2026-10-23-18",
    "label": "Point de 18h",
@@ -2004,101 +2131,6 @@
    "culture": {
     "sujet": "Q'eswachaka, le pont inca retissé chaque année avec de l'herbe",
     "texte": "Au Pérou, un pont long d'une trentaine de mètres, suspendu au-dessus du río Apurímac, est entièrement refait à la main chaque année avec de l'herbe. Les quatre communautés quechua de Huinchiri, Chaupibanda, Choccayhua et Ccollana Quehue le reconstruisent en trois jours, en juin, selon une tradition qui remonte à l'époque inca. Les femmes tressent de fines cordes à partir d'une herbe dure appelée q'oya, puis les hommes les assemblent en câbles aussi épais qu'un corps humain. L'ancien pont est coupé et laissé tomber dans le fleuve, car l'herbe se dégrade en un an. Ce savoir-faire est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2013."
-   }
-  },
-  {
-   "id": "2026-10-14-06",
-   "label": "Point de 6h",
-   "date": "2026-10-14",
-   "hour": 6,
-   "tz": "+2",
-   "publishedAt": "2026-10-14T04:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Flotte fantôme : la Marine déroute un pétrolier à La Réunion",
-      "resume": "La Marine nationale a arraisonné le 12 octobre le pétrolier DF Peak, soupçonné de faux pavillon, à plus de 450 nautiques au sud de La Réunion.",
-      "details": "Long de 244 mètres, le navire bat pavillon béninois depuis juin 2025 et s'appelait Kaliningrad sous pavillon russe. L'opération repose sur l'article 110 de la convention de Montego Bay. À la demande de la procureure, il est escorté vers un mouillage au large de La Réunion pour la suite de l'enquête judiciaire.",
-      "src": "Mer et Marine",
-      "url": "https://www.meretmarine.com/fr/marine-marchande/la-reunion-la-marine-nationale-deroute-un-petrolier-soupconne-d-appartenir-a-la-flotte-fantome",
-      "une": true
-     }
-    ],
-    "france": [
-     {
-      "titre": "Budget 2027 : la motion de rejet du PS écartée à l'Assemblée",
-      "resume": "Les députés ont rejeté mardi soir la motion de rejet socialiste par 236 voix contre 149, ce qui ouvre l'examen du projet de loi de finances.",
-      "details": "Le RN avait annoncé voter contre, Horizons et LIOT n'ont pas soutenu la motion non plus. L'examen de la partie recettes se poursuit dans l'hémicycle jusqu'à lundi. Le gouvernement, sans majorité, vise un déficit de 5,0 % du PIB en 2027.",
-      "src": "LCP",
-      "url": "https://lcp.fr/actualites/la-motion-de-rejet-des-socialistes-n-ayant-pas-ete-adoptee-l-examen-du-budget-2027-aura"
-     },
-     {
-      "titre": "Lycéens : 480 000 manifestants selon les syndicats, 161 500 selon l'État",
-      "resume": "La journée de mobilisation du 13 octobre a donné lieu à des chiffres très éloignés entre l'intersyndicale de la jeunesse et les autorités.",
-      "details": "À Rennes, la préfecture compte 7 300 manifestants contre 10 000 selon les syndicats, avec neuf interpellations signalées à 19 h. L'Union étudiante affirme que 90 % des universités sont bloquées ou fermées, un chiffre non vérifié.",
-      "src": "La Dépêche",
-      "url": "https://unidivers.fr/blocages-lyceens-manif-ecole-crise/"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Cahokia, la ville oubliée du Mississippi",
-    "texte": "Vers 1100, la plus grande ville d'Amérique du Nord au nord du Mexique se dressait près de l'actuelle Saint-Louis, et presque personne n'en connaît le nom. Cahokia comptait alors entre 10 000 et 20 000 habitants, davantage que Londres à la même époque. Son centre est dominé par Monks Mound, une butte de terre de près de 30 mètres de haut, bâtie en plusieurs phases entre environ 900 et 1100, sans bête de trait, avec des paniers de terre portés à dos d'homme. Des cercles de grands poteaux de bois, surnommés Woodhenge, servaient de calendrier solaire pour repérer les solstices et les équinoxes. La cité fut abandonnée vers 1350 ; son nom vient d'un peuple illinois présent au XVIIe siècle, sans lien avec ses bâtisseurs."
-   },
-   "lecture": {
-    "en": {
-     "titre": "France stops a suspected Russian ghost-fleet tanker in the Indian Ocean",
-     "texte": "On 12 October, the French Navy boarded an oil tanker more than 450 nautical miles south of La Réunion. The ship, called DF Peak, is suspected of sailing under a false flag.\nAccording to the French armed forces, the operation aimed to check the nationality of the vessel. The 244-metre tanker flies the flag of Benin, but it was previously registered in Russia under the name Kaliningrad. It was coming back from Venezuela.\nAt the request of the public prosecutor, the tanker was diverted and is now being escorted to an anchorage off La Réunion, where the legal investigation will continue. France has intercepted several ships linked to Russia's so-called ghost fleet since 2025, a network of old tankers that try to avoid sanctions by hiding who really owns them.",
-     "vocab": [
-      {
-       "cible": "to board",
-       "fr": "arraisonner, monter à bord de",
-       "ex": "the French Navy boarded an oil tanker"
-      },
-      {
-       "cible": "suspected of",
-       "fr": "soupçonné de",
-       "ex": "The ship, called DF Peak, is suspected of sailing under a false flag."
-      },
-      {
-       "cible": "false flag",
-       "fr": "faux pavillon",
-       "ex": "suspected of sailing under a false flag"
-      },
-      {
-       "cible": "to divert",
-       "fr": "dérouter",
-       "ex": "the tanker was diverted and is now being escorted"
-      },
-      {
-       "cible": "to escort",
-       "fr": "escorter",
-       "ex": "is now being escorted to an anchorage"
-      },
-      {
-       "cible": "public prosecutor",
-       "fr": "procureur de la République",
-       "ex": "At the request of the public prosecutor"
-      },
-      {
-       "cible": "to avoid sanctions",
-       "fr": "contourner les sanctions",
-       "ex": "try to avoid sanctions by hiding who really owns them"
-      }
-     ],
-     "questions": [
-      {
-       "q": "Where was the tanker stopped?",
-       "r": "More than 450 nautical miles south of La Réunion, in the Indian Ocean."
-      },
-      {
-       "q": "Why was the DF Peak diverted?",
-       "r": "The public prosecutor requested it so the legal investigation could continue."
-      }
-     ],
-     "src": "Mer et Marine",
-     "url": "https://www.meretmarine.com/fr/marine-marchande/la-reunion-la-marine-nationale-deroute-un-petrolier-soupconne-d-appartenir-a-la-flotte-fantome"
-    }
    }
   }
  ]
