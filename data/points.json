@@ -1,6 +1,71 @@
 {
- "updatedAt": "2026-10-24T03:33:23Z",
+ "updatedAt": "2026-10-24T09:33:20Z",
  "points": [
+  {
+   "id": "2026-10-24-12",
+   "label": "Point de 12h",
+   "date": "2026-10-24",
+   "hour": 12,
+   "tz": "+2",
+   "publishedAt": "2026-10-24T10:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Sentinelle déployée pour la journée de manifestations",
+      "resume": "Environ 500 militaires de l'opération Sentinelle sont mobilisés ce samedi 24 octobre en appui des forces de sécurité intérieure.",
+      "details": "Leur rôle est de reprendre des gardes statiques de sites sensibles afin de libérer policiers et gendarmes pour le maintien de l'ordre mobile. Le dispositif inclut aussi des blindés Centaure et des hélicoptères, aux côtés du GIGN, du RAID et de la BRI. France 24 souligne que le recours à l'armée dans ce contexte est rarissime en France.",
+      "src": "Le Courrier de l'Atlas",
+      "url": "https://www.lecourrierdelatlas.com/mobilisation-24-octobre-dispositif-renforce/"
+     }
+    ],
+    "france": [
+     {
+      "titre": "70 000 policiers et gendarmes pour la journée de mobilisation",
+      "resume": "Premiers rassemblements calmes samedi matin, alors que 70 000 forces de l'ordre sont déployées après les violences du 17 octobre.",
+      "details": "Laurent Nuñez avait annoncé 70 000 agents, contre 60 000 le 17 octobre. Plusieurs préfectures ont interdit tout ou partie des cortèges (Lyon, Montpellier, Rouen, Toulon). À Pau, la préfecture comptait plus de 2 300 manifestants et environ 600 personnes se rassemblaient à Cherbourg.",
+      "src": "ICI",
+      "url": "https://www.ici.fr/infos/societe/direct-mobilisation-du-24-octobre-des-manifestations-partout-en-france-70-000-policiers-et-gendarmes-deployes-8725021?at_locale=17",
+      "une": true
+     },
+     {
+      "titre": "Paris : bras de fer sur le parcours, l'intersyndicale saisit la justice",
+      "resume": "L'intersyndicale dépose un référé samedi matin contre le changement de parcours imposé par la préfecture de police à Paris.",
+      "details": "La préfecture avait annulé le tracé Bastille-Nation négocié avec les syndicats et proposé un itinéraire entre la Porte d'Italie et la Porte de Vincennes, refusé par l'intersyndicale. La Fage et la CGT Paris confirment le recours devant le tribunal administratif.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/societe/manifestations/mobilisation-du-24-octobre-un-refere-depose-samedi-matin-par-l-intersyndicale-contre-le-changement-de-parcours-de-la-manifestation-a-paris_8251420.html"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Strasbourg et Nancy sous interdiction de manifester ce samedi",
+      "resume": "Les préfets du Bas-Rhin et de Meurthe-et-Moselle interdisent les manifestations, avec une seule exception à Strasbourg.",
+      "details": "À Strasbourg, seul le parcours déposé par la CGT et la FSU, de la place de Lattre-de-Tassigny à la République, est autorisé. À Nancy, toute manifestation est interdite et la vente de carburants et d'artifices est proscrite jusqu'à dimanche 22h. La préfecture invoque les violences du 17 octobre.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/alsace/manifestations-du-24-octobre-a-quoi-s-attendre-ce-samedi-a-strasbourg-3438195.html"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Montpellier : manifestation interdite et couvre-feu pour les mineurs",
+      "resume": "La préfecture de l'Hérault interdit la manifestation et instaure un couvre-feu pour les mineurs à Montpellier et Béziers.",
+      "details": "Les rassemblements sont interdits de 8h à 22h dans un large périmètre du centre. Le 17 octobre, 55 commerces avaient été dégradés dont 15 pillés, pour 4 millions d'euros de dégâts selon la CCI. FO-ESR a saisi le tribunal administratif en référé.",
+      "src": "ICI",
+      "url": "https://www.ici.fr/occitanie/herault-34/mobilisation-du-24-octobre-la-prefecture-de-l-herault-interdit-la-manifestation-et-instaure-un-couvre-feu-9867945"
+     },
+     {
+      "titre": "Toulouse : un parcours évitant le centre-ville pour la manifestation",
+      "resume": "Syndicats et préfecture se sont accordés sur un itinéraire contournant l'hypercentre toulousain.",
+      "details": "L'objectif est d'éviter de nouveaux pillages après le 17 octobre. De nombreux commerçants du centre ont tout de même posé des panneaux de bois sur leurs vitrines.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/carte-manifestation-du-24-octobre-a-toulouse-syndicats-et-prefecture-s-accordent-sur-un-nouvel-itineraire-pour-eviter-le-centre-ville-3438099.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Rotokas, la langue aux douze lettres",
+    "texte": "Sur l'île de Bougainville, en Papouasie-Nouvelle-Guinée, une langue s'écrit avec seulement douze lettres. Le rotokas, parlé par environ 4 000 personnes, utilise un alphabet latin parmi les plus courts au monde : a, e, g, i, k, o, p, r, s, t, u, v. Il ne compte que six consonnes et cinq voyelles à l'oral, et aucune consonne nasale. L'alphabet a été fixé par des missionnaires au XXe siècle. Pour comparaison, l'alphabet français compte 26 lettres, et le hawaïen, autre langue d'Océanie, en compte treize."
+   }
+  },
   {
    "id": "2026-10-24-06",
    "label": "Point de 6h",
@@ -2107,30 +2172,6 @@
    "culture": {
     "sujet": "Le cancer contagieux du diable de Tasmanie",
     "texte": "Chez le diable de Tasmanie, un cancer se transmet par morsure d'un animal à l'autre, comme une maladie infectieuse. Repérée en 1996 dans le nord-est de l'île, cette tumeur faciale (DFTD) a fait chuter certaines populations de plus de 80 %. Chaque tumeur descend d'une seule cellule cancéreuse d'un individu ancestral : les cellules elles-mêmes sont l'agent contagieux. En 2014, des chercheurs ont découvert une seconde lignée indépendante (DFT2) dans le sud de la Tasmanie, preuve que le phénomène a surgi deux fois chez la même espèce. Seuls quelques cancers transmissibles sont connus dans le monde, également chez le chien et certains mollusques."
-   }
-  },
-  {
-   "id": "2026-10-14-12",
-   "label": "Point de 12h",
-   "date": "2026-10-14",
-   "hour": 12,
-   "tz": "+2",
-   "publishedAt": "2026-10-14T10:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "une": true,
-      "titre": "Collège d'Aubagne : le parquet antiterroriste reprend l'enquête sur les tirs",
-      "resume": "Le PNAT s'est saisi mardi 13 octobre de la fusillade du collège Joseph-Lakanal, après le dessaisissement du parquet de Marseille.",
-      "details": "Un élève de 14 ans est soupçonné d'avoir tiré lundi avec un fusil de chasse sur le principal et une enseignante, blessés sans pronostic vital. L'enquête vise des tentatives d'assassinat en relation avec une entreprise terroriste. Selon le PNAT, l'exploitation des supports numériques du mineur révèle une probable adhésion à la mouvance « True Crime Community », centrée sur les tueurs de masse. L'adolescent et ses parents avaient été placés en garde à vue.",
-      "src": "Boursorama (AFP)",
-      "url": "https://www.boursorama.com/actualite-economique/actualites/france-le-parquet-antiterroriste-se-saisit-de-l-enquete-sur-les-tirs-au-college-d-aubagne-f6bdb9e1e88d080e359b1e359ddc47a9"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Q'eswachaka, le pont inca retissé chaque année avec de l'herbe",
-    "texte": "Au Pérou, un pont long d'une trentaine de mètres, suspendu au-dessus du río Apurímac, est entièrement refait à la main chaque année avec de l'herbe. Les quatre communautés quechua de Huinchiri, Chaupibanda, Choccayhua et Ccollana Quehue le reconstruisent en trois jours, en juin, selon une tradition qui remonte à l'époque inca. Les femmes tressent de fines cordes à partir d'une herbe dure appelée q'oya, puis les hommes les assemblent en câbles aussi épais qu'un corps humain. L'ancien pont est coupé et laissé tomber dans le fleuve, car l'herbe se dégrade en un an. Ce savoir-faire est inscrit au patrimoine culturel immatériel de l'UNESCO depuis 2013."
    }
   }
  ]
