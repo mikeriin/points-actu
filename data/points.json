@@ -1,6 +1,69 @@
 {
- "updatedAt": "2026-10-24T09:33:20Z",
+ "updatedAt": "2026-10-24T15:40:00Z",
  "points": [
+  {
+   "id": "2026-10-24-18",
+   "label": "Point de 18h",
+   "date": "2026-10-24",
+   "hour": 18,
+   "tz": "+2",
+   "publishedAt": "2026-10-24T16:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Mobilisation du 24 octobre : affluence en recul sur le 17",
+      "resume": "Le ministère de l'Intérieur comptait 35 000 manifestants à 13 h, contre 60 000 à la même heure le 17 octobre.",
+      "details": "Quelque 70 000 policiers et gendarmes sont mobilisés. À Marseille, la préfecture recense 17 000 personnes ; à Pau, 2 500 manifestants et des échauffourées ; à Bordeaux, des projectiles ont visé les CRS, qui ont répondu par des gaz lacrymogènes. À Clermont-Ferrand, près de 2 000 personnes ont défilé et une interpellation a été signalée à la mi-journée. Aucun bilan national consolidé n'était publié en fin d'après-midi.",
+      "src": "ICI",
+      "url": "https://www.ici.fr/infos/societe/direct-mobilisation-du-24-octobre-des-manifestations-partout-en-france-70-000-policiers-et-gendarmes-deployes-8725021",
+      "une": true
+     },
+     {
+      "titre": "Reims, Troyes, Charleville : cortèges et premiers gaz lacrymogènes",
+      "resume": "En Champagne-Ardenne, la mobilisation contre la vie chère a rassemblé du monde malgré les interdictions locales.",
+      "details": "À Reims, des gaz lacrymogènes ont été tirés face à un cortège d'au moins 1 000 personnes. À Troyes, les manifestants ont franchi en milieu d'après-midi le périmètre délimité du centre-ville.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/champagne-ardenne/mobilisation-du-24-octobre-contre-la-vie-chere-le-point-a-reims-troyes-et-charleville-mezieres-3438606.html"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Nancy : canon à eau et jets de pierres malgré l'interdiction",
+      "resume": "Des tensions ont éclaté dans l'après-midi à Nancy lors de la mobilisation, interdite par la préfecture.",
+      "details": "Gaz lacrymogènes et canon à eau ont été employés rue Stanislas puis rue Sainte-Anne, face à des jets de pierres ; le cortège s'est replié rue Saint-Jean. La préfecture avait annoncé plus de 220 policiers et gendarmes ainsi qu'un canon à eau, après les violences urbaines du 17 octobre.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/mobilisation-du-24-octobre-plusieurs-milliers-de-personnes-attendues-a-metz-et-nancy-malgre-l-interdiction-de-manifester-3437436.html"
+     },
+     {
+      "titre": "Metz : plus de mille personnes place de la République, interdiction confirmée",
+      "resume": "Le tribunal administratif de Strasbourg a validé l'interdiction de manifester à Metz, où un rassemblement a pourtant eu lieu.",
+      "details": "Plus d'un millier de personnes étaient réunies place de la République à 13 h 46. La justice a aussi confirmé l'interdiction des équipements de protection comme les masques à gaz.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/mobilisation-du-24-octobre-plusieurs-milliers-de-personnes-attendues-a-metz-et-nancy-malgre-l-interdiction-de-manifester-3437436.html"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Toulouse : 26 500 manifestants selon la préfecture, 80 000 selon la CGT",
+      "resume": "Le défilé autorisé à Toulouse s'est déroulé dans le calme, avec un écart de comptage considérable entre préfecture et syndicat.",
+      "details": "Un dispositif renforcé avait été annoncé, avec le RAID, des blindés Centaure et des drones. À Perpignan, le cortège du matin réunissait 1 500 à 2 000 personnes dans une ambiance plutôt calme, un peu moins qu'une semaine plus tôt.",
+      "src": "ICI Occitanie",
+      "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/manifestation-du-24-octobre-raid-blindes-centaure-drones-voici-le-dispositif-de-securite-renforce-a-toulouse-8455289"
+     },
+     {
+      "titre": "Montpellier : plus de 4 000 manifestants malgré l'interdiction",
+      "resume": "Le tribunal administratif a maintenu l'interdiction du cortège en centre-ville, mais des milliers d'étudiants et de manifestants s'y sont rassemblés.",
+      "details": "La préfète évoque près de 4 000 personnes, d'autres estimations parlent d'environ 2 000. La préfecture de l'Hérault avait instauré un couvre-feu, et des tensions étaient signalées place de la Comédie dans l'après-midi.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/direct-manifestations-du-24-octobre-a-montpellier-le-tribunal-administratif-interdit-la-mobilisation-en-centre-ville-3438612.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Ibn al-Haytham, l'optique écrite en résidence surveillée",
+    "texte": "Au Caire, vers 1011, le savant Ibn al-Haytham aurait dû renoncer à régulariser le Nil, et se serait fait passer pour fou afin d'échapper à la colère du calife al-Hakim. Assigné à résidence jusqu'en 1021, il y rédige son Kitab al-Manazir, le « Livre d'optique », en sept volumes. Il démontre que la vision naît de la lumière entrant dans l'œil, et non de rayons émis par lui, comme le pensaient Euclide et Ptolémée. Il décrit aussi la chambre noire, ancêtre de l'appareil photo. Traduit en latin vers 1200 sous le titre De aspectibus, l'ouvrage a nourri la théorie de la perspective des peintres de la Renaissance et les travaux de Kepler."
+   }
+  },
   {
    "id": "2026-10-24-12",
    "label": "Point de 12h",
@@ -2116,62 +2179,6 @@
      "src": "Zone Militaire (Opex360)",
      "url": "https://www.opex360.com/2026/10/14/la-france-et-le-tchad-signent-une-lettre-dintention-pour-retablir-leur-cooperation-en-matiere-de-defense/"
     }
-   }
-  },
-  {
-   "id": "2026-10-14-18",
-   "label": "Point de 18h",
-   "date": "2026-10-14",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-14T16:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Munitions téléopérées : la DGA commande un nouveau lot de MX-10 DAMOCLES",
-      "resume": "La DGA a activé le 13 octobre une tranche optionnelle du contrat de 2024 avec KNDS et Delair pour un nouveau lot de MX-10 DAMOCLES.",
-      "details": "Zone Militaire évoque « quelques centaines » d'exemplaires, sans chiffre officiel. Cette munition téléopérée à courte portée (10 km) est destinée à l'armée de Terre et à la Marine. Les premières livraisons ont eu lieu le 2 décembre 2025.",
-      "src": "Opex360",
-      "url": "https://www.opex360.com/2026/10/13/le-ministere-des-armees-a-commande-un-nouveau-lot-de-munitions-teleoperees-damocles-aupres-de-knds/",
-      "une": true
-     },
-     {
-      "titre": "Drone Volt dévoile Hercules 100, un drone cargo de 100 kg",
-      "resume": "Le français Drone Volt a présenté son drone logistique Hercules 100 au salon UAV Show de Bordeaux.",
-      "details": "Octocoptère de 197 kg au décollage, il emporte 100 kg pendant 30 minutes à 36 km/h, avec radar anticollision, LiDAR et treuil automatisé. La Marine nationale en a déjà acquis quatre exemplaires après un essai concluant.",
-      "src": "Opex360",
-      "url": "https://www.opex360.com/2026/10/13/le-francais-drone-volt-presente-le-nouveau-drone-logistique-hercules-100-capable-de-transporter-une-charge-de-100-kg/"
-     }
-    ],
-    "france": [
-     {
-      "titre": "Mobilisation lycéenne : après le 13 octobre, l'espoir d'une convergence des luttes",
-      "resume": "Cinquième grande journée de manifestations lycéennes mardi, rejointe par étudiants, fonctionnaires et salariés.",
-      "details": "À Marseille, 15 000 à 20 000 personnes ont défilé. Les lycéens espèrent désormais élargir le mouvement à d'autres secteurs.",
-      "src": "Café pédagogique",
-      "url": "https://www.cafepedagogique.net/2026/10/14/apres-la-manifestation-du-13-octobre-les-lyceens-esperent-la-convergence-des-luttes/"
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Routiers : opérations escargot jeudi à Strasbourg et Metz contre deux taxes poids lourds",
-      "resume": "La FNTR appelle à manifester jeudi 15 octobre autour de Strasbourg et de Metz.",
-      "details": "Les transporteurs protestent contre deux taxes sur les poids lourds. Des perturbations de circulation sont à prévoir sur les axes autour des deux villes.",
-      "src": "France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/pourquoi-les-chauffeurs-routiers-organisent-des-operations-escargots-autour-de-strasbourg-ce-jeudi-15-octobre-3433440.html"
-     },
-     {
-      "titre": "Mulhouse : les manifestations à répétition inquiètent les commerçants",
-      "resume": "Des commerçants mulhousiens disent voir leur fréquentation baisser avec la répétition des cortèges.",
-      "details": "Le 13 octobre était la cinquième journée de mobilisation de lycéens, étudiants et enseignants. Un retour des gilets jaunes est annoncé pour le 17 octobre.",
-      "src": "France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/haut-rhin/mulhouse/face-a-des-manifestations-qui-se-repetent-des-commercants-inquiets-pour-leur-activite-les-clients-ont-moins-envie-d-aller-faire-leur-shopping-3433020.html"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le cancer contagieux du diable de Tasmanie",
-    "texte": "Chez le diable de Tasmanie, un cancer se transmet par morsure d'un animal à l'autre, comme une maladie infectieuse. Repérée en 1996 dans le nord-est de l'île, cette tumeur faciale (DFTD) a fait chuter certaines populations de plus de 80 %. Chaque tumeur descend d'une seule cellule cancéreuse d'un individu ancestral : les cellules elles-mêmes sont l'agent contagieux. En 2014, des chercheurs ont découvert une seconde lignée indépendante (DFT2) dans le sud de la Tasmanie, preuve que le phénomène a surgi deux fois chez la même espèce. Seuls quelques cancers transmissibles sont connus dans le monde, également chez le chien et certains mollusques."
    }
   }
  ]
