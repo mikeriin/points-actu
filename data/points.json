@@ -1,6 +1,117 @@
 {
- "updatedAt": "2026-10-25T15:33:35Z",
+ "updatedAt": "2026-10-26T03:32:47Z",
  "points": [
+  {
+   "id": "2026-10-26-06",
+   "label": "Point de 6h",
+   "date": "2026-10-26",
+   "hour": 6,
+   "tz": "+1",
+   "publishedAt": "2026-10-26T05:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "L'armée de Terre pourrait créer dix unités de plus après 2030",
+      "resume": "Opex360 rapporte le 25 octobre que l'armée de Terre envisage au moins dix régiments ou bataillons supplémentaires après 2030.",
+      "details": "L'objectif affiché est de disposer d'un corps d'armée pleinement opérationnel d'ici 2030. Le chef d'état-major, le général Jacques de Montgros, a indiqué que de nouvelles unités verraient le jour dès 2027, alors même que les effectifs n'augmenteront pas d'ici là. Ces créations s'ajoutent à des batteries de munitions téléopérées longue portée prévues par la LPM.",
+      "src": "Zone Militaire (Opex360)",
+      "url": "https://www.opex360.com/2026/10/25/larmee-de-terre-pourrait-creer-au-moins-dix-regiments-ou-bataillons-supplementaires-apres-2030/",
+      "une": true
+     }
+    ],
+    "france": [
+     {
+      "titre": "Marche blanche après l'attentat raciste de Trappes, Macron parle de « tournant »",
+      "resume": "Des centaines de personnes ont marché dimanche 25 octobre à Aubervilliers en hommage à Pengo Bossio Wangi, tué dans l'attaque de Trappes.",
+      "details": "Emmanuel Macron a évoqué « un tournant dans notre République ». La garde à vue du tireur a été levée pour motif psychiatrique, un point qui alimente le débat.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/jt-de-20h-du-dimanche-25-octobre-2026_8226016.html"
+     },
+     {
+      "titre": "Jordan Bardella réélu à la tête du RN au congrès d'Orléans",
+      "resume": "Seul candidat, Jordan Bardella a été reconduit président du Rassemblement national le 25 octobre à Orléans.",
+      "details": "Marine Le Pen y a promis un gouvernement d'union nationale. Le discours de Bardella a été interrompu par des militants de l'Union des étudiants juifs de France.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/jt-de-20h-du-dimanche-25-octobre-2026_8226016.html"
+     },
+     {
+      "titre": "Tempête Austen : un mort et plusieurs blessés dans le nord-ouest",
+      "resume": "La tempête Austen a frappé le nord-ouest de la France, faisant un mort et plusieurs blessés selon le JT de 13h du 25 octobre.",
+      "details": "Elle a été suivie dans la nuit par la tempête Boelo, qui a touché l'Est du pays.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/jt-de-13h-du-dimanche-25-octobre-2026_8226025.html"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Tempête Boelo : 16 000 foyers sans électricité en Lorraine",
+      "resume": "Après Austen, la tempête Boelo a privé jusqu'à 16 000 foyers lorrains de courant dans la nuit du 24 au 25 octobre.",
+      "details": "Dimanche soir, environ 1 000 foyers restaient touchés selon Enedis, surtout dans les Vosges (Épinal, Xertigny), environ 300 en Meurthe-et-Moselle et 80 en Meuse. Une centaine de techniciens étaient mobilisés, avec un rétablissement prévu dans la soirée.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/vosges/intemperies-encore-plus-de-1-000-foyers-prives-d-electricite-ce-dimanche-soir-en-lorraine-3439104.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Le plus ancien code de lois remplace la mutilation par l'amende",
+    "texte": "Quelque 300 ans avant Hammurabi, un roi sumérien avait déjà fait graver des lois qui préfèrent l'argent au talion. Le code d'Ur-Nammu, fondateur de la IIIe dynastie d'Ur, date d'environ 2100-2050 av. J.-C. et reste le plus ancien code légal connu. Ses tablettes, découvertes à Nippur, ont été déchiffrées par l'assyriologue Samuel Noah Kramer en 1952. Là où le code de Hammurabi (vers 1754 av. J.-C.) applique « œil pour œil », celui d'Ur-Nammu fixe des compensations en argent : briser l'os d'autrui coûte une mine d'argent, soit 60 sicles. Le texte s'ouvre sur un prologue où le roi affirme protéger orphelins et veuves contre les puissants."
+   },
+   "lecture": {
+    "en": {
+     "titre": "French Army Plans Ten New Units After 2030",
+     "texte": "The French Army could create at least ten additional regiments or battalions after 2030, according to the defence news site Opex360. The goal is to have a fully operational army corps by 2030, able to fight a high-intensity war.\nThe army chief of staff, General Jacques de Montgros, said that new units would be set up in 2027, even though the total number of soldiers will not grow by then. Instead, the army plans to reorganise its existing forces and invest in new equipment, such as loitering munitions with a long range.\nThis plan reflects a wider trend in Europe. Since the war in Ukraine, many countries have increased their defence budgets and tried to rebuild their stocks. However, creating new units is expensive, and recruiting enough people remains a major challenge for the armed forces.",
+     "vocab": [
+      {
+       "cible": "additional",
+       "fr": "supplémentaire",
+       "ex": "The French Army could create at least ten additional regiments or battalions after 2030."
+      },
+      {
+       "cible": "fully operational",
+       "fr": "pleinement opérationnel",
+       "ex": "The goal is to have a fully operational army corps by 2030."
+      },
+      {
+       "cible": "set up",
+       "fr": "mettre en place, créer",
+       "ex": "New units would be set up in 2027."
+      },
+      {
+       "cible": "reorganise",
+       "fr": "réorganiser",
+       "ex": "The army plans to reorganise its existing forces."
+      },
+      {
+       "cible": "invest in",
+       "fr": "investir dans",
+       "ex": "The army plans to invest in new equipment."
+      },
+      {
+       "cible": "stocks",
+       "fr": "stocks",
+       "ex": "Many countries have tried to rebuild their stocks."
+      },
+      {
+       "cible": "recruit",
+       "fr": "recruter",
+       "ex": "Recruiting enough people remains a major challenge."
+      }
+     ],
+     "questions": [
+      {
+       "q": "By when does the army want a fully operational army corps?",
+       "r": "By 2030."
+      },
+      {
+       "q": "Will the number of soldiers grow before the new units are created in 2027?",
+       "r": "No, the total number of soldiers will not grow by then."
+      }
+     ],
+     "src": "Zone Militaire (Opex360)",
+     "url": "https://www.opex360.com/2026/10/25/larmee-de-terre-pourrait-creer-au-moins-dix-regiments-ou-bataillons-supplementaires-apres-2030/"
+    }
+   }
+  },
   {
    "id": "2026-10-25-18",
    "label": "Point de 18h",
@@ -2076,119 +2187,6 @@
    "culture": {
     "sujet": "Axoum, le royaume qui frappait monnaie",
     "texte": "Au IIIe siècle, le prophète perse Mani cite Axoum, en Éthiopie actuelle, parmi les quatre grands royaumes du monde avec la Perse, Rome et la Chine. Le roi Endubis y fait frapper vers 270 les premières monnaies d'Afrique subsaharienne, en or, argent et bronze, calquées sur les standards romains. Les pièces portent d'abord le disque et le croissant, symboles solaires et lunaires. Après la conversion du roi Ezana au christianisme, vers le milieu du IVe siècle, ces symboles sont remplacés par la croix, ce qui fait de ces pièces parmi les premières à l'afficher. Elles circulaient jusqu'en Inde et en mer Rouge."
-   }
-  },
-  {
-   "id": "2026-10-16-06",
-   "label": "Point de 6h",
-   "date": "2026-10-16",
-   "hour": 6,
-   "tz": "+2",
-   "publishedAt": "2026-10-16T04:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "L'armée de l'Air prépare ses drones de bombardement aux munitions DÉLUGE",
-      "resume": "L'escadron de drones de bombardement de l'armée de l'Air et de l'Espace sera doté de munitions téléopérées DÉLUGE, selon Opex360 le 15 octobre.",
-      "details": "Développé par MBDA, DÉLUGE est une munition à sens unique à turboréacteur, annoncée jusqu'à 500 km de portée pour environ 50 kg de charge. La DGA a passé un premier contrat le 22 janvier 2026, avec des livraisons attendues à partir de 2027. L'enjeu : saturer les défenses sol-air adverses, dans le débat sur l'actualisation de la LPM.",
-      "src": "Opex360",
-      "url": "https://www.opex360.com/2026/10/15/larmee-de-lair-de-lespace-va-doter-son-escadron-de-drones-de-bombardement-de-munitions-teleoperees-deluge/",
-      "une": true
-     },
-     {
-      "titre": "Opérations : sauvetage aux îles Salomon depuis la Nouvelle-Calédonie",
-      "resume": "Le point hebdomadaire du ministère des Armées du 8 au 15 octobre fait état d'une mission de sauvetage aux îles Salomon.",
-      "details": "L'opération a mobilisé un avion CASA des forces armées en Nouvelle-Calédonie. Le point de situation recense aussi les opérations menées simultanément sur trois fronts durant la semaine.",
-      "src": "Ministère des Armées",
-      "url": "https://www.defense.gouv.fr/operations/points-situation-operations/point-situation-operations-jeudi-8-octobre-au-jeudi-15-octobre-2026"
-     }
-    ],
-    "france": [
-     {
-      "titre": "Grève des navigants : Air France, Transavia et Corsair menacés dès samedi",
-      "resume": "Une intersyndicale de pilotes et de personnels de cabine maintient un préavis de grève du samedi 17 octobre 0h01 au mercredi 21 octobre 23h59.",
-      "details": "Le SNPL, l'UNSA-PNC, le SNPNC-FO, le SNGAF et l'UNAC contestent la réforme du cumul emploi-retraite, prévue le 1er janvier 2027, et veulent en exclure les navigants et la caisse CRPN. Le conflit ne porte pas sur les salaires. Les compagnies doivent informer les passagers au moins 24 h avant le début du mouvement ; d'autres compagnies de droit français peuvent être touchées.",
-      "src": "Air Journal",
-      "url": "https://www.air-journal.fr/2026-09-19-reforme-du-cumul-emploi-retraite-les-pilotes-et-personnels-de-cabine-appeles-a-la-greve-du-17-au-21-octobre-5277588.html"
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Attaques contre des surveillants : 19 personnes jugées à Nancy en février",
-      "resume": "Dix-neuf personnes ont été renvoyées jeudi 15 octobre devant le tribunal correctionnel de Nancy.",
-      "details": "Elles sont poursuivies pour une série d'actions violentes visant des agents pénitentiaires et leurs domiciles au printemps 2025. Le procès est fixé à février.",
-      "src": "France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/attaques-contre-les-surveillants-de-prison-19-personnes-seront-jugees-en-fevrier-a-nancy-3434292.html"
-     }
-    ],
-    "jeuvideo": [
-     {
-      "titre": "Gears of War: E-Day : des débuts jugés timides sur Steam",
-      "resume": "Le jeu, sorti le 6 octobre, aurait atteint 31 517 joueurs simultanés sur Steam et environ 230 000 ventes, selon des estimations.",
-      "details": "Alinea Analytics compte 168 000 ventes sur Steam et 62 000 sur Xbox depuis l'accès anticipé du 1er octobre ; Microsoft ne publie plus de chiffres. Le Game Pass a attiré 1,7 million de joueurs, ce qui pèse sur les ventes. Le pic Steam reste trois fois supérieur à celui de Gears 5 ; la presse est favorable (Metacritic 87).",
-      "src": "Xboxygen",
-      "url": "https://www.xboxygen.com/News/370666-le-game-pass-a-t-il-tue-les-ventes-de-gears-of-war-e-day-12-upgrades-pour-1-copie-vendue-sur-xbox"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Pythéas, le Marseillais parti chercher Thulé",
-    "texte": "Vers 330 av. J.-C., un Grec de Marseille nommé Pythéas s'est aventuré seul, bien au-delà des colonnes d'Hercule, jusqu'aux confins du monde connu. Navigateur et astronome de Massalia, il a longé l'Atlantique puis la Grande-Bretagne et rapporté l'existence de « Thulé », terre située à six jours de mer plus au nord, où les nuits d'été sont très courtes. Il serait l'un des premiers à relier les marées aux phases de la Lune. À Marseille, il avait aussi déterminé la latitude avec un gnomon, à quelques minutes d'arc de la valeur réelle. Son récit « Sur l'Océan » est perdu : on ne le connaît que par des citations de Strabon (qui ne le croyait guère) et de Pline."
-   },
-   "lecture": {
-    "en": {
-     "titre": "French Air Force to Arm Its Bomber Drones with Loitering Munitions",
-     "texte": "The French Air and Space Force plans to equip its squadron of bomber drones with a new weapon called DÉLUGE, according to the defence website Opex360.\nDÉLUGE is a one-way attack drone built by the European company MBDA. It is powered by a small jet engine and can reportedly travel up to 500 kilometres while carrying a warhead of about 50 kilograms. It is launched from the ground towards fixed coordinates.\nThe French procurement agency signed a first contract in January 2026, and deliveries should begin in 2027. The main goal is to overwhelm enemy air defences by launching many cheap weapons at once. The announcement comes as lawmakers debate an update to the 2024-2030 military programming law, which sets the army's budget.",
-     "vocab": [
-      {
-       "cible": "equip",
-       "fr": "équiper, doter",
-       "ex": "The French Air and Space Force plans to equip its squadron of bomber drones with a new weapon."
-      },
-      {
-       "cible": "reportedly",
-       "fr": "selon certaines informations",
-       "ex": "It can reportedly travel up to 500 kilometres."
-      },
-      {
-       "cible": "warhead",
-       "fr": "charge explosive",
-       "ex": "...while carrying a warhead of about 50 kilograms."
-      },
-      {
-       "cible": "procurement",
-       "fr": "achats publics, acquisition",
-       "ex": "The French procurement agency signed a first contract in January 2026."
-      },
-      {
-       "cible": "overwhelm",
-       "fr": "submerger, saturer",
-       "ex": "The main goal is to overwhelm enemy air defences."
-      },
-      {
-       "cible": "lawmakers",
-       "fr": "parlementaires",
-       "ex": "Lawmakers debate an update to the 2024-2030 military programming law."
-      },
-      {
-       "cible": "deliveries",
-       "fr": "livraisons",
-       "ex": "Deliveries should begin in 2027."
-      }
-     ],
-     "questions": [
-      {
-       "q": "What is DÉLUGE and who builds it?",
-       "r": "A one-way attack drone built by MBDA."
-      },
-      {
-       "q": "Why does the air force want so many of these weapons?",
-       "r": "To overwhelm enemy air defences by launching many cheap weapons at once."
-      }
-     ],
-     "src": "Opex360",
-     "url": "https://www.opex360.com/2026/10/15/larmee-de-lair-de-lespace-va-doter-son-escadron-de-drones-de-bombardement-de-munitions-teleoperees-deluge/"
-    }
    }
   }
  ]
