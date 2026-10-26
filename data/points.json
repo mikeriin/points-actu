@@ -1,6 +1,46 @@
 {
- "updatedAt": "2026-10-26T03:32:47Z",
+ "updatedAt": "2026-10-26T09:45:00Z",
  "points": [
+  {
+   "id": "2026-10-26-12",
+   "label": "Point de 12h",
+   "date": "2026-10-26",
+   "hour": 12,
+   "tz": "+1",
+   "publishedAt": "2026-10-26T11:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Vie chère : le mouvement s'installe, deux nouvelles dates déjà fixées",
+      "resume": "Au lendemain de l'acte II du 24 octobre, les mobilisations sont programmées pour le 31 octobre et le 5 novembre, selon franceinfo.",
+      "details": "Le 24 octobre, plus de 400 000 personnes avaient défilé et près de 1 300 interpellations avaient été recensées. Les syndicats (CGT en tête) visent notamment une grande journée intersyndicale le 5 novembre. Des appels locaux, comme à Dijon, relaient déjà ces rendez-vous.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/on-continuera-une-mobilisation-sociale-qui-s-ancre-dans-la-duree_8253118.html",
+      "une": true
+     },
+     {
+      "titre": "Budget 2027 : les députés veulent annuler les coupes de l'audiovisuel public",
+      "resume": "En commission, les députés ont adopté des amendements effaçant la baisse de crédits de France Télévisions et de l'audiovisuel public.",
+      "details": "Les coupes massives proposées initialement ont été rejetées. Le débat en séance est prévu le 3 novembre, date du vote solennel sur la partie recettes du budget, repoussé depuis le 20 octobre. Le vote sur l'ensemble du texte reste fixé au 17 novembre.",
+      "src": "Telesatellite",
+      "url": "https://telesatellite.com/actu/70033-budget-2027-les-deputes-veulent-annuler-la-baisse-des-credits-de.html"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "À Strasbourg, le grand sapin de Noël s'installe place Kléber",
+      "resume": "Le sapin du marché de Noël a été mis en place place Kléber, signe de l'ouverture prochaine des festivités alsaciennes.",
+      "details": "Le montage marque traditionnellement le coup d'envoi de la saison du marché de Noël de Strasbourg, l'un des plus fréquentés de France.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/replay-jt/franceinfo/6h30-9h30/7-heures/la-matinale-info-du-lundi-26-octobre-2026_8224201.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Alhazen, le prisonnier qui expliqua la vision",
+    "texte": "Au XIe siècle, un savant assigné à résidence au Caire a prouvé que l'œil reçoit la lumière au lieu d'en émettre. Ibn al-Haytham, dit Alhazen, né vers 965 à Bassora, aurait été enfermé par le calife al-Hakim après avoir échoué à réguler les crues du Nil, selon la tradition. Entre 1011 et 1021, il rédige le Kitab al-Manazir, le « Livre d'optique » en sept volumes. Il y décrit la chambre noire, étudie la réfraction et réfute la théorie grecque des rayons visuels. Traduit en latin vers 1200 sous le titre De aspectibus, l'ouvrage influencera Roger Bacon, Kepler et toute l'optique européenne. Il est mort vers 1040."
+   }
+  },
   {
    "id": "2026-10-26-06",
    "label": "Point de 6h",
@@ -2138,55 +2178,6 @@
    "culture": {
     "sujet": "L'os d'Ishango, un calcul vieux de 20 000 ans",
     "texte": "Au bord du lac Édouard, un os de singe gravé de 168 encoches attend depuis 1950 qu'on le comprenne. Le géologue belge Jean de Heinzelin de Braucourt l'a découvert à Ishango, en actuelle République démocratique du Congo. Long d'une dizaine de centimètres, il porte trois colonnes d'entailles, dont deux totalisent 60 encoches chacune et la troisième 48. Sa datation, d'abord située vers 9 000 av. J.-C., a été révisée à environ 20 000 ans. On y a vu un outil de comptage, voire un calendrier lunaire, mais l'interprétation reste débattue."
-   }
-  },
-  {
-   "id": "2026-10-16-12",
-   "label": "Point de 12h",
-   "date": "2026-10-16",
-   "hour": 12,
-   "tz": "+2",
-   "publishedAt": "2026-10-16T10:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "titre": "Gilets jaunes : le 17 octobre cristallise la colère sociale",
-      "resume": "Des appels à une mobilisation nationale samedi 17 octobre circulent sur les réseaux sociaux, sur fond de carburants et de vie chère, avec le soutien annoncé de la CGT.",
-      "details": "Une carte en ligne recense près de 384 rassemblements. Le gazole avoisinait 2,30 € le litre mi-septembre contre environ 1,45 € en 2018. Le mouvement reste décentralisé et aucun parcours officiel n'était annoncé à Paris. LFI et le PCF soutiennent l'appel, le PS veut être aux côtés des mobilisés.",
-      "src": "Sud Radio",
-      "url": "https://www.sudradio.fr/sud-radio/manifestations-du-17-octobre-vers-une-convergence-des-luttes-massive-et-une-mobilisation-generale",
-      "une": true
-     },
-     {
-      "titre": "Lycéens : nouvel appel à manifester samedi, malgré les concessions",
-      "resume": "Le mouvement lycéen, lancé mi-septembre, appelle à descendre de nouveau dans la rue le 17 octobre et à rejoindre la mobilisation contre la vie chère.",
-      "details": "L'Union syndicale des lycéens réclame la suppression de Parcoursup et un plan de 10 milliards d'euros. Le ministre Édouard Geffray a promis 3 000 remplaçants dans les lycées les plus touchés, et le gouvernement a renoncé aux frais d'inscription en BTS et prépa.",
-      "src": "Euronews",
-      "url": "https://fr.euronews.com/2026/10/14/mobilisation-lyceenne-nouvel-appel-a-manifester-samedi-17-octobre"
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Écocontribution poids lourds : la Région Grand Est tient bon",
-      "resume": "Malgré l'opposition des transporteurs, du monde agricole et des entreprises, le conseil régional poursuit la mise en place de l'écocontribution poids lourds.",
-      "details": "Votée en mai, elle fixe 15 centimes par kilomètre pour les camions de plus de 3,5 tonnes sur environ 500 km de routes reprises par la Région, avec une mise en service annoncée pour 2027. Un collectif réclame sa suspension jusqu'aux régionales de 2028. Des opérations escargot ont eu lieu à Metz et Strasbourg.",
-      "src": "Le Républicain Lorrain",
-      "url": "https://www.titrespresse.com/25318632603/lorraine-quotidien-octobre"
-     }
-    ],
-    "defense": [
-     {
-      "titre": "France-Tchad : la coopération militaire reprend peu à peu",
-      "resume": "Paris et N'Djamena ont signé une lettre d'intention pour rétablir leur coopération de défense, avec des contacts relancés en formation et en renseignement.",
-      "details": "La lettre d'intention a été signée autour du 14 octobre. Le contexte est celui du départ des forces françaises du Tchad, et d'un rapprochement progressif entre les deux pays.",
-      "src": "Opex360 / Armées.com",
-      "url": "https://armees.com/entre-la-france-et-le-tchad-une-reconciliation-sur-fond-de-cooperation-militaire"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Axoum, le royaume qui frappait monnaie",
-    "texte": "Au IIIe siècle, le prophète perse Mani cite Axoum, en Éthiopie actuelle, parmi les quatre grands royaumes du monde avec la Perse, Rome et la Chine. Le roi Endubis y fait frapper vers 270 les premières monnaies d'Afrique subsaharienne, en or, argent et bronze, calquées sur les standards romains. Les pièces portent d'abord le disque et le croissant, symboles solaires et lunaires. Après la conversion du roi Ezana au christianisme, vers le milieu du IVe siècle, ces symboles sont remplacés par la croix, ce qui fait de ces pièces parmi les premières à l'afficher. Elles circulaient jusqu'en Inde et en mer Rouge."
    }
   }
  ]
