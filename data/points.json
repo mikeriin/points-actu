@@ -1,6 +1,39 @@
 {
- "updatedAt": "2026-10-27T03:33:07Z",
+ "updatedAt": "2026-10-27T09:40:00Z",
  "points": [
+  {
+   "id": "2026-10-27-12",
+   "label": "Point de 12h",
+   "date": "2026-10-27",
+   "hour": 12,
+   "tz": "+1",
+   "publishedAt": "2026-10-27T11:00:00Z",
+   "sections": {
+    "france": [
+     {
+      "titre": "Attentat de Trappes : le suspect conteste tout motif raciste",
+      "resume": "La garde à vue du principal suspect de la fusillade du 23 octobre à Trappes a repris lundi 26 octobre, après une période d'observation psychiatrique.",
+      "details": "Kévin T., 39 ans, reconnaît les faits mais nie leur caractère raciste, a indiqué le procureur antiterroriste Olivier Christen. Les enquêteurs ont retrouvé chez lui, à Plaisir, un exemplaire de Mein Kampf et un logement piégé avec des bouteilles de gaz ; des traces de cannabis et de cocaïne ont été relevées dans son sang. Un homme de 26 ans est mort, trois blessés restent hospitalisés. Le PNAT dément par ailleurs que des tracts politiques aient été trouvés dans le véhicule du suspect.",
+      "src": "franceinfo",
+      "url": "https://www.franceinfo.fr/faits-divers/terrorisme/attentat-raciste-a-trappes/direct-attentat-raciste-dans-les-yvelines-olivier-christen-procureur-du-parquet-national-antiterroriste-s-exprimera-en-fin-de-journee-lundi_8254480.html",
+      "une": true
+     }
+    ],
+    "defense": [
+     {
+      "titre": "L'armée de Terre prépare une compagnie de guerre électronique en plus",
+      "resume": "Le chef d'état-major de l'armée de Terre a détaillé devant les députés les unités qui seront créées dès 2027, selon Opex360 le 25 octobre.",
+      "details": "Le général Jacques de Montgros annonce pour 2027 une section de lutte anti-drones, une batterie de munitions télé-opérées dans les régiments d'artillerie et une compagnie de guerre électronique supplémentaire au sein du 54e régiment de transmissions. Dix régiments ou bataillons de plus pourraient suivre après 2030, sans hausse des effectifs d'ici là. L'objectif reste un corps d'armée pleinement opérationnel en 2030, capable de conduire des opérations de plusieurs divisions au sein de l'OTAN.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/25/larmee-de-terre-pourrait-creer-au-moins-dix-regiments-ou-bataillons-supplementaires-apres-2030/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Oresme et la série qui n'en finit pas",
+    "texte": "Vers 1350, un clerc normand prouve qu'additionner des fractions de plus en plus petites peut donner un total infini. Nicole Oresme, futur évêque de Lisieux (1377) mort en 1382, étudie la série harmonique 1 + 1/2 + 1/3 + 1/4 + … Il regroupe les termes : 1/3 + 1/4 dépasse 1/2, les quatre termes suivants (de 1/5 à 1/8) dépassent aussi 1/2, puis les huit suivants, et ainsi de suite. On ajoute donc indéfiniment des paquets supérieurs à 1/2, et la somme dépasse toute limite. Cette démonstration, dans ses commentaires sur la géométrie d'Euclide, sera oubliée puis redécouverte au XVIIe siècle par Pietro Mengoli (1650), puis par Jacques Bernoulli."
+   }
+  },
   {
    "id": "2026-10-27-06",
    "label": "Point de 6h",
@@ -2129,39 +2162,6 @@
    "culture": {
     "sujet": "Les cloches de bronze du marquis Yi de Zeng",
     "texte": "Une seule cloche chinoise de 433 av. J.-C. pouvait sonner deux notes différentes selon l'endroit où on la frappait. Découvert en 1978 à Suizhou (Hubei), le tombeau du marquis Yi de Zeng contenait un carillon de 65 cloches de bronze, accroché sur trois niveaux. Leur forme aplatie en amande permet à chacune de produire deux notes séparées par une tierce. L'ensemble couvre plus de cinq octaves et pèse environ 2,5 tonnes. Les musiciens des premiers essais ont pu rejouer des mélodies, preuve d'une théorie musicale très aboutie il y a près de 2 500 ans."
-   }
-  },
-  {
-   "id": "2026-10-17-12",
-   "label": "Point de 12h",
-   "date": "2026-10-17",
-   "hour": 12,
-   "tz": "+2",
-   "publishedAt": "2026-10-17T10:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Rafale F4 : une première capacité SEAD attendue dès 2028",
-      "resume": "Meta-Defense détaille, le 16 octobre, la montée en puissance du Rafale F4 contre les défenses antiaériennes, avec la bombe A2SM XLR.",
-      "details": "La capacité de suppression des défenses aériennes (SEAD) serait d'abord limitée sur F4, la solution complète n'arrivant qu'avec le standard F5. La bombe A2SM XLR, version à portée étendue de l'AASM Hammer de Safran, doit permettre des frappes à distance de sécurité. Le sujet reste sensible : une question écrite parlementaire du 29 septembre interroge sur une capacité intermédiaire avant 2033.",
-      "src": "Meta-Defense",
-      "url": "https://meta-defense.fr/2026/10/16/a2sm-xlr-sead-rafale-f4-stratus-rs-f5/"
-     }
-    ],
-    "france": [
-     {
-      "titre": "Mobilisation du 17 octobre : 40 interpellations à Paris dès le matin",
-      "resume": "La préfecture de police a procédé à 40 interpellations samedi matin à Paris, avant le départ du cortège prévu à 14h place de la République.",
-      "details": "Les arrestations visent surtout le port de protections ou d'armes prohibées, dans le cadre des arrêtés interdisant tout rassemblement non déclaré de 7h à 22h. À Paris, environ 300 manifestants ont été encerclés dans le Xe arrondissement en direction de la gare de l'Est. Le cortège doit rejoindre la place de Clichy par Barbès. La veille, Emmanuel Macron avait appelé au calme depuis Bruxelles.",
-      "src": "France 24",
-      "url": "https://www.france24.com/fr/france/20261017-france-en-direct-mobilisation-17-octobre-gilets-jaunes-lyceens-font-converger-leurs-coleres-dans-la-rue",
-      "une": true
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Fray Bentos, l'extrait de viande de l'Uruguay",
-    "texte": "En 1865, une usine ouvre à Fray Bentos, sur le fleuve Uruguay, pour fabriquer de l'« extrait de viande » selon le procédé du chimiste allemand Justus von Liebig. Il fallait environ 30 kg de bœuf pour obtenir 1 kg de concentré, ce qui rendait la viande des pampas, presque sans valeur sur place, exportable en Europe. L'entreprise, la Liebig's Extract of Meat Company, deviendra l'une des premières grandes industries agroalimentaires d'Amérique du Sud. Son site, devenu musée, est inscrit au patrimoine mondial de l'Unesco depuis 2015."
    }
   }
  ]
