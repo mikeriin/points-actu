@@ -1,6 +1,85 @@
 {
- "updatedAt": "2026-10-27T09:40:00Z",
+ "updatedAt": "2026-10-27T15:40:00Z",
  "points": [
+  {
+   "id": "2026-10-27-18",
+   "label": "Point de 18h",
+   "date": "2026-10-27",
+   "hour": 18,
+   "tz": "+1",
+   "publishedAt": "2026-10-27T17:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "La France relance l'étude d'un missile balistique de 2 500 km",
+      "resume": "Meta-Défense détaille le retour français dans les missiles balistiques terrestres, abandonnés depuis 1996, avec une arme conventionnelle de 2 500 km de portée.",
+      "details": "Une enveloppe de 1,1 milliard d'euros est prévue pour les études. L'analyse du 26 octobre plaide pour compléter ce futur MRBM par un missile aérobalistique, afin de diversifier les moyens de frappe en profondeur.",
+      "src": "Meta-Défense",
+      "url": "https://meta-defense.fr/2026/10/26/missile-aerobalistique-france-2500-km/",
+      "une": true
+     },
+     {
+      "titre": "L'armée de Terre pourrait créer dix régiments après 2030",
+      "resume": "Selon Opex360, l'armée de Terre envisage au moins dix régiments ou bataillons supplémentaires après 2030.",
+      "details": "Des unités nouvelles sont prévues dès 2027, dont une section de lutte anti-drones au 54e RA et une compagnie de guerre électronique. L'objectif reste un corps d'armée pleinement opérationnel en 2030.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/25/larmee-de-terre-pourrait-creer-au-moins-dix-regiments-ou-bataillons-supplementaires-apres-2030/"
+     },
+     {
+      "titre": "SE Aviation a testé en vol son drone DRIADE avec la DGA",
+      "resume": "Opex360 révèle une campagne d'essais en vol, menée discrètement avec la DGA, du drone DRIADE OPV de SE Aviation.",
+      "details": "L'information date du 26 octobre. Aucune communication détaillée n'a été faite sur les performances ou le calendrier d'une éventuelle commande.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/26/se-aviation-a-termine-une-campagne-dessais-en-vol-de-son-drone-driade-opv-menee-discretement-avec-la-dga/"
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Strasbourg : enquête ouverte après des interpellations violentes",
+      "resume": "Le parquet de Strasbourg a ouvert une enquête sur des interpellations jugées violentes lors de la manifestation du 24 octobre.",
+      "details": "La mobilisation du 24 octobre s'est tenue sous forte tension, avec des manifestations interdites dans plusieurs villes de la région comme Nancy, Metz, Épinal et le centre de Mulhouse.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/"
+     },
+     {
+      "titre": "Aube : la bonneterie Chanteclair en redressement judiciaire",
+      "resume": "La bonneterie Chanteclair, à Saint-Pouange, a été placée en redressement judiciaire.",
+      "details": "L'entreprise auboise fait partie du tissu textile historique de la région troyenne. Le sort des salariés dépendra des offres de reprise ou du plan de continuation.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/"
+     }
+    ],
+    "occitanie": [
+     {
+      "titre": "Perpignan : les salariés de Solutions 30 mobilisés contre les licenciements",
+      "resume": "Les salariés de Solutions 30 se sont rassemblés devant leur entreprise à Perpignan ce 27 octobre pour dénoncer une vague de licenciements.",
+      "details": "Le rassemblement vise à obtenir des garanties sur l'emploi local. L'ampleur exacte du plan n'est pas détaillée dans les extraits disponibles.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/"
+     },
+     {
+      "titre": "Ariège : un barrage pyrénéen à sec en pleine sécheresse",
+      "resume": "Un barrage des Pyrénées ariégeoises est à sec, laissant des habitants sans eau.",
+      "details": "L'épisode illustre la sécheresse qui frappe encore la région à la fin octobre et relance la question de la gestion de la ressource en eau en montagne.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Black Flag Resynced : le New Game+ arrive cette semaine",
+      "resume": "Ubisoft a confirmé l'arrivée du New Game+ dans Assassin's Creed Black Flag Resynced « la semaine prochaine », soit entre le 26 octobre et le 1er novembre.",
+      "details": "Le mode n'existait pas dans le jeu d'origine de 2013. Le directeur Richard Knight l'avait dit en développement en juillet. Ubisoft n'a pas donné de date précise ni de détail sur les éléments conservés.",
+      "src": "Gameblog",
+      "url": "https://www.gameblog.fr/jeu-video/ed/news/assassins-creed-black-flag-resynced-mode-new-game-plus-confirme-719306"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Sachertorte : sept ans de procès pour un gâteau",
+    "texte": "Entre 1954 et 1963, deux établissements viennois se sont affrontés en justice pour avoir le droit d'appeler leur gâteau « Original Sachertorte ». La recette est née en 1832, quand Franz Sacher, apprenti de 16 ans, la crée pour le prince Metternich. Son fils ouvre ensuite l'hôtel Sacher, tandis que la pâtisserie Demel affirme avoir racheté les droits de la recette. Le litige s'est conclu en 1963 : l'hôtel garde le label « Original », et Demel vend la sienne sous le nom « Eduard-Sacher-Torte ». La différence tient surtout à la confiture d'abricot, placée sous le glaçage chez l'un et dans la pâte chez l'autre."
+   }
+  },
   {
    "id": "2026-10-27-12",
    "label": "Point de 12h",
@@ -2104,64 +2183,6 @@
      "src": "Zone Militaire (Opex360)",
      "url": "https://www.opex360.com/2026/10/17/le-premier-equipage-de-la-fregate-de-defense-et-dintervention-amiral-louzeau-a-ete-officiellement-constitue/"
     }
-   }
-  },
-  {
-   "id": "2026-10-17-18",
-   "label": "Point de 18h",
-   "date": "2026-10-17",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-17T16:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Chypre confirme son intérêt pour le blindé français Jaguar",
-      "resume": "Selon la presse chypriote, Nicosie a retenu l'EBRC Jaguar de KNDS France pour sa Garde nationale ; aucun contrat signé n'est annoncé.",
-      "details": "Le Jaguar remplacerait les AMX-30B2 et les ERC-90 Sagaie vieillissants. Chypre viserait un financement via l'instrument européen SAFE, avec un prêt de 1,8 Md€. L'information repose sur des sources militaires non nommées.",
-      "src": "Army Recognition",
-      "url": "https://www.armyrecognition.com/news/army-news/2026/cyprus-national-guard-ebrc-jaguar-merkava-tank-acquisition"
-     }
-    ],
-    "france": [
-     {
-      "titre": "17 octobre : 272 interpellations et des violences dans plusieurs villes",
-      "resume": "La journée de mobilisation contre la vie chère, avec lycéens et gilets jaunes, a donné lieu à 272 interpellations à 15h et à des dégradations.",
-      "details": "La CGT revendique plus de 500 000 manifestants, sans chiffre officiel à ce stade. Un commissariat de police municipale a été dégradé à Marseille et Lille, une antenne d'office du tourisme incendiée à Lyon et une portion de l'A10 envahie près de Tours. Matignon avait convoqué une cellule interministérielle de crise.",
-      "src": "franceinfo",
-      "url": "https://www.franceinfo.fr/economie/greve/direct-mobilisation-du-17-octobre-lyceens-etudiants-gilets-jaunes-des-milliers-de-manifestants-attendus-dans-toute-la-france_8241022.html",
-      "une": true
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Metz et Nancy : milliers de manifestants, fin de cortège tendue à Nancy",
-      "resume": "Samedi après-midi, 5 200 personnes ont défilé à Metz selon la préfecture et environ 4 000 à Nancy, où des heurts ont éclaté.",
-      "details": "À Metz, le cortège parti de la place de la République est resté calme. À Nancy, lycéens, étudiants et syndicats ont défilé avant des tensions : gaz lacrymogènes, mobilier urbain cassé et feux. À Strasbourg, la préfecture a interdit la Grande Île aux manifestants d'un rassemblement non déclaré.",
-      "src": "ICI",
-      "url": "https://www.ici.fr/grand-est/meurthe-et-moselle-54/mobilisation-du-17-octobre-en-meurthe-et-moselle-et-dans-les-vosges-matinee-calme-avant-les-manifestations-6395265"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "Montpellier : entre 12 000 et 17 000 manifestants selon la préfecture",
-      "resume": "Le cortège parti à 14h de la place de la Comédie a rassemblé des milliers de personnes contre la vie chère.",
-      "details": "Des blocages étaient annoncés au port de Sète, au dépôt de Frontignan et sur des péages de l'A9 et de l'A709. Les chiffres varient selon les sources de direct.",
-      "src": "ICI",
-      "url": "https://www.ici.fr/occitanie/herault-34/montpellier/en-direct-les-manifestations-du-17-octobre-dans-l-herault-des-milliers-de-manifestants-deja-rassembles-a-montpellier-6836492"
-     },
-     {
-      "titre": "Toulouse : ronds-points, défilés et blocages, forte mobilisation",
-      "resume": "À Toulouse, de nombreuses actions étaient déjà en cours samedi et la mobilisation semblait importante.",
-      "details": "Plus de 10 000 manifestants étaient attendus l'après-midi. La préfecture avait interdit les manifestations non déclarées dans le centre de 7h à 22h, et le pont Saint-Michel a été bloqué dès la matinée.",
-      "src": "France 3 Occitanie",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/manifestations-du-17-octobre-a-toulouse-ronds-points-defiles-et-blocages-de-nombreuses-actions-deja-en-cours-la-mobilisation-semble-importante-3435021.html"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Les cloches de bronze du marquis Yi de Zeng",
-    "texte": "Une seule cloche chinoise de 433 av. J.-C. pouvait sonner deux notes différentes selon l'endroit où on la frappait. Découvert en 1978 à Suizhou (Hubei), le tombeau du marquis Yi de Zeng contenait un carillon de 65 cloches de bronze, accroché sur trois niveaux. Leur forme aplatie en amande permet à chacune de produire deux notes séparées par une tierce. L'ensemble couvre plus de cinq octaves et pèse environ 2,5 tonnes. Les musiciens des premiers essais ont pu rejouer des mélodies, preuve d'une théorie musicale très aboutie il y a près de 2 500 ans."
    }
   }
  ]
