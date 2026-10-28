@@ -1,6 +1,110 @@
 {
- "updatedAt": "2026-10-27T15:40:00Z",
+ "updatedAt": "2026-10-28T03:33:11Z",
  "points": [
+  {
+   "id": "2026-10-28-06",
+   "label": "Point de 6h",
+   "date": "2026-10-28",
+   "hour": 6,
+   "tz": "+1",
+   "publishedAt": "2026-10-28T05:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Ukraine : Berlin enverra deux A400M à l'exercice de la coalition",
+      "une": true,
+      "resume": "L'Allemagne engagera jusqu'à deux A400M dans le premier exercice de la coalition de volontaires pour l'Ukraine, pilotée par Paris et Londres.",
+      "details": "Berlin fournira aussi une dizaine d'officiers d'état-major et un soutien logistique, avec des avions partant de bases allemandes. L'exercice, baptisé Koalicja 2026 et prévu en novembre, se tiendra en Pologne, dans l'espace aérien roumain et dans l'ouest de la mer Noire. Il doit servir de premier test à la force multinationale d'une trentaine de pays imaginée à Berlin en décembre 2025.",
+      "src": "Armees.com",
+      "url": "https://armees.com/allemagne-a400m-exercice-koalicja-2026-coalition-volontaires-ukraine/"
+     },
+     {
+      "titre": "E5 : les cinq grandes armées européennes veulent harmoniser leurs capacités",
+      "resume": "Réunis à Paris le 26 octobre, les ministres du groupe E5 ont publié une déclaration commune sur la préparation opérationnelle et la coopération industrielle.",
+      "details": "Le texte met l'accent sur la standardisation des besoins militaires et l'articulation avec l'OTAN. Le format E5 réunit l'Allemagne, la France, l'Italie, la Pologne et le Royaume-Uni.",
+      "src": "Armees.com",
+      "url": "https://armees.com/e5-defense-europeenne-harmonisation-capacites-otan-26-octobre-2026/"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Budget 2027 : l'Assemblée reprend un examen des recettes très en retard",
+      "resume": "Les débats sur le projet de loi de finances ont repris à l'Assemblée le 27 octobre, avec un vote sur les recettes reporté au 3 novembre.",
+      "details": "Seuls 15 des 58 articles de la première partie avaient été examinés, laissant plus de 2 600 amendements en attente. Le gouvernement vise un déficit de 5 % du PIB avec un effort de 54 milliards d'euros. Le vote sur l'ensemble reste fixé au 17 novembre ; au-delà du 17 décembre, le budget pourrait passer par ordonnance.",
+      "src": "NosParlementaires",
+      "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Mass Effect : les fans se cotisent pour sauver la franchise",
+      "resume": "Une mobilisation de fans, relayée le 27 octobre, cherche à financer la survie de Mass Effect après la fermeture de BioWare par EA.",
+      "details": "EA a annoncé le 21 octobre la fermeture du studio, l'annulation de Mass Effect 5 et environ 400 suppressions de postes dans le groupe. Le sort futur de la licence et de Dragon Age n'a pas été précisé par l'éditeur.",
+      "src": "Journal du Geek",
+      "url": "https://www.journaldugeek.com/2026/10/27/les-fans-de-mass-effect-mettent-le-paquet-dargent-pour-sauver-la-franchise"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Les mémoires d'une princesse coréenne face à un drame d'État",
+    "texte": "En 1762, le prince héritier coréen Sado fut enfermé par son propre père, le roi Yeongjo, dans un coffre à riz où il mourut après huit jours. Sa veuve, Dame Hyegyeong, a raconté ce drame dans les Hanjungnok (« Mémoires écrits en silence »), rédigés en hangeul entre 1795 et 1805. Ces textes comptent parmi les grands écrits de femmes de la littérature coréenne. Elle y plaide aussi pour sa propre famille, éprouvée par l'affaire. Son fils devint le roi Jeongjo, qui régna de 1776 à 1800."
+   },
+   "lecture": {
+    "en": {
+     "titre": "Germany to send tankers to Ukraine coalition drill",
+     "texte": "Germany will take part in the first military exercise of the so-called Coalition of the Willing, a group of about 35 countries led by France and the United Kingdom. The aim is to prepare a multinational force that could support Ukraine once the fighting stops.\nAccording to the German defence ministry, Berlin will provide up to two A400M aircraft for aerial refuelling, around ten staff officers and logistical support. The planes will take off from German bases, and Germany will also help move troops across its territory.\nThe drill, called Koalicja 2026, is planned for November. It will take place in Poland, in Romanian airspace and over the western Black Sea. Officials have not confirmed how many soldiers will be involved, but some reports mention at least 1,500 troops. For the coalition, it is a first test of how well the allies can work together.",
+     "vocab": [
+      {
+       "cible": "take part in",
+       "fr": "participer à",
+       "ex": "Germany will take part in the first military exercise of the so-called Coalition of the Willing."
+      },
+      {
+       "cible": "aim",
+       "fr": "objectif",
+       "ex": "The aim is to prepare a multinational force that could support Ukraine once the fighting stops."
+      },
+      {
+       "cible": "provide",
+       "fr": "fournir",
+       "ex": "Berlin will provide up to two A400M aircraft for aerial refuelling."
+      },
+      {
+       "cible": "staff officers",
+       "fr": "officiers d'état-major",
+       "ex": "Berlin will provide up to two A400M aircraft for aerial refuelling, around ten staff officers and logistical support."
+      },
+      {
+       "cible": "troops",
+       "fr": "troupes, soldats",
+       "ex": "Germany will also help move troops across its territory."
+      },
+      {
+       "cible": "confirm",
+       "fr": "confirmer",
+       "ex": "Officials have not confirmed how many soldiers will be involved."
+      },
+      {
+       "cible": "work together",
+       "fr": "travailler ensemble",
+       "ex": "For the coalition, it is a first test of how well the allies can work together."
+      }
+     ],
+     "questions": [
+      {
+       "q": "How many countries belong to the Coalition of the Willing?",
+       "r": "About 35."
+      },
+      {
+       "q": "What will the German A400M aircraft be used for?",
+       "r": "For aerial refuelling."
+      }
+     ],
+     "src": "Armees.com",
+     "url": "https://armees.com/allemagne-a400m-exercice-koalicja-2026-coalition-volontaires-ukraine/"
+    }
+   }
+  },
   {
    "id": "2026-10-27-18",
    "label": "Point de 18h",
@@ -2095,94 +2199,6 @@
    "culture": {
     "sujet": "Le premier câble sous la Manche tenait une nuit",
     "texte": "Le premier câble télégraphique sous la Manche, posé en août 1850 entre Douvres et Calais, n'a fonctionné qu'un jour environ. Les frères Brett avaient simplement isolé un fil de cuivre à la gutta-percha, sans armure, et la liaison a transmis ses premiers messages avant de s'interrompre. Selon la tradition, un pêcheur l'aurait coupé en le prenant pour une algue d'un genre rare. Les Brett retentent l'expérience en 1851 avec un câble de quatre conducteurs protégés par une armure de fils de fer. Cette seconde liaison ouvre au public à la fin de 1851 et relie durablement Londres à Paris. Elle est le point de départ du réseau de câbles sous-marins qui porte aujourd'hui l'essentiel du trafic internet mondial."
-   }
-  },
-  {
-   "id": "2026-10-18-06",
-   "label": "Point de 6h",
-   "date": "2026-10-18",
-   "hour": 6,
-   "tz": "+2",
-   "publishedAt": "2026-10-18T04:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Frégate Amiral Louzeau : le premier équipage est officiellement constitué",
-      "resume": "La Marine a formé le 17 octobre le premier équipage de la deuxième frégate de défense et d'intervention (FDI).",
-      "details": "Mise à l'eau par Naval Group, la frégate doit commencer ses essais en mer début 2027 puis entrer en service la même année. Opex360 souligne que la Marine compte officiellement quinze bâtiments de surface de premier rang, mais seulement dix en écartant une frégate dotée d'un sonar, un format jugé insuffisant au regard du contexte sécuritaire.",
-      "src": "Zone Militaire (Opex360)",
-      "url": "https://www.opex360.com/2026/10/17/le-premier-equipage-de-la-fregate-de-defense-et-dintervention-amiral-louzeau-a-ete-officiellement-constitue/"
-     }
-    ],
-    "france": [
-     {
-      "titre": "Mobilisation du 17 octobre : 550 000 manifestants selon l'Intérieur, 800 000 selon les organisateurs",
-      "resume": "La journée de mobilisation de samedi a rassemblé des centaines de milliers de personnes, avec des violences ici et là.",
-      "details": "Le ministre de l'Intérieur Laurent Nuñez évoque environ 400 interpellations et 60 blessés parmi les forces de l'ordre, dont 110 000 manifestants à Paris selon le ministère. À Limoges, l'intérieur de l'hôtel de ville a été incendié. Les cortèges sont restés majoritairement calmes ailleurs, mais les chiffres de participation divergent fortement : à Toulouse, 32 000 selon la préfecture contre près de 80 000 selon les syndicats.",
-      "src": "ICI",
-      "url": "https://www.ici.fr/infos/societe/direct-mobilisation-du-17-octobre-150000-personnes-attendues-dans-les-rues-ce-samedi-hors-agglomeration-parisienne-4822424",
-      "une": true
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le papier-monnaie né à Chengdu en 1024",
-    "texte": "En 1024, la dynastie Song crée à Chengdu, dans le Sichuan, le premier papier-monnaie émis par un État : le jiaozi. Il prolonge des reçus de dépôt que des marchands locaux utilisaient depuis le Xe siècle pour éviter de transporter des chaînes de lourdes pièces de fer. Le gouvernement ouvre alors un bureau officiel chargé d'imprimer et de contrôler ces billets. Les émissions étaient limitées par périodes et adossées à une réserve en monnaie métallique, environ 360 000 ligatures de pièces pour plus d'un million de ligatures de billets. Cette réserve fut ensuite rognée, et l'inflation des billets sous les Song a nourri les premières crises du papier-monnaie de l'histoire."
-   },
-   "lecture": {
-    "en": {
-     "titre": "France's new frigate gets its first crew",
-     "texte": "The French Navy has officially formed the first crew of the Amiral Louzeau, the second air-defence frigate of the FDI class. The ship was launched earlier by Naval Group and is meant to counter air, surface and underwater threats. It can also be used to deliver or recover special forces.\nSea trials are expected to begin in early 2027, and the frigate should enter service later the same year. Forming the crew now lets sailors train and prepare long before the ship leaves port.\nThe news comes with a warning about numbers. The Navy officially counts fifteen first-rank surface ships, but only ten really meet that standard once a sonar-equipped frigate is set aside. According to the report, this force level is not enough for the current security situation.",
-     "vocab": [
-      {
-       "cible": "launched",
-       "fr": "mis à l'eau",
-       "ex": "The ship was launched earlier by Naval Group"
-      },
-      {
-       "cible": "counter",
-       "fr": "contrer, faire face à",
-       "ex": "is meant to counter air, surface and underwater threats"
-      },
-      {
-       "cible": "sea trials",
-       "fr": "essais en mer",
-       "ex": "Sea trials are expected to begin in early 2027"
-      },
-      {
-       "cible": "enter service",
-       "fr": "entrer en service",
-       "ex": "the frigate should enter service later the same year"
-      },
-      {
-       "cible": "set aside",
-       "fr": "mettre de côté, écarter",
-       "ex": "once a sonar-equipped frigate is set aside"
-      },
-      {
-       "cible": "meet that standard",
-       "fr": "répondre à ce critère",
-       "ex": "only ten really meet that standard"
-      },
-      {
-       "cible": "not enough for",
-       "fr": "insuffisant pour",
-       "ex": "this force level is not enough for the current security situation"
-      }
-     ],
-     "questions": [
-      {
-       "q": "When are the sea trials of the frigate expected to start?",
-       "r": "In early 2027."
-      },
-      {
-       "q": "How many first-rank surface ships does the Navy officially count, and how many really qualify?",
-       "r": "Fifteen officially, but only ten really qualify."
-      }
-     ],
-     "src": "Zone Militaire (Opex360)",
-     "url": "https://www.opex360.com/2026/10/17/le-premier-equipage-de-la-fregate-de-defense-et-dintervention-amiral-louzeau-a-ete-officiellement-constitue/"
-    }
    }
   }
  ]
