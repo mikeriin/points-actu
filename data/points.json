@@ -1,6 +1,55 @@
 {
- "updatedAt": "2026-10-28T09:40:00Z",
+ "updatedAt": "2026-10-28T15:36:52Z",
  "points": [
+  {
+   "id": "2026-10-28-18",
+   "label": "Point de 18h",
+   "date": "2026-10-28",
+   "hour": 18,
+   "tz": "+1",
+   "publishedAt": "2026-10-28T17:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Le drone de combat du Rafale F5 pourrait ne pas être français",
+      "resume": "Selon Zone Militaire, le drone furtif censé accompagner le Rafale F5 pourrait finalement venir de l'étranger (article du 27 octobre).",
+      "details": "Ce programme avait été lancé en octobre 2024 au titre de la LPM 2024-2030. L'hypothèse d'une solution non française interroge sur la souveraineté industrielle et le calendrier du futur standard F5 du Rafale.",
+      "src": "Opex360",
+      "url": "https://www.opex360.com/2026/10/27/le-drone-de-combat-qui-accompagnera-le-rafale-f5-ne-sera-peut-etre-pas-de-conception-francaise/"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Commerces saccagés : jusqu'à 10 000 € d'aide directe annoncés",
+      "resume": "Le gouvernement a annoncé ce mercredi 28 octobre une aide directe pouvant atteindre 10 000 € pour les commerces endommagés par les violences.",
+      "details": "Selon Boursorama, le ministre du Commerce Serge Papin vise les entreprises de moins de 50 salariés et de moins de 10 millions d'euros de chiffre d'affaires. Un décret publié au Journal officiel crée le dispositif. Environ 3 000 commerces ont été touchés, d'après les premières estimations du gouvernement.",
+      "src": "Boursorama",
+      "url": "https://www.boursorama.com/actualite-economique/actualites/commerces-endommages-par-les-violences-le-gouvernement-annonce-une-aide-directe-pouvant-aller-jusqu-a-10-000-euros-ded54c7884abbd618b6215da2c1c71cc",
+      "une": true
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Strasbourg : fuite de gaz importante, des passants évacués",
+      "resume": "Une fuite de gaz rue de la Vignette a mobilisé les pompiers ce mercredi 28 octobre vers 10h45.",
+      "details": "Un périmètre de sécurité a été installé dans ce secteur du centre-ville et les passants ont été évacués par précaution.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/fuite-de-gaz-au-centre-ville-de-strasbourg-les-pompiers-evacuent-des-riverains-3440427.html"
+     },
+     {
+      "titre": "Incendie de Gandrange : l'État écarte tout risque de contamination",
+      "resume": "La préfecture de la Moselle a jugé le 27 octobre que le risque de contamination est écarté, trois mois après l'incendie du site de traitement de déchets.",
+      "details": "L'incendie, spectaculaire, avait touché un site de retraitement de déchets à Gandrange. Le communiqué de la préfecture clôt la question sanitaire et environnementale à ce stade.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/moselle/metz/les-risques-de-contamination-ecartes-par-l-etat-trois-mois-apres-le-spectaculaire-incendie-de-ce-site-de-retraitements-des-dechets-3440247.html"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Les plus vieilles recettes du monde, gravées vers 1750 av. J.-C.",
+    "texte": "Le plus ancien livre de cuisine connu tient en trois tablettes d'argile babyloniennes. Datées d'environ 1750 av. J.-C., elles sont conservées à l'université Yale (collection YBC) et regroupent environ 35 recettes en akkadien. Elles décrivent surtout des bouillons et des ragoûts d'agneau, de gibier ou d'oiseaux, parfumés avec des alliacées comme le poireau, l'ail et l'oignon. Le texte, très elliptique, ne donne ni quantités ni temps de cuisson : il s'adressait à des cuisiniers de palais déjà expérimentés. L'assyriologue Jean Bottéro l'a traduit et commenté dans « Textes culinaires mésopotamiens » (1995)."
+   }
+  },
   {
    "id": "2026-10-28-12",
    "label": "Point de 12h",
@@ -2150,71 +2199,6 @@
      "src": "Radio-Canada",
      "url": "https://ici.radio-canada.ca/nouvelle/2293498/carney-incendie-wainwright-base-forces-armees-alberta"
     }
-   }
-  },
-  {
-   "id": "2026-10-18-18",
-   "label": "Point de 18h",
-   "date": "2026-10-18",
-   "hour": 18,
-   "tz": "+2",
-   "publishedAt": "2026-10-18T16:00:00Z",
-   "sections": {
-    "defense": [
-     {
-      "titre": "Les drones Reaper français reçoivent enfin leur nacelle d'écoute électromagnétique",
-      "resume": "La nacelle de renseignement électromagnétique (ROEM) sort de sa phase d'expérimentation et devient opérationnelle sur les Reaper de l'armée de l'Air, selon Opex360 le 18 octobre.",
-      "details": "Les équipages du 33e escadron de reconnaissance (ESRA) commencent à s'en servir. Elle doit combler le trou laissé depuis 2022 par le retrait anticipé des Transall C-160G, avions d'écoute électronique, alors que leurs successeurs Archange tardent à arriver. Un enjeu direct pour le renseignement d'origine électromagnétique au Sahel comme en Europe.",
-      "src": "Opex360",
-      "url": "https://www.opex360.com/2026/10/18/la-nacelle-de-renseignement-electromagnetique-va-enfin-etre-operationnelle-sur-les-drones-reaper-de-larmee-de-lair/"
-     }
-    ],
-    "france": [
-     {
-      "titre": "Violences du 17 octobre : plus de 2 000 interpellations, l'exécutif sous pression",
-      "resume": "Au lendemain des manifestations contre la vie chère, le ministre de l'Intérieur Laurent Nuñez annonce plus de 2 000 interpellations en France, dont environ 855 à Paris.",
-      "details": "Plus de 600 policiers, gendarmes et pompiers auraient été blessés, selon ce bilan provisoire ; un premier décompte du Premier ministre Sébastien Lecornu faisait état de 1 200 interpellations. Pillages et incendies ont touché Paris, Lille, Marseille, Lyon ou Limoges. Le gouvernement promet des poursuites tandis que des appels à la démission du ministre de l'Intérieur se font entendre.",
-      "src": "franceinfo",
-      "url": "https://www.franceinfo.fr/economie/greve/mobilisation-du-17-octobre-1-200-personnes-ont-ete-interpellees-selon-sebastien-lecornu-qui-deplore-des-degres-de-violence-inacceptables_8242513.html",
-      "une": true
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Nancy : le maire dénonce des scènes de « guérilla » après la manifestation",
-      "resume": "Le maire de Nancy réagit aux violences urbaines survenues en marge du défilé du 17 octobre.",
-      "details": "Selon la préfecture, 4 000 manifestants ont défilé et 500 à 1 000 individus violents ont été identifiés ; 25 interpellations et 23 blessés pris en charge par les pompiers, dont deux grièvement.",
-      "src": "France 3 Grand Est",
-      "url": "https://france3-regions.franceinfo.fr/grand-est/meurthe-et-moselle/nancy/nous-avons-assiste-a-des-scenes-de-violences-urbaines-de-guerilla-le-maire-de-nancy-reagit-aux-actes-de-vandalisme-au-lendemain-de-la-manifestation-du-17-octobre-3435357.html"
-     },
-     {
-      "titre": "Strasbourg : bilan alourdi après la mobilisation, 27 interpellations et 27 policiers blessés",
-      "resume": "La préfecture du Bas-Rhin dresse un bilan plus lourd de la journée du 17 octobre en Alsace.",
-      "details": "15 000 manifestants selon la préfecture (20 000 selon la CGT) ont défilé à Strasbourg malgré l'interdiction d'accès à la Grande Île. Les chiffres de blessés et d'interpellations varient selon les bilans successifs. À Metz, près de 5 200 personnes ont défilé.",
-      "src": "ICI Alsace",
-      "url": "https://www.ici.fr/grand-est/alsace-cea/mobilisation-du-17-octobre-16-interpellations-a-strasbourg-et-11-blesses-selon-un-premier-bilan-5327220"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "Montpellier : 50 commerces touchés, 14 pillés, des millions d'euros de dégâts",
-      "resume": "Selon la CCI, le centre-ville de Montpellier est sous le choc après la manifestation du 17 octobre.",
-      "details": "Monoprix, Foot Locker et Bouygues Telecom figurent parmi les enseignes visées. Environ 70 personnes ont été interpellées selon la police et 36 policiers blessés dans l'Écusson.",
-      "src": "L'Écho des Tribunes",
-      "url": "https://echo-des-tribunes.com/herault-tribune/articles/montpellier-50-commerces-degrades-14-pilles-des-millions-deuros-de-degats-le-centreville-sous-le-choc"
-     },
-     {
-      "titre": "Toulouse : scènes de chaos, magasins pillés et 94 interpellations",
-      "resume": "Jusqu'à 32 000 personnes ont manifesté à Toulouse avant des violences dans l'hypercentre.",
-      "details": "La préfecture comptait 94 interpellations à 23 h 30 samedi, chiffre provisoire, et plus d'une dizaine d'agents blessés. France 3 Occitanie évoque des dizaines de boutiques pillées ou saccagées.",
-      "src": "France 3 Occitanie",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/manifestations-du-17-octobre-scenes-de-chaos-magasins-pilles-et-une-centaine-d-interpellations-le-bilan-est-lourd-dans-la-troisieme-ville-de-france-3435330.html"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "98 mots, 16 heures : le premier télégramme transatlantique",
-    "texte": "Le 16 août 1858, la reine Victoria envoie au président américain James Buchanan un message de 98 mots par le tout premier câble télégraphique transatlantique. La transmission dure environ 16 heures, tant le signal est faible et lent après plus de 3 000 km d'immersion. Le câble, posé par les navires de l'Atlantic Telegraph Company, cesse de fonctionner début septembre 1858, soit quelques semaines seulement après son inauguration. Une tension excessive appliquée par l'électricien Wildman Whitehouse est la cause généralement avancée de sa destruction. Il faudra attendre 1866 pour qu'un câble durable relie durablement l'Europe à l'Amérique."
    }
   }
  ]
