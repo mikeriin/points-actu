@@ -1,6 +1,71 @@
 {
- "updatedAt": "2026-10-28T03:33:11Z",
+ "updatedAt": "2026-10-28T09:40:00Z",
  "points": [
+  {
+   "id": "2026-10-28-12",
+   "label": "Point de 12h",
+   "date": "2026-10-28",
+   "hour": 12,
+   "tz": "+1",
+   "publishedAt": "2026-10-28T11:00:00Z",
+   "sections": {
+    "defense": [
+     {
+      "titre": "Forges de Tarbes, seule usine française de corps d'obus de 155 mm, en redressement judiciaire",
+      "resume": "Le tribunal de commerce de Tarbes a placé dans la nuit du 26 octobre les Forges de Tarbes, filiale d'Europlasma, en redressement judiciaire.",
+      "details": "Le site emploie une soixantaine de personnes et fabrique les corps d'obus de 155 mm utilisés notamment par les canons Caesar livrés à l'Ukraine. Il avait déjà frôlé la liquidation en 2019. Salariés et élus s'inquiètent d'un possible manque d'acier, KNDS reprenant ses stocks, et d'une mise en conformité exigée par la préfecture d'ici la fin de l'année. Un maillon industriel jugé stratégique pour la montée en cadence des munitions.",
+      "src": "France 3 Occitanie",
+      "url": "https://france3-regions.franceinfo.fr/occitanie/hautes-pyrenees/tarbes/canons-caesar-et-guerre-en-ukraine-la-derniere-usine-francaise-d-obus-placee-en-redressement-judiciaire-3439719.html"
+     },
+     {
+      "titre": "La DGA change de rythme pour répondre à l'urgence militaire",
+      "resume": "Selon Meta-Defense (26 octobre), la DGA doit accélérer ses livraisons tout en menant M51.4, Rafale F5 et futurs sous-marins.",
+      "details": "L'article évoque quatre campagnes d'essais consacrées à la lutte anti-drones menées en deux mois. Il cite aussi les programmes SMOKERS et spatiaux parmi les priorités d'une agence sous pression, avec un budget qui monte vers 63,4 Md€ pour la mission Défense en 2027 selon le PLF.",
+      "src": "Meta-Defense",
+      "url": "https://meta-defense.fr/2026/10/26/dga-accelere-smokers-rafale-ladac-pang/"
+     }
+    ],
+    "france": [
+     {
+      "titre": "Colère sociale : Macron et Lecornu lâchent du lest sans convaincre",
+      "resume": "Les concessions annoncées par l'exécutif, jugées insuffisantes (« des miettes »), n'ont pas calmé la contestation, rapporte La Libre le 27 octobre.",
+      "details": "De nouvelles mobilisations se profilent les 31 octobre et 5 novembre. Emmanuel Macron a reporté son déplacement au Nigeria et au Sénégal. Côté éducation, le gouvernement prévoit le remplacement de Parcoursup en 2028, un plafond de 28 élèves en seconde et 15 000 places supplémentaires dans le supérieur. Le ministre de l'Intérieur Laurent Nuñez promet un dispositif de sécurité conséquent pour le 31 octobre.",
+      "src": "La Libre",
+      "url": "https://www.lalibre.be/international/2026/10/27/face-a-la-colere-sociale-macron-et-lecornu-lachent-du-lest-sans-convaincre-ca-reste-des-miettes-5S23U53CLVEVBIRZERATVSGLT4/",
+      "une": true
+     }
+    ],
+    "grandest": [
+     {
+      "titre": "Strasbourg : feu vert à l'expulsion du campement Krimmeri-Meinau",
+      "resume": "Le tribunal administratif de Strasbourg a autorisé l'expulsion du campement installé au Krimmeri-Meinau, selon France 3 Grand Est (27 octobre).",
+      "details": "Par ailleurs, le parquet a ouvert une enquête sur les interpellations violentes survenues lors de la manifestation du 24 octobre dans la ville.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/"
+     },
+     {
+      "titre": "Strasbourg : un tilleul de 1929 sera abattu les 29 et 30 octobre",
+      "resume": "La Ville va abattre un tilleul de la place Saint-Étienne, attaqué aux racines par un champignon pathogène.",
+      "details": "Planté en 1929, l'arbre est jugé irrécupérable par la municipalité, pour qui l'abattage est « la seule décision possible » face à un arbre fortement agressé.",
+      "src": "France 3 Grand Est",
+      "url": "https://france3-regions.franceinfo.fr/grand-est/bas-rhin/strasbourg-0/un-tilleul-datant-de-1929-bientot-abattu-a-strasbourg-c-est-la-seule-decision-possible-quand-un-arbre-est-fortement-agresse-3439422.html"
+     }
+    ],
+    "jeuvideo": [
+     {
+      "titre": "Nintendo organise un Indie World ce 28 octobre à 15h",
+      "resume": "Nintendo a annoncé pour aujourd'hui une présentation d'environ 15 minutes consacrée aux jeux indépendants Switch 2 et Switch.",
+      "details": "Aucun détail sur les titres présentés, et pas de gros titre maison attendu comme le prochain Mario. Les sources divergent sur l'horaire (15h ou 16h, heure de Paris) : le plus sûr est la chaîne YouTube officielle de Nintendo, où un replay sera disponible.",
+      "src": "Switch-Actu",
+      "url": "https://www.switch-actu.fr/actualites/divers/un-nouveau-indie-world-annonce-pour-le-28-octobre-2026-a-15h00/"
+     }
+    ]
+   },
+   "culture": {
+    "sujet": "Tassili n'Ajjer, galerie d'art du Sahara vert",
+    "texte": "Au cœur du Sahara algérien, un plateau de grès abrite l'une des plus vastes galeries d'art préhistorique du monde. Le Tassili n'Ajjer compte plus de 15 000 peintures et gravures, réalisées à une époque où le Sahara était une savane peuplée de girafes, de bovidés et d'hippopotames. L'ethnologue Henri Lhote en a fait connaître les fresques au grand public lors d'une expédition en 1956-1957, en faisant copier des centaines de scènes. Le site est inscrit au patrimoine mondial de l'UNESCO depuis 1982. Les œuvres s'étalent sur des milliers d'années, des plus anciennes, estimées à environ 12 000 ans, jusqu'aux premiers siècles de notre ère."
+   }
+  },
   {
    "id": "2026-10-28-06",
    "label": "Point de 6h",
@@ -2150,55 +2215,6 @@
    "culture": {
     "sujet": "98 mots, 16 heures : le premier télégramme transatlantique",
     "texte": "Le 16 août 1858, la reine Victoria envoie au président américain James Buchanan un message de 98 mots par le tout premier câble télégraphique transatlantique. La transmission dure environ 16 heures, tant le signal est faible et lent après plus de 3 000 km d'immersion. Le câble, posé par les navires de l'Atlantic Telegraph Company, cesse de fonctionner début septembre 1858, soit quelques semaines seulement après son inauguration. Une tension excessive appliquée par l'électricien Wildman Whitehouse est la cause généralement avancée de sa destruction. Il faudra attendre 1866 pour qu'un câble durable relie durablement l'Europe à l'Amérique."
-   }
-  },
-  {
-   "id": "2026-10-18-12",
-   "label": "Point de 12h",
-   "date": "2026-10-18",
-   "hour": 12,
-   "tz": "+2",
-   "publishedAt": "2026-10-18T10:00:00Z",
-   "sections": {
-    "france": [
-     {
-      "titre": "Après le 17 octobre, Lecornu réunit une cellule de crise à 19h",
-      "resume": "Matignon a convoqué dimanche à 19h une cellule interministérielle de crise au lendemain des violences, et Laurent Nuñez est attendu à Marseille lundi.",
-      "details": "Le Premier ministre fait état de 1 200 interpellations et de 150 policiers et gendarmes blessés, et dénonce l'ultragauche. Emmanuel Macron promet que les auteurs de pillages seront poursuivis et punis. Les maires de Paris, Marseille et Lyon demandent à être reçus.",
-      "src": "CNews",
-      "url": "https://www.cnews.fr/france/2026-10-18/mobilisation-du-17-octobre-matignon-convoque-une-cellule-interministerielle-de",
-      "une": true
-     },
-     {
-      "titre": "Pillages : les commerçants réclament de l'aide, le gouvernement promet des sanctions",
-      "resume": "Au lendemain des manifestations contre la vie chère, les commerçants touchés par les pillages demandent un soutien pendant que l'exécutif promet des sanctions.",
-      "details": "Le Premier ministre veut aller au bout du projet de loi dit « casseurs-payeurs », dont l'examen au Sénat démarre le 27 octobre. La gauche critique la stratégie de maintien de l'ordre, la droite et le RN soutiennent les forces de l'ordre.",
-      "src": "Echos Plus",
-      "url": "https://echosplus.com/2026/10/18/manifestations-contre-la-vie-chere-apres-les-pillages-les-commercants-reclament-un-soutien-le-gouvernement-promet-des-sanctions/"
-     }
-    ],
-    "grandest": [
-     {
-      "titre": "Strasbourg, Metz, Mulhouse : bilan des heurts du 17 octobre",
-      "resume": "Les préfectures dressent un premier bilan des violences en marge des manifestations contre la vie chère.",
-      "details": "À Strasbourg, 16 interpellations et 11 blessés, dont un policier touché à la tête par un tir de type mortier. À Metz, quatre gardes à vue et deux membres des forces de l'ordre légèrement blessés. À Mulhouse, le maire dénonce des dégradations et une tentative d'intrusion à la mairie.",
-      "src": "InfoRadar",
-      "url": "https://inforadar.fr/violences-et-degats-lors-des-mobilisations-contre-la-vie-chere-a-strasbourg-et-metz"
-     }
-    ],
-    "occitanie": [
-     {
-      "titre": "Montpellier : 63 interpellations et 36 policiers blessés après la manifestation",
-      "resume": "La préfecture de l'Hérault annonce un lourd bilan après les incidents survenus en fin de cortège samedi.",
-      "details": "Environ 35 000 manifestants selon la préfecture. Une vingtaine de commerces ont été vandalisés et une ligne téléphonique a été ouverte pour les commerçants victimes de pillages. À Toulouse, le bilan atteignait 94 interpellations à 23h30, avec des magasins du centre pillés en soirée.",
-      "src": "France 3 Occitanie",
-      "url": "https://france3-regions.franceinfo.fr/occitanie/herault/montpellier/manifestation-du-17-octobre-63-personnes-interpellees-en-marge-du-cortege-et-36-policiers-blesses-a-montpellier-selon-la-prefecture-3435249.html"
-     }
-    ]
-   },
-   "culture": {
-    "sujet": "Le premier câble sous la Manche tenait une nuit",
-    "texte": "Le premier câble télégraphique sous la Manche, posé en août 1850 entre Douvres et Calais, n'a fonctionné qu'un jour environ. Les frères Brett avaient simplement isolé un fil de cuivre à la gutta-percha, sans armure, et la liaison a transmis ses premiers messages avant de s'interrompre. Selon la tradition, un pêcheur l'aurait coupé en le prenant pour une algue d'un genre rare. Les Brett retentent l'expérience en 1851 avec un câble de quatre conducteurs protégés par une armure de fils de fer. Cette seconde liaison ouvre au public à la fin de 1851 et relie durablement Londres à Paris. Elle est le point de départ du réseau de câbles sous-marins qui porte aujourd'hui l'essentiel du trafic internet mondial."
    }
   }
  ]
